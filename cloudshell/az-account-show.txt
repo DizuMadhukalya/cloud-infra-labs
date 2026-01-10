@@ -1,0 +1,15 @@
+{
+  "environmentName": "AzureCloud",
+  "homeTenantId": "dfa4af85-0f46-4217-87c3-e6c2a98489c6",
+  "id": "bb297fff-137a-4cc2-a49e-a503b0f4ddd3",
+  "isDefault": true,
+  "managedByTenants": [],
+  "name": "Azure subscription 1",
+  "state": "Enabled",
+  "tenantId": "dfa4af85-0f46-4217-87c3-e6c2a98489c6",
+  "user": {
+    "cloudShellID": true,
+    "name": "live.com#dmadhukalya@gmail.com",
+    "type": "user"
+  }
+}
