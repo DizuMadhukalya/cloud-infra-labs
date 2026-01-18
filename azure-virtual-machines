@@ -1,0 +1,71 @@
+## What is an Azure Virtual Machine
+
+- Infrastructure-as-a-Service (IaaS) offering providing on-demand, scalable compute resources
+- Virtualized server running in Azure datacenter with choice of OS (Windows/Linux)
+- Full control over OS, software, and configurations (unlike PaaS)
+- Pay-as-you-go pricing or reserved instances for cost savings
+- Supports custom images, extensions, and automated deployments
+
+## VM Sizes
+- VMs organized into series based on workload type:
+- General Purpose (B, D series)
+
+## Balanced CPU-to-memory ratio
+- Good for dev/test, small-medium databases, low-traffic web servers
+- Example: B2s, D2s_v5
+
+## Compute Optimized (F series)
+
+- High CPU-to-memory ratio
+- Ideal for web servers, application servers, batch processing
+- Example: F4s_v2
+
+## Memory Optimized (E, M series)
+
+- High memory-to-CPU ratio
+- For relational databases, in-memory analytics, large caches
+- Example: E8s_v5
+
+## Storage Optimized (L series)
+
+- High disk throughput and I/O
+- Big data, SQL/NoSQL databases, data warehousing
+- Example: L8s_v3
+
+## GPU (N series)
+
+- Graphics rendering and deep learning
+- AI/ML training, video encoding, gaming
+- Example: NC6s_v3
+
+## High Performance Compute (H series)
+
+- Fastest CPUs, optional high-throughput networking
+- Simulations, modeling, genomics research
+- Example: HB120rs_v3
+
+## Use Cases
+- Development & Testing
+
+## Quickly spin up/down environments without hardware investment
+- Test across different OS and configurations
+
+## Hosting Applications
+- Web applications, APIs, microservices
+- Legacy applications requiring specific OS versions
+
+## Disaster Recovery
+- Replicate on-premises VMs to Azure for failover scenarios
+- Cost-effective standby infrastructure
+
+## Database Hosting
+- SQL Server, Oracle, MySQL workloads requiring OS-level control
+- When Azure PaaS database services don't meet requirements
+
+## Batch Processing
+- Data processing jobs, ETL workloads
+- Scale up during processing, scale down when idle
+
+## Extend Datacenter
+- Hybrid cloud scenarios with Azure VPN/ExpressRoute
+- Burst capacity during peak demand periods
