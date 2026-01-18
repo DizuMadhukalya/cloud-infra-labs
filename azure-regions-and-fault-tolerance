@@ -1,0 +1,30 @@
+## Azure Region
+
+- Geographical area containing one or more datacenters connected via low-latency network
+- Each region is isolated from other regions for compliance and data residency
+- Allows you to deploy resources close to users for better performance
+- Examples: East US, West Europe, Southeast Asia
+
+## Paired Regions
+
+- Every Azure region is paired with another region within same geography (300+ miles apart)
+- Provides disaster recovery and business continuity
+- Updates are rolled out sequentially (one region at a time) to minimize downtime
+- Data replication options available between pairs
+- Example pairs: East US ↔ West US, North Europe ↔ West Europe
+
+## Availability Zones
+
+- Physically separate datacenters within an Azure region (minimum of 3 zones)
+- Each zone has independent power, cooling, and networking
+- Connected through high-speed private fiber networks
+- Protects apps and data from datacenter-level failures
+- Zone-redundant services replicate across zones automatically
+
+## Fault Tolerance Concept
+
+- System's ability to continue operating despite component failures
+- Achieved through redundancy at multiple levels: hardware, datacenter, region
+- Strategy: Deploy resources across availability zones (datacenter failure) and paired regions (regional disaster)
+- Ensures high availability (99.99%+ uptime SLAs possible)
+- Trade-off between cost and resilience level needed
