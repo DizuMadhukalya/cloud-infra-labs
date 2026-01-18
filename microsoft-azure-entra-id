@@ -1,0 +1,57 @@
+## Microsoft Azure Entra ID
+
+1) What is Microsoft Entra ID
+- Microsoft's cloud-based identity and access management service (formerly Azure Active Directory/Azure AD)
+- Manages user identities and controls access to apps, resources, and services
+- Not the same as Windows Server Active Directory (cloud vs on-premises)
+- Provides single sign-on (SSO) across Microsoft 365, Azure, and thousands of SaaS apps
+- Supports multi-factor authentication (MFA), conditional access, and identity protection
+- Key features: User management, app integration, B2B/B2C scenarios, hybrid identity with on-premises AD
+
+2) Authentication vs Authorization
+
+2.1) Authentication (AuthN)
+- What it is: Verifying WHO you are (proving identity)
+- Process: Username/password, MFA, biometrics, certificates
+- Question answered: "Are you really who you claim to be?"
+- Example: Logging into Azure portal with credentials and MFA code
+
+2.2) Authorization (AuthZ)
+- What it is: Determining WHAT you can access (permissions/rights)
+- Process: Happens after authentication, checks roles and permissions
+- Question answered: "What are you allowed to do?"
+- Example: After login, checking if you can create VMs or only read resources
+
+2.3) In Practice
+- User authenticates → Proves identity with password + MFA
+- System authorizes → Checks user's roles/permissions
+- Access granted/denied → Based on authorization policies
+
+3) Users, Groups, Roles
+
+3.1) Users
+- Individual identities representing people or service principals (apps)
+- Each user has unique attributes: email, name, department, job title
+- Types: Cloud-only users, synced users (from on-premises AD), guest users (B2B)
+- Can be assigned licenses, access rights, and group memberships
+
+3.2) Groups
+- Collections of users for easier management
+- Security groups: Control access to resources (assign permissions to group vs individual users)
+- Microsoft 365 groups: Collaboration with shared mailbox, calendar, files, SharePoint site
+- Dynamic groups: Membership based on rules (e.g., all users in Sales department)
+- Assigned groups: Manually add/remove members
+
+3.3) Roles
+- Define permissions and what actions users can perform
+- Azure AD roles: Manage Entra ID resources (Global Admin, User Admin, Password Admin)
+- Azure RBAC roles: Manage Azure resources (Owner, Contributor, Reader)
+- Custom roles: Create specific permission sets for unique requirements
+- Built-in vs Custom: Use built-in roles when possible, create custom for specific needs
+
+4) Best Practice Pattern
+  User → Member of Group → Group assigned Role → Role grants Permissions
+
+- Assign roles to groups, not individual users (easier management)
+- Use least privilege principle (minimum permissions needed)
+- Regular access reviews to remove unnecessary permissions
