@@ -1,0 +1,33 @@
+## What is a Resource Group
+
+- Logical container that holds related Azure resources (VMs, databases, storage, etc.)
+- All resources must belong to one and only one resource group
+- Acts as a management boundary for organizing and controlling resources
+- Resources in a group can be in different regions
+
+## Key Characteristics
+
+- Lifecycle management: Deleting a resource group deletes all resources within it
+- Access control: Apply RBAC (Role-Based Access Control) at the group level
+- Tagging and billing: Tag groups for cost tracking and organization
+- Deployment unit: Deploy multiple resources together using templates
+
+## Organization Best Practices
+
+- Group resources by lifecycle (dev, test, prod environments)
+- Group by application or project (all resources for one app together)
+- Group by department or cost center for billing
+- Cannot nest resource groups (flat structure only)
+
+## Important Concepts
+
+- Location metadata: Resource group has a location (stores metadata), but resources inside can be anywhere
+- Immutable assignment: Once created, a resource cannot be moved easily between groups (some resources support move)
+- Dependencies: Resources can reference resources in other groups
+- Locks: Apply delete or read-only locks to prevent accidental changes
+
+## Common Use Cases
+
+- Environment separation: RG-Dev, RG-Test, RG-Prod
+- Application isolation: RG-WebApp, RG-Database, RG-Monitoring
+- Cost management: Track spending per project or team
