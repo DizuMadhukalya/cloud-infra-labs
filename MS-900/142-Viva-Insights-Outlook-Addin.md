@@ -4,7 +4,7 @@ Viva Insights integrates into Outlook to provide real-time productivity suggesti
 
 ## Features
 - Inline focus time suggestions
-- Follow-up reminders
+- Timely Follow-up reminders
 - Meeting preparation insights
 
 ## Example
