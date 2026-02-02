@@ -23,4 +23,4 @@ AI suggests tasks from emails and meetings.
 User reduces unnecessary meetings after seeing analytics.
 
 ## Example
-Survey reveals recurring meeting has low effectiveness.
+Surveys reveal recurring meeting has low effectiveness.
