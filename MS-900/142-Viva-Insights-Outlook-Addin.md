@@ -8,4 +8,4 @@ Viva Insights integrates into Outlook to provide real-time productivity suggesti
 - Meeting preparation insights
 
 ## Example
-Outlook suggests booking focus time after detecting meeting-heavy day.
+Outlook suggests booking focus time after detecting a meeting-heavy day.
