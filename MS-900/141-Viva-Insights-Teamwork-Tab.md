@@ -1,9 +1,9 @@
 # Viva Insights — Teamwork Tab
 
-Provides visibility into collaboration patterns.
+Provides proper visibility into collaboration patterns.
 
 ## Insights
-- Response times
+- Response time
 - Collaboration hours
 - Network connections
 
