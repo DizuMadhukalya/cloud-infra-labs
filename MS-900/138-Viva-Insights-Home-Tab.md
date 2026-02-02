@@ -17,4 +17,4 @@ Provides guided practices, tips, and short learning content to improve productiv
 An employee sees a recommendation to block focus time after noticing too many meetings in the week.
 
 ## Example
-The dashboard shows the user completed 3 focus sessions this week compared to last week's 1 session.
+The dashboard shows the user completed 3 focus sessions this week compared to last week's 1 session(s).
