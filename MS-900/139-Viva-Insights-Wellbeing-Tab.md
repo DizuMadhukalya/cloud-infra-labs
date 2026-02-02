@@ -20,4 +20,4 @@ Prompts users to log how they feel to build emotional awareness.
 User notices excessive after-hours emails and sets quiet hours.
 
 ## Example
-Viva reminds user to take a break after long meeting streak.
+Viva reminds user to take a break after long meeting streaks.
