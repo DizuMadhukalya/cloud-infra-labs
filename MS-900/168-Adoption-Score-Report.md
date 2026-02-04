@@ -2,7 +2,7 @@
 
 
 
-Measures how effectively organization uses Microsoft 365.
+Measures how effectively an organization uses Microsoft 365 for its operations.
 
 
 
@@ -31,6 +31,4 @@ Measures how effectively organization uses Microsoft 365.
 \## Example
 
 Low score in meetings prompts training for Teams usage.
-
-
 
