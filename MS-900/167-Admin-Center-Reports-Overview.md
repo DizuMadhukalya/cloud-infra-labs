@@ -6,13 +6,11 @@ Reports provide usage, activity, and adoption insights.
 
 
 
-\## Types
+\## Types of reports
 
 \- Usage reports
 
 \- Adoption score
 
 \- Security reports
-
-
 
