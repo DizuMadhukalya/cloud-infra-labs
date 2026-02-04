@@ -6,7 +6,7 @@ Reports provide usage, activity, and adoption insights.
 
 
 
-\## Types of reports
+\## Types
 
 \- Usage reports
 
