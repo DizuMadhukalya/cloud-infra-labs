@@ -26,7 +26,7 @@ It provides a single interface to manage all Microsoft 365 services like Teams, 
 
 
 
-\## Use Case/s
+\## Use Case
 
 An admin creates users, assigns licenses, resets passwords, and monitors service health from one place.
 
@@ -35,6 +35,4 @@ An admin creates users, assigns licenses, resets passwords, and monitors service
 \## Example
 
 Admin checks Message Center for upcoming Teams feature changes.
-
-
 
