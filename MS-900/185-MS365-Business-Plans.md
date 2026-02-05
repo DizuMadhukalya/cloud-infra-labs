@@ -1,6 +1,6 @@
 # Microsoft 365 Business Plans
 
-## Plans
+## Available Plans
 - Business Basic
 - Business Standard
 - Business Premium
