@@ -1,19 +1,19 @@
 # How SSE Addresses Security Challenges
 
-## Identity-Based Access
+## 1. Identity-Based Access
 Access granted based on identity signals.
 
-## Continuous Monitoring
+## 2. Continuous Monitoring
 Access revoked if risk changes.
 
-## Micro-Segmentation
+## 3. Micro-Segmentation
 User only accesses specific apps.
 
-## Integrated Conditional Access
+## 4. Integrated Conditional Access
 Policies apply consistently across internet and private apps.
 
 ---
 
-Example:
+## Example:
 If user device becomes non-compliant mid-session:
 Access revoked immediately.
