@@ -4,7 +4,7 @@
 
 Microsoft Security Copilot integrates AI-powered analysis with Defender Threat Intelligence to help security teams investigate and respond to threats faster.
 
-It uses generative AI to analyze threat intelligence data and provide actionable insights.
+It makes use of generative AI to analyze threat intelligence data and provide actionable insights.
 
 ---
 
