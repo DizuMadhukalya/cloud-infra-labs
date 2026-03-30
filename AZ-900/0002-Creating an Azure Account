@@ -9,6 +9,6 @@ The process typically includes:
 
 Once created, users can immediately start provisioning resources such as virtual machines, storage accounts, and databases.
 
-In a real-world scenario, a developer working on a freelance project might create an Azure account to host a client’s website. They can deploy a Virtual Machine (VM) or use Azure App Service and configure domain hosting.
+In real-world scenarios, developers working on a freelance project might create an Azure account to host a client’s website. They can deploy a Virtual Machine (VM) or use Azure App Service and configure domain hosting.
 
 Similarly, a student working on a machine learning project can create an Azure account and use Azure Machine Learning services to train models without needing high-end hardware locally.
