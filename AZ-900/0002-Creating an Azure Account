@@ -1,0 +1,14 @@
+Creating an Azure account is a straightforward process that involves signing up through the Azure website using a Microsoft account. Users need to provide basic details such as email, phone number, and payment information for verification purposes.
+
+The process typically includes:
+
+1. Signing up with a Microsoft account.
+2. Verifying identity via OTP.
+3. Adding payment details (for verification, even for free accounts).
+4. Accessing the Azure Portal.
+
+Once created, users can immediately start provisioning resources such as virtual machines, storage accounts, and databases.
+
+In a real-world scenario, a developer working on a freelance project might create an Azure account to host a client’s website. They can deploy a Virtual Machine (VM) or use Azure App Service and configure domain hosting.
+
+Similarly, a student working on a machine learning project can create an Azure account and use Azure Machine Learning services to train models without needing high-end hardware locally.
