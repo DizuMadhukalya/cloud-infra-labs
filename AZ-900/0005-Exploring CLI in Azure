@@ -1,0 +1,9 @@
+The Command Line Interface (CLI) in Azure provides a powerful way to interact with Azure services using text-based commands instead of the graphical Azure Portal. Azure CLI is especially useful for automation, scripting, and managing resources efficiently.
+
+Azure CLI can be used across platforms like Windows, Linux, and macOS. It allows users to create, update, delete, and monitor resources directly from the terminal.
+
+For example, instead of manually creating a virtual machine via the portal, a DevOps engineer can use a single CLI command to deploy it. This is highly beneficial when deploying multiple environments like development, testing, and production.
+
+A real-life use case includes CI/CD pipelines where infrastructure needs to be provisioned automatically. Azure CLI commands can be embedded in scripts to create resources during deployment.
+
+Another example is managing large-scale cloud environments. Instead of navigating multiple dashboards, administrators can quickly retrieve information or modify configurations using CLI commands, saving time and reducing human error.
