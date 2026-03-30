@@ -1,0 +1,9 @@
+Azure PowerShell is a module that allows users to manage Azure resources using PowerShell commands (cmdlets). It is widely used by system administrators and Windows users for automation and scripting.
+
+PowerShell integrates deeply with Azure and provides structured commands that are easy to read and use. For example, creating a resource group or virtual machine can be done using simple cmdlets.
+
+A real-life use case is enterprise automation. For instance, an IT administrator can write a PowerShell script to automatically provision user environments, assign roles, and configure resources when a new employee joins.
+
+Another example is backup automation. PowerShell scripts can be scheduled to regularly back up data from Azure Storage or databases, ensuring business continuity.
+
+PowerShell is particularly powerful in Windows environments where administrators are already familiar with scripting and system management tasks.
