@@ -1,0 +1,11 @@
+BASH is a command-line shell commonly used in Linux environments, and it is fully supported by Azure CLI. Users can run Azure CLI commands within a BASH shell, making it ideal for Linux users and cloud-native developers.
+
+Azure Cloud Shell provides a browser-based BASH environment where users can execute commands without installing anything locally.
+
+For example, a developer working on a containerized application can use BASH scripts to deploy Docker containers to Azure Kubernetes Service (AKS).
+
+Another real-world use case is infrastructure automation using shell scripts. A DevOps engineer can write a BASH script that provisions virtual networks, subnets, and virtual machines in one go.
+
+BASH is also widely used in CI/CD pipelines (e.g., GitHub Actions, Azure DevOps) where scripts are executed automatically to build and deploy applications.
+
+Its flexibility and compatibility with Linux-based systems make it essential for modern cloud workflows.
