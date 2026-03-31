@@ -1,0 +1,11 @@
+A Development (Dev) subscription in Azure is used for building, testing, and experimenting with applications. It is typically used by developers and is separate from production environments.
+
+This separation ensures that development activities do not affect live applications.
+
+For example, developers can deploy new features, test APIs, and experiment with configurations in the Dev subscription without impacting users.
+
+A real-life use case is agile development. Teams continuously develop and test features in the Dev environment before promoting them to higher environments.
+
+Another example is learning and experimentation, where engineers can safely explore Azure services without risking production stability.
+
+Dev subscriptions are essential for maintaining a safe and controlled development workflow.
