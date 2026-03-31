@@ -1,0 +1,11 @@
+A Test subscription is used to validate applications before deploying them to production. It serves as a staging environment where applications are tested under conditions similar to production.
+
+For example, QA teams can perform functional testing, load testing, and security testing in the Test subscription.
+
+A real-life use case is release validation. Before launching a new feature, it is deployed in the Test environment to ensure it works correctly.
+
+Another example is performance testing, where applications are tested under heavy traffic to identify bottlenecks.
+
+Using a separate Test subscription ensures that testing activities do not interfere with development or production systems.
+
+This helps maintain software quality and reliability.
