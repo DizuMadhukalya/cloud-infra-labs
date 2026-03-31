@@ -1,0 +1,11 @@
+An Azure subscription is a logical container used to provision and manage Azure resources. It acts as a boundary for billing, access control, and resource management.
+
+Each subscription is linked to an Azure account and can contain multiple resource groups and resources.
+
+For example, a company may have separate subscriptions for different departments such as IT, finance, and development.
+
+A real-life use case is cost management. By separating subscriptions, organizations can track spending for each department independently.
+
+Another example is access control. Different teams can be granted permissions at the subscription level to ensure security and proper governance.
+
+Subscriptions are essential for organizing resources and managing costs effectively in Azure.
