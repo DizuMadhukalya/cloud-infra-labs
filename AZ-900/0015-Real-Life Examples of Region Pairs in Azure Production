@@ -1,0 +1,15 @@
+In real-world Azure production environments, region pairs are widely used to ensure business continuity and resilience.
+
+Examples of region pairs include:
+
+* East US paired with West US
+* North Europe paired with West Europe
+* Central India paired with South India
+
+For example, a global SaaS company might host its primary application in North Europe and replicate data to West Europe. If North Europe faces an outage, traffic is redirected to West Europe.
+
+Another real-life use case is a financial institution operating in India. It may deploy its primary services in Central India and maintain backups in South India to ensure compliance and availability.
+
+A streaming platform like Netflix uses multi-region deployments to serve users efficiently. If one region fails, another region takes over without disrupting the user experience.
+
+These examples highlight how region pairs are actively used in production systems to maintain uptime and reliability.
