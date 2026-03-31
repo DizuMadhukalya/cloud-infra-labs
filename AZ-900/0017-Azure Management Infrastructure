@@ -1,0 +1,11 @@
+Azure Management Infrastructure refers to the set of tools and services used to create, manage, monitor, and secure Azure resources. It includes components like Azure Portal, Azure CLI, Azure PowerShell, Azure Resource Manager (ARM), and Azure Monitor.
+
+Azure Resource Manager (ARM) is the core service that allows users to deploy and manage resources using templates and APIs.
+
+For example, an organization can use ARM templates to define infrastructure as code (IaC), enabling consistent and repeatable deployments.
+
+A real-life use case is DevOps automation. Teams can define their infrastructure in JSON templates and deploy it automatically using CI/CD pipelines.
+
+Another example is monitoring applications using Azure Monitor, where administrators can track performance metrics and set alerts for issues.
+
+This infrastructure provides centralized control, automation capabilities, and visibility into cloud resources.
