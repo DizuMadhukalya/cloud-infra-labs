@@ -1,0 +1,11 @@
+Billing in Azure subscriptions is based on resource usage such as compute hours, storage consumption, and network traffic. Each subscription generates its own billing report.
+
+Organizations can track costs using tools like Azure Cost Management and set budgets and alerts to control spending.
+
+For example, a company can allocate a monthly budget for its development subscription and receive alerts when usage approaches the limit.
+
+A real-life use case is cost optimization in startups. By monitoring billing data, startups can identify unused resources and shut them down to save money.
+
+Another example is enterprise financial reporting, where each department’s cloud usage is tracked separately for accountability.
+
+Effective billing management ensures financial discipline and avoids unexpected costs.
