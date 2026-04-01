@@ -1,0 +1,11 @@
+Azure allows users to access multiple subscriptions by assigning roles at the subscription or management group level using RBAC.
+
+For example, a cloud engineer can be given Contributor access to multiple subscriptions so they can manage resources across environments.
+
+A real-life use case is DevOps teams managing Dev, Test, and Prod subscriptions simultaneously.
+
+Another example is consultants working with multiple clients, where they are granted access to different subscriptions without sharing credentials.
+
+Access can be controlled centrally, ensuring security while allowing flexibility.
+
+This capability is essential for collaboration and efficient management of multi-subscription environments.
