@@ -1,0 +1,11 @@
+An access control boundary in Azure defines how permissions and roles are assigned to users, groups, or services to control who can access specific resources. This is primarily managed using Azure Role-Based Access Control (RBAC).
+
+RBAC allows administrators to assign roles such as Reader, Contributor, or Owner at different levels like management group, subscription, resource group, or individual resource.
+
+For example, a company can give developers “Contributor” access to a resource group so they can deploy applications, while restricting them from deleting critical infrastructure.
+
+A real-life use case is a banking organization where strict access policies are required. Only senior administrators may have full access to production environments, while junior engineers may have limited read-only permissions.
+
+Another example is a startup where founders may have full access, while interns only have access to development resources.
+
+Access control boundaries are essential for ensuring security, compliance, and controlled operations in Azure environments.
