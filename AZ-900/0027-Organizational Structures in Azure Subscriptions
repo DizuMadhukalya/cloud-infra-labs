@@ -1,0 +1,18 @@
+Organizational structure in Azure subscriptions defines how resources and subscriptions are arranged to reflect business needs. This includes grouping by departments, projects, or geographical regions.
+
+For example, a company can structure subscriptions like:
+
+* Finance Subscription
+* HR Subscription
+* IT Subscription
+
+Alternatively, they can structure based on projects:
+
+* Project A Subscription
+* Project B Subscription
+
+A real-life use case is a multinational corporation that organizes subscriptions by region (India, Europe, US) to manage resources and comply with local regulations.
+
+Another example is startups organizing subscriptions by product lines to track costs and performance independently.
+
+A well-designed structure improves governance, cost tracking, and resource management efficiency.
