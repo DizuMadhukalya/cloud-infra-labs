@@ -1,0 +1,14 @@
+Management groups themselves do not directly contain resources but organize subscriptions that contain resources. This indirect arrangement allows grouping of various resource types across subscriptions.
+
+For example, a management group may include subscriptions that contain:
+
+* Virtual machines
+* Databases
+* Storage accounts
+* Networking resources
+
+A real-life use case is a company managing multiple applications across subscriptions. All production-related subscriptions can be grouped under a “Production Management Group”.
+
+Another example is applying policies like restricting certain VM sizes across all subscriptions under a group.
+
+This structure allows organizations to manage diverse resources efficiently through hierarchical grouping.
