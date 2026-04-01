@@ -1,0 +1,12 @@
+Azure follows a hierarchical structure:
+Management Group → Subscription → Resource Group → Resources
+
+This hierarchy allows policies, access controls, and configurations to be inherited downwards.
+
+For example, if a policy is applied at the management group level, it automatically applies to all subscriptions and resource groups under it.
+
+A real-life use case is enforcing security policies across an organization. For instance, requiring encryption for all storage accounts can be applied at the top level.
+
+Another example is cost management, where budgets can be controlled at subscription or resource group levels.
+
+This hierarchical model ensures consistency, scalability, and easier management of cloud environments.
