@@ -1,0 +1,14 @@
+Creating a hierarchy in Azure involves organizing management groups, subscriptions, and resource groups in a way that allows policies to be applied efficiently.
+
+For example, an organization can:
+
+* Create a top-level management group
+* Add child management groups (e.g., Dev, Prod)
+* Assign subscriptions under each group
+* Apply policies at the parent level
+
+A real-life use case is enforcing compliance. A company can apply a policy that restricts resource creation to specific regions across all subscriptions.
+
+Another example is security enforcement, such as requiring multi-factor authentication or restricting public IP usage.
+
+By designing a proper hierarchy, organizations can ensure consistent policy enforcement without manual intervention.
