@@ -1,0 +1,14 @@
+Management groups have several important characteristics:
+
+* They support hierarchical organization
+* Policies and RBAC roles are inherited
+* Each directory can have a single root management group
+* Subscriptions can belong to only one management group
+
+For example, applying a policy at a parent management group automatically affects all child subscriptions.
+
+A real-life use case is enterprise governance where security policies must be enforced across all departments.
+
+Another example is compliance management in regulated industries, ensuring all resources meet specific standards.
+
+Understanding these facts helps in designing scalable and secure Azure environments.
