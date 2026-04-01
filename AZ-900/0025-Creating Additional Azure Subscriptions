@@ -1,0 +1,11 @@
+Creating additional Azure subscriptions allows organizations to separate workloads, manage costs, and apply different access controls across teams or projects.
+
+Users can create multiple subscriptions under a single Azure account through the Azure Portal, CLI, or PowerShell.
+
+For example, a company may create separate subscriptions for development, testing, and production environments to isolate workloads.
+
+A real-life use case is a large enterprise with multiple departments such as HR, Finance, and IT. Each department can have its own subscription to manage resources independently.
+
+Another example is cost tracking. Organizations can assign budgets to each subscription and monitor expenses separately, improving financial control.
+
+Creating multiple subscriptions helps in scaling operations while maintaining governance and cost efficiency.
