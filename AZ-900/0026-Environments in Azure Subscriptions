@@ -1,0 +1,15 @@
+Environments in Azure subscriptions refer to logical separations such as Development (Dev), Testing (Test), and Production (Prod) used to manage different stages of application lifecycle.
+
+Each environment can be hosted in separate subscriptions or within the same subscription using resource groups.
+
+For example:
+
+* Dev environment: used for building and experimenting
+* Test environment: used for validation and QA
+* Prod environment: used for live applications
+
+A real-life use case is a software company deploying new features. Developers first build features in Dev, testers validate in Test, and finally deploy to Prod.
+
+Another example is minimizing risk. If something breaks in Dev or Test, it does not impact production users.
+
+This structured approach ensures stability, better collaboration, and efficient deployment pipelines.
