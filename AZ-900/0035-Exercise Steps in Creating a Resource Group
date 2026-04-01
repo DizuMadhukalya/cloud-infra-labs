@@ -1,0 +1,19 @@
+Creating a resource group in Azure is a fundamental task for organizing and managing resources.
+
+Steps to create a resource group:
+
+1. Log in to the Azure Portal
+2. Navigate to “Resource Groups”
+3. Click on “Create”
+4. Select the subscription
+5. Enter a resource group name
+6. Choose a region
+7. Review and create
+
+For example, a developer creating a web application can create a resource group named “WebApp-RG” to store all related resources like VMs, databases, and storage.
+
+A real-life use case is project-based management. Each project can have its own resource group, making it easier to manage and delete resources when the project ends.
+
+Another example is testing environments where temporary resource groups can be created and deleted frequently.
+
+This exercise helps users understand practical resource organization in Azure.
