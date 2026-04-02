@@ -1,0 +1,17 @@
+Azure Role-Based Access Control (RBAC) is a system that manages access to Azure resources based on roles assigned to users, groups, or applications.
+
+Common roles include:
+
+* Owner: Full access
+* Contributor: Can manage resources but not grant access
+* Reader: View-only access
+
+RBAC can be applied at different scopes such as management group, subscription, resource group, or resource level.
+
+For example, a developer can be given Contributor access to a resource group but not to the entire subscription.
+
+A real-life use case is separating duties in an organization. Security teams may have read-only access, while DevOps teams manage deployments.
+
+Another example is multi-team collaboration where each team has controlled access to only their resources.
+
+RBAC ensures security, accountability, and least-privilege access.
