@@ -1,0 +1,15 @@
+Azure Advisor is a service that provides personalized recommendations to improve performance, security, reliability, and cost efficiency.
+
+It analyzes resource usage and suggests:
+
+* Cost-saving opportunities
+* Security improvements
+* Performance optimizations
+
+For example, Advisor may recommend shutting down underutilized virtual machines to reduce costs.
+
+A real-life use case is startups optimizing their cloud spending by following Advisor recommendations.
+
+Another example is improving system performance by resizing underpowered resources.
+
+Azure Advisor helps organizations continuously improve their cloud environment.
