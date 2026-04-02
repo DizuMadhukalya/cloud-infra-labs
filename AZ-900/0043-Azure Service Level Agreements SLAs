@@ -1,0 +1,14 @@
+Service Level Agreements (SLAs) define the expected uptime and availability of Azure services. They are expressed as a percentage, such as 99.9% uptime.
+
+Higher SLA percentages indicate better reliability.
+
+For example:
+
+* 99.9% uptime allows ~43 minutes of downtime per month
+* 99.99% uptime allows ~4 minutes of downtime per month
+
+A real-life use case is selecting services for critical applications. A banking system may require services with high SLAs to ensure minimal downtime.
+
+Another example is designing applications across availability zones to achieve higher SLAs.
+
+Understanding SLAs helps in designing reliable cloud solutions.
