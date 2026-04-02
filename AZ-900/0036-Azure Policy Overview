@@ -1,0 +1,15 @@
+Azure Policy is a governance service that allows organizations to create, assign, and manage rules that enforce compliance across Azure resources. It ensures that resources adhere to company standards and regulatory requirements.
+
+Policies can restrict actions such as:
+
+* Allowed regions for deployment
+* Allowed VM sizes
+* Mandatory tagging of resources
+
+For example, a company can create a policy that only allows resources to be created in the “Central India” region to meet data residency requirements.
+
+A real-life use case is compliance in financial institutions. Banks can enforce encryption policies on all storage accounts to meet regulatory standards.
+
+Another example is cost control, where organizations restrict expensive VM sizes to avoid unnecessary spending.
+
+Azure Policy helps maintain consistency, security, and governance across large environments.
