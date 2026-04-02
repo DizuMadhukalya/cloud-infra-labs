@@ -1,0 +1,12 @@
+Azure Resource Locks prevent accidental deletion or modification of critical resources. There are two types:
+
+* CanNotDelete (Delete lock)
+* ReadOnly lock
+
+For example, applying a delete lock on a production database ensures that no one can accidentally remove it.
+
+A real-life use case is protecting production environments. A company can apply locks on critical resources such as databases and virtual machines.
+
+Another example is preventing configuration changes in sensitive systems like healthcare or financial platforms.
+
+Locks act as an additional layer of protection beyond RBAC.
