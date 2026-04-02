@@ -1,0 +1,15 @@
+Azure Tags are key-value pairs used to organize and categorize resources for management, billing, and automation.
+
+Common tag examples:
+
+* Environment: Dev/Test/Prod
+* Owner: Team name
+* CostCenter: Department
+
+For example, tagging all production resources with “Environment=Prod” helps in filtering and managing them easily.
+
+A real-life use case is cost tracking. Organizations can generate cost reports based on tags to understand spending per department.
+
+Another example is automation, where scripts can identify and act on resources based on tags.
+
+Tags improve visibility, organization, and cost management.
