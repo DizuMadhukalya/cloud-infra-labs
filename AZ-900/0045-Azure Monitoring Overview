@@ -1,0 +1,15 @@
+Azure Monitoring provides tools to track performance, availability, and health of resources.
+
+Key components include:
+
+* Metrics
+* Logs
+* Alerts
+
+For example, monitoring CPU usage of a virtual machine helps identify performance issues.
+
+A real-life use case is detecting outages. Alerts can notify administrators when services go down.
+
+Another example is performance tuning, where monitoring data helps optimize applications.
+
+Monitoring is essential for maintaining system health and performance.
