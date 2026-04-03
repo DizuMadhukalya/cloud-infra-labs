@@ -1,0 +1,15 @@
+Azure Firewall is a managed network security service that protects Azure Virtual Network resources. It filters traffic based on rules and policies.
+
+Features include:
+
+* Stateful firewall capabilities
+* Application and network filtering
+* Threat intelligence integration
+
+For example, a company can allow only specific IP addresses to access its servers.
+
+A real-life use case is protecting internal applications from unauthorized access.
+
+Another example is securing APIs by restricting traffic to trusted sources.
+
+Azure Firewall ensures network-level security and prevents malicious access.
