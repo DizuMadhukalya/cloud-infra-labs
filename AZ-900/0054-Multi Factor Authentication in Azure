@@ -1,0 +1,15 @@
+Multi-Factor Authentication (MFA) adds an extra layer of security by requiring users to verify their identity using multiple methods.
+
+Common factors include:
+
+* Password
+* Mobile OTP
+* Biometric verification
+
+For example, a user logs in with a password and then confirms via a mobile app.
+
+A real-life use case is protecting corporate accounts from phishing attacks.
+
+Another example is securing financial transactions where additional verification is required.
+
+MFA significantly reduces the risk of unauthorized access.
