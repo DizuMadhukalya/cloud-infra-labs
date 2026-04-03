@@ -1,0 +1,11 @@
+Azure Log Analytics collects and analyzes log data from various resources. It provides deep insights into system behavior and performance.
+
+Users can run queries to analyze logs and detect issues.
+
+For example, administrators can analyze logs to identify failed login attempts or system errors.
+
+A real-life use case is security monitoring, where suspicious activities are detected through log analysis.
+
+Another example is troubleshooting application issues by analyzing logs.
+
+Log Analytics enables data-driven decision-making and advanced diagnostics.
