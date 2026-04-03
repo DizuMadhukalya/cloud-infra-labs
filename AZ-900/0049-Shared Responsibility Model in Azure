@@ -1,0 +1,21 @@
+The Shared Responsibility Model defines how security responsibilities are divided between Microsoft and the customer.
+
+Microsoft is responsible for:
+
+* Physical data centers
+* Network infrastructure
+* Hardware maintenance
+
+Customers are responsible for:
+
+* Data protection
+* Identity management
+* Application security
+
+For example, if a company deploys a virtual machine, Azure ensures the hardware is secure, but the company must update the operating system and secure applications.
+
+A real-life use case is a web application hosted on Azure. Microsoft secures the platform, but developers must ensure the application is free from vulnerabilities.
+
+Another example is compliance, where organizations must configure their environments to meet legal standards.
+
+This model helps clarify responsibilities and improve security practices.
