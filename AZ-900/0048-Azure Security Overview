@@ -1,0 +1,11 @@
+Azure Security refers to the set of tools, services, and practices used to protect data, applications, and infrastructure in the Azure cloud. Microsoft provides built-in security features at multiple levels including physical, network, identity, and application layers.
+
+Azure follows a shared responsibility model where Microsoft secures the cloud infrastructure, while users are responsible for securing their data and configurations.
+
+For example, Microsoft ensures the physical security of data centers, while users must configure firewalls and access controls.
+
+A real-life use case is an enterprise hosting sensitive customer data. They must implement encryption, access control, and monitoring to prevent breaches.
+
+Another example is startups deploying applications securely using Azure’s built-in tools like firewalls, DDoS protection, and identity services.
+
+Understanding Azure security is critical for protecting systems from cyber threats and ensuring compliance.
