@@ -1,0 +1,11 @@
+Azure Defender for Cloud is a security management tool that provides threat protection and security recommendations for Azure resources.
+
+It continuously monitors resources and identifies vulnerabilities.
+
+For example, it may detect that a virtual machine is missing critical security updates and recommend fixes.
+
+A real-life use case is a company monitoring its cloud infrastructure for threats. Defender for Cloud alerts administrators about suspicious activities.
+
+Another example is compliance monitoring, where organizations ensure their resources meet security standards.
+
+This service helps improve security posture and protect against cyber threats.
