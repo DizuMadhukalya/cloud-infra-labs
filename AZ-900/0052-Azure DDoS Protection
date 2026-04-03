@@ -1,0 +1,14 @@
+Azure DDoS Protection safeguards applications from Distributed Denial of Service (DDoS) attacks, which attempt to overwhelm systems with traffic.
+
+Azure provides:
+
+* Basic protection (default)
+* Standard protection (enhanced)
+
+For example, during a DDoS attack, Azure automatically detects and mitigates malicious traffic.
+
+A real-life use case is an e-commerce website during a sale event, where attackers may try to disrupt services.
+
+Another example is financial platforms that must remain accessible at all times.
+
+DDoS protection ensures availability and resilience against cyber attacks.
