@@ -1,0 +1,15 @@
+Azure Identity Services are used to manage user identities and access to resources. The primary service is Microsoft Entra ID (formerly Azure Active Directory).
+
+It provides:
+
+* User authentication
+* Single Sign-On (SSO)
+* Multi-Factor Authentication (MFA)
+
+For example, employees can log in once and access multiple applications without re-entering credentials.
+
+A real-life use case is corporate environments where employees access cloud applications securely.
+
+Another example is protecting accounts using MFA to prevent unauthorized access.
+
+Identity services are critical for securing access to cloud resources.
