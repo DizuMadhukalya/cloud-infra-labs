@@ -1,0 +1,9 @@
+Azure Alerts notify users when specific conditions are met, such as high CPU usage or service downtime. Action groups define how notifications are sent.
+
+For example, an alert can trigger an email or SMS when a server’s CPU usage exceeds 90%.
+
+A real-life use case is incident management. IT teams receive alerts and respond quickly to issues.
+
+Another example is automated scaling, where alerts trigger scripts to scale resources.
+
+Alerts ensure proactive monitoring and quick response to problems.
