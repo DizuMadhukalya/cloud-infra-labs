@@ -1,0 +1,11 @@
+Fault domains represent physical hardware groups (power, network, rack).
+
+If one fault domain fails, others remain unaffected.
+
+For example, VMs in different fault domains are protected from hardware failure.
+
+A real-life use case is preventing downtime due to hardware issues.
+
+Another example is critical services requiring redundancy.
+
+Fault domains ensure resilience and fault tolerance.
