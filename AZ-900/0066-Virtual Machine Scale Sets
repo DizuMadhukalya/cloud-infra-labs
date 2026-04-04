@@ -1,0 +1,11 @@
+VM Scale Sets allow automatic deployment and management of a group of identical VMs.
+
+They support auto-scaling based on demand.
+
+For example, a web app can automatically scale from 2 to 10 VMs during high traffic.
+
+A real-life use case is handling unpredictable workloads.
+
+Another example is microservices architectures requiring multiple instances.
+
+Scale sets ensure high availability and scalability.
