@@ -1,0 +1,11 @@
+Azure Virtual Machines are on-demand, scalable computing resources that allow users to run operating systems and applications.
+
+They support both Windows and Linux environments.
+
+For example, a company can host its application backend on a VM.
+
+A real-life use case is legacy application migration where apps cannot be containerized.
+
+Another example is development environments where engineers need full OS control.
+
+VMs provide flexibility and control in cloud computing.
