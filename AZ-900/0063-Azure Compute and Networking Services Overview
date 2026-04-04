@@ -1,0 +1,21 @@
+Azure compute services provide processing power, while networking services enable communication between resources.
+
+Compute services include:
+
+* Virtual Machines
+* App Services
+* Functions
+
+Networking services include:
+
+* Virtual Network (VNet)
+* Load Balancer
+* VPN Gateway
+
+For example, a web app runs on compute services and connects to databases via networking.
+
+A real-life use case is a multi-tier application where frontend, backend, and database are connected through secure networks.
+
+Another example is global applications using load balancers to distribute traffic.
+
+These services form the backbone of cloud infrastructure.
