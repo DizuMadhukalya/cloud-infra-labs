@@ -1,0 +1,14 @@
+Scaling VMs allows applications to handle varying workloads.
+
+Types:
+
+* Vertical scaling (increase CPU/RAM)
+* Horizontal scaling (add more VMs)
+
+For example, during high traffic, more VMs can be added.
+
+A real-life use case is e-commerce sales events with sudden traffic spikes.
+
+Another example is reducing resources during low usage to save costs.
+
+Scaling ensures performance and cost efficiency.
