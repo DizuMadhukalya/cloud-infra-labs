@@ -1,0 +1,23 @@
+Creating a Virtual Machine (VM) in Azure is one of the most fundamental tasks in cloud computing. It allows users to deploy and run applications on scalable infrastructure without managing physical hardware.
+
+Steps to create a VM:
+
+1. Log in to the Azure Portal
+2. Search for “Virtual Machines”
+3. Click on “Create” → “Azure Virtual Machine”
+4. Select Subscription and Resource Group
+5. Enter VM name
+6. Choose Region
+7. Select Image (e.g., Windows Server, Ubuntu)
+8. Choose VM size (CPU, RAM)
+9. Configure authentication (username/password or SSH key)
+10. Configure networking settings
+11. Review and create
+
+For example, a developer can create a Linux VM to host a web application.
+
+A real-life use case is a company hosting its backend services on VMs for full control over the operating system and configurations.
+
+Another example is testing environments where multiple VMs are created for QA testing.
+
+This exercise provides hands-on understanding of deploying compute resources in Azure.
