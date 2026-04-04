@@ -1,0 +1,14 @@
+Availability Sets ensure that VMs are distributed across multiple hardware groups to reduce downtime.
+
+They protect against:
+
+* Hardware failures
+* Planned maintenance
+
+For example, deploying two VMs in an availability set ensures one remains active during failures.
+
+A real-life use case is critical applications requiring uptime.
+
+Another example is enterprise systems needing redundancy.
+
+Availability sets improve reliability.
