@@ -1,0 +1,61 @@
+1. What is required before creating a VM?
+   a) Resource Group ✅
+   b) Policy
+   c) Blueprint
+   d) Tag
+
+2. Which setting defines VM location?
+   a) Region ✅
+   b) Zone
+   c) Domain
+   d) Cluster
+
+3. What is used for Linux authentication?
+   a) SSH Key ✅
+   b) PIN
+   c) Token
+   d) OTP
+
+4. Where can you verify resources?
+   a) Resource Group ✅
+   b) Policy
+   c) Billing
+   d) Advisor
+
+5. What happens when a resource group is deleted?
+   a) All resources are deleted ✅
+   b) Only VM deleted
+   c) Nothing happens
+   d) Data remains
+
+6. Which service provides VM status?
+   a) Azure Portal ✅
+   b) CLI only
+   c) Storage
+   d) Policy
+
+7. What affects VM cost?
+   a) Size ✅
+   b) Name
+   c) Tag
+   d) Policy
+
+8. What is used for Windows login?
+   a) Username & Password ✅
+   b) SSH
+   c) Token
+   d) API
+
+9. Which step ensures proper deployment?
+   a) Verification ✅
+   b) Tagging
+   c) Billing
+   d) Policy
+
+10. Why delete resource groups?
+    a) Cost saving ✅
+    b) Security
+    c) Scaling
+    d) Backup
+
+These MCQs help reinforce practical understanding of VM deployment exercises.
