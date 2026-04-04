@@ -1,0 +1,20 @@
+After creating resources in Azure, it is important to verify that they are correctly deployed and functioning as expected.
+
+Steps to verify resources:
+
+1. Go to Azure Portal
+2. Navigate to Resource Groups
+3. Select the resource group used
+4. Check the list of resources (VM, disk, network interface, etc.)
+5. Click on the VM
+6. Check status (Running/Stopped)
+7. Verify public IP and connectivity
+8. Attempt login (SSH/RDP)
+
+For example, after creating a VM, verifying ensures that it is accessible and properly configured.
+
+A real-life use case is production deployment validation, where engineers verify services before going live.
+
+Another example is troubleshooting deployment failures by checking resource status and logs.
+
+Verification ensures reliability and correctness of deployments.
