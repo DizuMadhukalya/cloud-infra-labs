@@ -1,0 +1,11 @@
+Update domains group VMs that are rebooted together during planned maintenance.
+
+Azure updates one update domain at a time.
+
+For example, if there are 5 update domains, only one group is updated while others remain running.
+
+A real-life use case is maintaining uptime during system updates.
+
+Another example is rolling updates in enterprise applications.
+
+Update domains ensure minimal disruption.
