@@ -1,0 +1,20 @@
+The Basics tab is the first and most important configuration step when creating a virtual machine in Azure. It defines core settings required for deployment.
+
+Key settings include:
+
+* Subscription: Billing and ownership scope
+* Resource Group: Logical container for the VM
+* VM Name: Unique identifier
+* Region: Location of deployment
+* Image: Operating system (Windows/Linux)
+* Size: Determines CPU, RAM, and cost
+* Authentication Type: Password or SSH key
+* Username: Admin account for login
+
+For example, choosing a smaller VM size reduces cost but may limit performance.
+
+A real-life use case is selecting the correct region for low latency. For users in India, choosing “Central India” ensures faster response.
+
+Another example is choosing Linux over Windows to reduce licensing costs.
+
+Understanding the Basics tab ensures proper configuration and cost optimization.
