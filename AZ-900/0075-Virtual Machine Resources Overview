@@ -1,0 +1,16 @@
+Virtual Machine resources define the computing capabilities and configuration of a VM.
+
+Key resources include:
+
+* CPU (processing power)
+* Memory (RAM)
+* Storage (disks)
+* Networking (connectivity)
+
+For example, a high-performance application requires more CPU and RAM.
+
+A real-life use case is selecting appropriate resources for a database server requiring high memory.
+
+Another example is lightweight applications running on smaller VM configurations to reduce cost.
+
+Understanding VM resources is crucial for performance optimization and cost efficiency.
