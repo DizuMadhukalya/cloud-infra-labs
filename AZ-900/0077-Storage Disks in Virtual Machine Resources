@@ -1,0 +1,17 @@
+Storage disks in Azure VMs are used to store operating systems, applications, and data.
+
+Types include:
+
+* OS Disk
+* Data Disk
+* Temporary Disk
+
+Azure also provides different performance tiers like Standard HDD, Standard SSD, and Premium SSD.
+
+For example, a database application may use Premium SSD for high performance.
+
+A real-life use case is storing large datasets for analytics.
+
+Another example is separating OS and data disks for better performance and management.
+
+Storage selection directly impacts application speed and reliability.
