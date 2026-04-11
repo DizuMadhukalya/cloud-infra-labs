@@ -1,0 +1,13 @@
+Migrating to the cloud using Virtual Machines is often the easiest approach, known as “lift-and-shift”.
+
+Existing on-premise applications can be moved to Azure VMs without major changes.
+
+For example, a company running a legacy application on physical servers can migrate it directly to a VM in Azure.
+
+A real-life use case is enterprises modernizing infrastructure without rewriting applications.
+
+Another example is quick migration during data center shutdowns.
+
+Tools like Azure Migrate help assess and move workloads efficiently.
+
+This approach reduces migration complexity and accelerates cloud adoption.
