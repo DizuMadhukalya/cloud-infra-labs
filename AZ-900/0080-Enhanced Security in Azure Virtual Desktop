@@ -1,0 +1,13 @@
+Azure Virtual Desktop provides enhanced security features such as:
+
+* Multi-Factor Authentication
+* Role-based access control
+* Data isolation
+
+For example, sensitive data remains in Azure instead of being stored on local devices.
+
+A real-life use case is financial institutions ensuring secure remote access.
+
+Another example is preventing data leakage in remote work setups.
+
+Security features make AVD suitable for sensitive workloads.
