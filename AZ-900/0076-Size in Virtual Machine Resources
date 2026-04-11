@@ -1,0 +1,15 @@
+VM size determines the amount of CPU, memory, and networking capacity allocated to a virtual machine.
+
+Azure offers various VM sizes such as:
+
+* General purpose
+* Compute optimized
+* Memory optimized
+
+For example, a small VM can be used for development, while a large VM is required for data processing.
+
+A real-life use case is scaling applications by choosing appropriate VM sizes based on workload.
+
+Another example is cost optimization by selecting smaller sizes for low-demand applications.
+
+Choosing the right size ensures performance efficiency and cost control.
