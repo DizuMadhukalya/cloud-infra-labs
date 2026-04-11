@@ -1,0 +1,9 @@
+Virtual Machines enable hybrid cloud scenarios where organizations extend their on-premises datacenter into the cloud.
+
+For example, a company can connect its local infrastructure to Azure using VPN or ExpressRoute and run additional workloads on Azure VMs.
+
+A real-life use case is handling peak demand. During high load, additional VMs can be deployed in Azure to handle traffic, a concept known as “cloud bursting”.
+
+Another example is backup infrastructure. Companies can replicate on-premise servers to Azure VMs for redundancy.
+
+This approach allows organizations to gradually transition to the cloud while maintaining existing systems.
