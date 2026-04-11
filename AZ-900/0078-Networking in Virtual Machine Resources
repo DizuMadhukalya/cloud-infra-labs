@@ -1,0 +1,16 @@
+Networking in Azure VMs enables communication between resources and external users.
+
+Key components include:
+
+* Virtual Network (VNet)
+* Subnets
+* Network Interface (NIC)
+* Public and Private IPs
+
+For example, a VM can be accessed via a public IP for remote login.
+
+A real-life use case is multi-tier applications where frontend and backend communicate within a VNet.
+
+Another example is securing VMs using private IPs and restricting public access.
+
+Networking ensures connectivity, security, and performance.
