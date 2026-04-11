@@ -1,0 +1,11 @@
+Azure Virtual Desktop supports multi-session Windows 10/11, allowing multiple users to share a single VM.
+
+This reduces cost and improves resource utilization.
+
+For example, multiple employees can use the same VM simultaneously.
+
+A real-life use case is call centers where many users access identical environments.
+
+Another example is training labs where students use shared desktops.
+
+Multi-session deployment optimizes cost and scalability.
