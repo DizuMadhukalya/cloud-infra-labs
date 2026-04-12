@@ -1,0 +1,11 @@
+Containers are used in modern solutions to build scalable, portable, and efficient applications.
+
+They enable microservices architecture where each component runs independently.
+
+For example, an application can have separate containers for frontend, backend, and database services.
+
+A real-life use case is CI/CD pipelines where containers ensure consistent environments across development and production.
+
+Another example is cloud-native applications designed to scale automatically.
+
+Containers improve flexibility, deployment speed, and reliability.
