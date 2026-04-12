@@ -1,0 +1,11 @@
+Azure Kubernetes Service (AKS) is a managed Kubernetes platform used to deploy, manage, and scale containerized applications.
+
+It automates container orchestration tasks such as scaling, load balancing, and self-healing.
+
+For example, AKS can automatically restart failed containers and distribute traffic across multiple instances.
+
+A real-life use case is large-scale applications like streaming platforms or e-commerce systems.
+
+Another example is enterprise microservices architectures requiring high scalability and reliability.
+
+AKS provides full control and flexibility for complex container workloads.
