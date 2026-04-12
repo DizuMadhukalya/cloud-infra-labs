@@ -1,0 +1,11 @@
+Azure Functions are a core part of serverless computing, where infrastructure management is abstracted away.
+
+Developers focus only on writing code while Azure handles scaling and execution.
+
+For example, a function automatically scales during high traffic and scales down when idle.
+
+A real-life use case is event-driven systems like processing messages from queues or handling API requests.
+
+Another example is automation tasks such as scheduled backups.
+
+Serverless computing improves efficiency, reduces costs, and accelerates development.
