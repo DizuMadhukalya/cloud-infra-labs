@@ -1,0 +1,11 @@
+Azure Functions can be stateless or stateful.
+
+Stateless functions do not retain data between executions, while stateful functions maintain state using external storage or durable functions.
+
+For example, a stateless function processes a request independently.
+
+A real-life use case for stateful functions is workflow automation where multiple steps depend on previous results.
+
+Another example is order processing systems tracking progress across stages.
+
+Understanding this distinction helps design efficient applications.
