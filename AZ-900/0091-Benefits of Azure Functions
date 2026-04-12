@@ -1,0 +1,13 @@
+Azure Functions provide several benefits:
+
+* No server management
+* Automatic scaling
+* Pay-per-use pricing
+
+For example, users only pay when the function runs, reducing costs.
+
+A real-life use case is event-driven applications like sending notifications.
+
+Another example is background processing tasks such as image resizing.
+
+These benefits make Azure Functions highly efficient and cost-effective.
