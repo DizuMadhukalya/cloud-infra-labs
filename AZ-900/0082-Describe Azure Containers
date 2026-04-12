@@ -1,0 +1,11 @@
+Azure Containers are lightweight, portable environments used to run applications and their dependencies consistently across different computing environments. They package everything needed to run an application, including code, runtime, libraries, and system tools.
+
+Azure provides multiple container services such as Azure Container Instances (ACI), Azure Container Apps, and Azure Kubernetes Service (AKS), each suited for different use cases.
+
+For example, a developer can package a web application into a container and run it on any Azure service without worrying about compatibility issues.
+
+A real-life use case is microservices architecture, where each service runs in its own container, making deployment and scaling easier.
+
+Another example is continuous deployment pipelines where containers ensure that applications behave the same in development, testing, and production.
+
+Azure containers enable faster deployment, consistency, and scalability.
