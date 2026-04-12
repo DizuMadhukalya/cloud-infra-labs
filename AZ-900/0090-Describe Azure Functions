@@ -1,0 +1,11 @@
+Azure Functions is a serverless compute service that allows users to run code without managing infrastructure.
+
+Functions are triggered by events such as HTTP requests, timers, or messages.
+
+For example, a function can process an uploaded file automatically when it is added to storage.
+
+A real-life use case is backend APIs that scale automatically based on demand.
+
+Another example is processing IoT data streams in real-time.
+
+Azure Functions enable efficient, event-driven application design.
