@@ -1,0 +1,11 @@
+Azure Container Instances (ACI) provide a fast and simple way to run containers without managing infrastructure.
+
+Users can deploy containers directly without worrying about orchestration or servers.
+
+For example, running a batch job or short-lived process using ACI is quick and efficient.
+
+A real-life use case is data processing tasks where containers run temporarily and shut down after completion.
+
+Another example is testing containerized applications without setting up a full cluster.
+
+ACI is ideal for simple, isolated workloads.
