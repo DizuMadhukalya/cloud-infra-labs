@@ -1,0 +1,18 @@
+Azure App Service is a Platform-as-a-Service (PaaS) offering that allows developers to build, deploy, and scale web applications and APIs without managing infrastructure.
+
+It supports multiple programming languages such as .NET, Java, Node.js, Python, and PHP.
+
+Key features include:
+
+* Automatic scaling
+* Built-in security
+* Continuous deployment support
+* Integration with GitHub and Azure DevOps
+
+For example, a developer can deploy a web application directly from GitHub with minimal configuration.
+
+A real-life use case is a business hosting its website and backend APIs using App Service for reliability and scalability.
+
+Another example is startups rapidly deploying applications without worrying about server management.
+
+App Service simplifies application hosting and accelerates development.
