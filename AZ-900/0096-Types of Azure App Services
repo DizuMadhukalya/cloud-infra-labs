@@ -1,0 +1,17 @@
+Azure App Service supports different types of applications:
+
+* Web Apps: Host websites and web applications
+* API Apps: Build and host RESTful APIs
+* WebJobs: Run background tasks or scripts
+* Mobile Apps: Backend services for mobile applications
+
+For example, a company can use Web Apps for its website, API Apps for backend services, and WebJobs for background processing.
+
+A real-life use case is an e-commerce platform where:
+
+* Web App handles frontend
+* API App manages backend logic
+* WebJobs process orders
+* Mobile App supports mobile users
+
+This flexibility allows building complete application ecosystems within Azure App Service.
