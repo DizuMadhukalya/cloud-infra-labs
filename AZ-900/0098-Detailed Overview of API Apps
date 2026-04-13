@@ -1,0 +1,15 @@
+Azure API Apps are designed to host RESTful APIs that can be consumed by web, mobile, or third-party applications.
+
+They support:
+
+* Authentication and authorization
+* Integration with other Azure services
+* Automatic scaling
+
+For example, an API App can handle user authentication, payment processing, or data retrieval.
+
+A real-life use case is a mobile application using API Apps to fetch user data from a backend server.
+
+Another example is integrating multiple systems through APIs in enterprise environments.
+
+API Apps enable secure and scalable backend services.
