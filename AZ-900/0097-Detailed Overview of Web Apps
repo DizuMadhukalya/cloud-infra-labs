@@ -1,0 +1,16 @@
+Azure Web Apps are used to host websites and web applications in a fully managed environment.
+
+They provide:
+
+* Automatic scaling
+* Built-in load balancing
+* SSL support
+* Continuous deployment
+
+For example, a company can deploy its corporate website using Azure Web Apps.
+
+A real-life use case is hosting dynamic web applications such as blogs, e-commerce platforms, or SaaS products.
+
+Another example is integrating Web Apps with databases like Azure SQL for data-driven applications.
+
+Web Apps eliminate the need for server management while ensuring high availability.
