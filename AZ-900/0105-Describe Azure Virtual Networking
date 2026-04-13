@@ -1,0 +1,16 @@
+Azure Virtual Networking (VNet) allows resources to communicate securely with each other, the internet, and on-premise networks.
+
+Key components include:
+
+* Virtual Networks
+* Subnets
+* IP addressing
+* Network Security Groups (NSGs)
+
+For example, a web server and database can communicate within a private VNet.
+
+A real-life use case is multi-tier applications where frontend and backend are isolated for security.
+
+Another example is hybrid cloud setups where on-premise networks connect to Azure VNets.
+
+Virtual networking ensures secure, scalable, and flexible communication.
