@@ -1,0 +1,9 @@
+A real-life example of API Apps is a ride-sharing application.
+
+The API handles requests such as booking rides, calculating fares, and tracking drivers.
+
+For example, when a user requests a ride, the mobile app communicates with the API App.
+
+Another example is payment gateways where APIs process transactions securely.
+
+API Apps enable seamless communication between frontend and backend systems.
