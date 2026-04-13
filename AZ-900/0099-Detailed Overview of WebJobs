@@ -1,0 +1,15 @@
+Azure WebJobs allow developers to run background tasks within an App Service environment.
+
+They can be:
+
+* Continuous
+* Scheduled
+* Triggered
+
+For example, a WebJob can process uploaded images or send email notifications.
+
+A real-life use case is batch processing tasks such as generating reports or cleaning up data.
+
+Another example is handling asynchronous tasks that should not block user requests.
+
+WebJobs enhance application functionality by offloading background work.
