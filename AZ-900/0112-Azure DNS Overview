@@ -1,0 +1,11 @@
+Azure DNS allows users to host and manage domain names using Azure infrastructure.
+
+It translates domain names into IP addresses.
+
+For example, a website like [www.example.com](http://www.example.com) is mapped to a server IP.
+
+A real-life use case is hosting domain records for applications deployed in Azure.
+
+Another example is managing DNS zones for global applications.
+
+Azure DNS ensures reliable and fast domain resolution.
