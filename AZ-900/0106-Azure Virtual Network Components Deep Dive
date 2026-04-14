@@ -1,0 +1,16 @@
+Azure Virtual Network (VNet) consists of several components that enable secure and structured communication between resources.
+
+Key components include:
+
+* Subnets: Divide a VNet into smaller segments
+* IP Addressing: Defines private IP ranges
+* Network Interfaces (NICs): Connect VMs to VNets
+* Route Tables: Control traffic routing
+
+For example, a company can create separate subnets for frontend, backend, and database layers.
+
+A real-life use case is a banking application where database servers are placed in a private subnet inaccessible from the internet.
+
+Another example is isolating environments (Dev/Test/Prod) within different subnets for security.
+
+Understanding VNet components helps design secure and scalable network architectures.
