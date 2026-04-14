@@ -1,0 +1,15 @@
+Azure Storage provides multiple security features to protect data.
+
+These include:
+
+* Encryption at rest and in transit
+* Shared Access Signatures (SAS)
+* Role-Based Access Control (RBAC)
+
+For example, data is automatically encrypted when stored in Azure.
+
+A real-life use case is secure data sharing using SAS tokens.
+
+Another example is restricting access to storage accounts using RBAC.
+
+Storage security ensures data confidentiality and compliance.
