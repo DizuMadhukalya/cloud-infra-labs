@@ -1,0 +1,15 @@
+Network Security Groups (NSGs) are used to filter network traffic in Azure VNets using security rules.
+
+They allow or deny traffic based on:
+
+* Source and destination IP
+* Port numbers
+* Protocols
+
+For example, an NSG can allow HTTP (port 80) traffic but block all other ports.
+
+A real-life use case is securing backend servers so they are only accessible from frontend servers.
+
+Another example is restricting SSH/RDP access to specific IP addresses for security.
+
+NSGs provide fine-grained control over network security.
