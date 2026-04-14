@@ -1,0 +1,14 @@
+Azure Load Balancer distributes incoming traffic across multiple resources to ensure high availability and reliability.
+
+It supports:
+
+* Public load balancing (internet-facing)
+* Internal load balancing (within VNet)
+
+For example, a web application can distribute user requests across multiple VMs.
+
+A real-life use case is an e-commerce website handling thousands of users simultaneously.
+
+Another example is ensuring application availability during server failures.
+
+Load balancing improves performance and fault tolerance.
