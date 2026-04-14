@@ -1,0 +1,14 @@
+Azure VPN Gateway enables secure communication between on-premise networks and Azure VNets using encrypted tunnels.
+
+Types include:
+
+* Site-to-Site VPN
+* Point-to-Site VPN
+
+For example, employees can securely access Azure resources from their office network.
+
+A real-life use case is hybrid cloud architecture where on-premise systems connect to Azure.
+
+Another example is remote employees accessing corporate resources securely.
+
+VPN Gateway ensures secure connectivity over the internet.
