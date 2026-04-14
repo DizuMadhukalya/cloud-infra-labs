@@ -1,0 +1,16 @@
+Azure Storage provides scalable and secure storage solutions for different data types.
+
+Types include:
+
+* Blob Storage (unstructured data)
+* File Storage (file shares)
+* Queue Storage (message queues)
+* Table Storage (NoSQL data)
+
+For example, images and videos can be stored in Blob Storage.
+
+A real-life use case is storing application data, backups, and logs.
+
+Another example is big data analytics where large datasets are stored and processed.
+
+Azure Storage is essential for data management in cloud applications.
