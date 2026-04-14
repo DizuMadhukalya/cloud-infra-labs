@@ -1,0 +1,11 @@
+Azure File Storage provides fully managed file shares in the cloud.
+
+It supports SMB and NFS protocols.
+
+For example, applications can access shared files just like a traditional file server.
+
+A real-life use case is migrating on-premise file servers to Azure.
+
+Another example is sharing files across multiple VMs.
+
+Azure File Storage simplifies file sharing in cloud environments.
