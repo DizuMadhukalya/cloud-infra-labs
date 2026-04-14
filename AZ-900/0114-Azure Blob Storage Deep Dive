@@ -1,0 +1,15 @@
+Azure Blob Storage is used to store unstructured data such as images, videos, and documents.
+
+It supports:
+
+* Hot, Cool, and Archive tiers
+* High scalability
+* Secure access
+
+For example, a media company can store video content in Blob Storage.
+
+A real-life use case is storing backups and logs.
+
+Another example is serving static content for websites.
+
+Blob Storage is optimized for large-scale data storage.
