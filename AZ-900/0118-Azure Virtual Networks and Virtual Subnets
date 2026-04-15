@@ -1,0 +1,15 @@
+Azure Virtual Networks (VNets) are the fundamental building block for networking in Azure. They allow resources such as virtual machines, databases, and applications to securely communicate with each other, the internet, and on-premise networks.
+
+Within a VNet, subnets are used to logically divide the network into smaller segments. Each subnet can have its own configuration, security rules, and routing policies.
+
+For example, a company can create separate subnets for web servers, application servers, and databases.
+
+A real-life use case is a multi-tier application where:
+
+* Frontend resides in one subnet
+* Backend services in another
+* Database in a highly secure subnet
+
+Another example is isolating development and production environments within the same VNet using different subnets.
+
+Subnets provide better organization, security, and control over network traffic.
