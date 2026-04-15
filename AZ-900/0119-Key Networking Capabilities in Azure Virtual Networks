@@ -1,0 +1,15 @@
+Azure Virtual Networks provide several key networking capabilities:
+
+* Isolation and segmentation
+* Internet communication
+* Communication between Azure resources
+* Hybrid connectivity with on-premise networks
+* Traffic routing and filtering
+
+For example, VNets allow secure communication between resources without exposing them to the public internet.
+
+A real-life use case is hosting a secure enterprise application where backend services are not accessible externally.
+
+Another example is connecting cloud resources to on-premise infrastructure using VPN or ExpressRoute.
+
+These capabilities make VNets highly flexible and powerful for designing secure cloud architectures.
