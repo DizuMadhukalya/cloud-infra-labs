@@ -1,0 +1,11 @@
+Azure VNets allow resources to communicate with the internet using public IP addresses, load balancers, or application gateways.
+
+Resources can either have direct internet access or be exposed through controlled endpoints.
+
+For example, a web server in a VNet can be assigned a public IP to serve users globally.
+
+A real-life use case is hosting a website accessible to users worldwide.
+
+Another example is restricting internet access for backend systems while allowing frontend services to communicate externally.
+
+Internet communication must be carefully managed to ensure security.
