@@ -1,0 +1,12 @@
+Isolation and segmentation are widely used in real-world systems.
+
+For example, in a banking system:
+
+* Customer-facing apps are in public subnets
+* Core banking systems are in private subnets
+
+Another example is a healthcare system where patient data is isolated from public services.
+
+A real-life use case is enterprises separating departments like HR, Finance, and IT into different network segments.
+
+These practices ensure security, compliance, and efficient management.
