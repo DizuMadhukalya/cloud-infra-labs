@@ -1,0 +1,15 @@
+Routing in Azure VNets determines how network traffic flows between resources.
+
+Azure provides:
+
+* System routes (default)
+* User-defined routes (custom)
+* BGP routes (for hybrid connectivity)
+
+For example, traffic can be routed through a firewall for inspection.
+
+A real-life use case is directing all outbound traffic through a security appliance.
+
+Another example is optimizing traffic flow between subnets for performance.
+
+Routing ensures efficient and secure data flow.
