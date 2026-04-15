@@ -1,0 +1,11 @@
+Azure allows multiple VNets to be connected using VNet Peering.
+
+This enables resources in different VNets to communicate securely.
+
+For example, a company can connect VNets across regions.
+
+A real-life use case is global applications where services are distributed across multiple regions.
+
+Another example is separating environments (Dev/Prod) in different VNets while allowing controlled communication.
+
+VNet connectivity improves scalability and flexibility.
