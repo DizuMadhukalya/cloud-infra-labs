@@ -1,0 +1,11 @@
+Isolation and segmentation in Azure VNets are achieved using subnets, Network Security Groups (NSGs), and routing rules.
+
+Isolation ensures that resources are protected from unauthorized access, while segmentation divides the network into logical sections.
+
+For example, a database can be placed in a private subnet with no internet access.
+
+A real-life use case is a financial system where sensitive data is isolated from public-facing services.
+
+Another example is separating development, testing, and production environments to avoid interference.
+
+Isolation and segmentation improve security, performance, and manageability.
