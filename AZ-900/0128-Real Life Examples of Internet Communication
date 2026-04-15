@@ -1,0 +1,11 @@
+Internet communication in Azure is critical for public-facing applications.
+
+For example, an e-commerce website allows users to access services via the internet.
+
+Another example is a streaming platform delivering content globally.
+
+A real-life use case is APIs exposed to external clients for integration.
+
+Another example is SaaS applications accessed by users worldwide.
+
+Proper configuration ensures performance and security.
