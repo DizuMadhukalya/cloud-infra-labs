@@ -1,0 +1,11 @@
+Network traffic filtering in Azure VNets is achieved using Network Security Groups (NSGs) and Azure Firewall.
+
+These tools allow administrators to define rules that permit or deny traffic.
+
+For example, only allowing HTTPS traffic to a web server.
+
+A real-life use case is blocking unauthorized access to sensitive systems.
+
+Another example is restricting internal communication between subnets.
+
+Filtering enhances security and prevents malicious access.
