@@ -1,0 +1,15 @@
+Azure Database Services provide managed database solutions that allow organizations to store, manage, and retrieve structured and unstructured data without managing infrastructure.
+
+Azure offers multiple database services such as:
+
+* Azure SQL Database (relational)
+* Azure Database for MySQL/PostgreSQL
+* Azure Cosmos DB (NoSQL)
+
+For example, a web application can store user data in Azure SQL Database.
+
+A real-life use case is an e-commerce platform storing product and customer information in relational databases.
+
+Another example is IoT systems storing large volumes of semi-structured data in NoSQL databases like Cosmos DB.
+
+These services provide scalability, high availability, and built-in security.
