@@ -1,0 +1,11 @@
+Azure Site Recovery (ASR) is a disaster recovery service that replicates workloads to Azure.
+
+It enables failover and failback during outages.
+
+For example, an application running on-premise can failover to Azure during a disaster.
+
+A real-life use case is business continuity planning.
+
+Another example is protecting critical systems from downtime.
+
+ASR ensures minimal disruption and quick recovery.
