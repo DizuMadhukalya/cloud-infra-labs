@@ -1,0 +1,15 @@
+Azure Backup is a cloud-based service used to back up data and protect against data loss.
+
+It supports:
+
+* VM backups
+* File backups
+* Database backups
+
+For example, a company can schedule daily backups of its virtual machines.
+
+A real-life use case is protecting business data from accidental deletion or ransomware attacks.
+
+Another example is long-term data retention for compliance.
+
+Azure Backup ensures data protection and recovery.
