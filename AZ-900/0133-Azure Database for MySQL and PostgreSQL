@@ -1,0 +1,15 @@
+Azure provides managed database services for open-source engines like MySQL and PostgreSQL.
+
+These services offer:
+
+* Automated maintenance
+* High availability
+* Scalability
+
+For example, a web application built using PHP can use MySQL as its backend.
+
+A real-life use case is startups using PostgreSQL for analytics and data processing.
+
+Another example is migrating existing applications from on-premise MySQL databases to Azure.
+
+These services provide flexibility for developers familiar with open-source databases.
