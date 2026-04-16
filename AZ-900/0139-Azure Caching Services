@@ -1,0 +1,11 @@
+Azure provides caching services like Azure Cache for Redis to improve application performance.
+
+It stores frequently accessed data in memory.
+
+For example, user session data can be cached to reduce database load.
+
+A real-life use case is e-commerce platforms caching product data.
+
+Another example is gaming applications storing session states.
+
+Caching reduces latency and improves responsiveness.
