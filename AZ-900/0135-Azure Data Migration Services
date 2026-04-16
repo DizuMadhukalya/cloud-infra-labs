@@ -1,0 +1,15 @@
+Azure Data Migration Service helps organizations move databases from on-premise or other cloud environments to Azure.
+
+It supports:
+
+* Minimal downtime migrations
+* Multiple database types
+* Online and offline migration
+
+For example, a company can migrate its SQL Server database to Azure SQL Database.
+
+A real-life use case is enterprises modernizing legacy systems.
+
+Another example is migrating large datasets with minimal disruption.
+
+This service simplifies cloud adoption.
