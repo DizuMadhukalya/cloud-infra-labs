@@ -1,0 +1,21 @@
+Relational databases store data in structured tables with predefined schemas, while non-relational (NoSQL) databases store data in flexible formats.
+
+Relational:
+
+* Structured data
+* SQL queries
+* Strong consistency
+
+Non-relational:
+
+* Flexible schema
+* High scalability
+* Supports diverse data types
+
+For example, banking systems use relational databases for transactions.
+
+A real-life use case is social media platforms using NoSQL databases for scalability.
+
+Another example is e-commerce platforms using both types for different purposes.
+
+Choosing the right database depends on application requirements.
