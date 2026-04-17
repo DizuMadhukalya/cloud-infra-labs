@@ -1,0 +1,15 @@
+Steps to access web server:
+
+1. Go to VM overview
+2. Copy public IP address
+3. Open browser
+4. Enter http://<public-ip>
+5. Verify Nginx welcome page
+
+For example, accessing a deployed web server from a browser.
+
+A real-life use case is testing deployed applications.
+
+Another example is verifying production deployments.
+
+This confirms successful installation and connectivity.
