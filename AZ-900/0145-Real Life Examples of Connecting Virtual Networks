@@ -1,0 +1,11 @@
+Connecting Virtual Networks is essential for building scalable and distributed architectures.
+
+For example, a global company may connect VNets across regions using VNet peering.
+
+A real-life use case is separating production and development environments into different VNets while allowing controlled communication.
+
+Another example is connecting VNets across departments for shared services like authentication or logging.
+
+Organizations also use hub-and-spoke architecture, where a central VNet provides shared services to multiple VNets.
+
+This approach improves scalability, security, and resource sharing.
