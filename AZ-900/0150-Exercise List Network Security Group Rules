@@ -1,0 +1,15 @@
+Steps to list NSG rules:
+
+1. Go to Azure Portal
+2. Search “Network Security Groups”
+3. Select NSG
+4. Click “Inbound security rules”
+5. View rules
+
+For example, checking allowed and blocked ports.
+
+A real-life use case is troubleshooting connectivity issues.
+
+Another example is auditing security configurations.
+
+This helps understand network access policies.
