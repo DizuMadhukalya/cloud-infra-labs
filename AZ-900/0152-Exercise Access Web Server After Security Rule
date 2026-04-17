@@ -1,0 +1,14 @@
+Steps:
+
+1. Ensure NSG rule allows port 80
+2. Open browser
+3. Enter VM public IP
+4. Verify web page loads
+
+For example, accessing web server after enabling HTTP.
+
+A real-life use case is validating security configurations.
+
+Another example is ensuring application availability.
+
+This confirms proper rule configuration.
