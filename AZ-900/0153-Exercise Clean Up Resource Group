@@ -1,0 +1,15 @@
+Steps:
+
+1. Go to Resource Groups
+2. Select group
+3. Click “Delete”
+4. Confirm name
+5. Delete
+
+For example, removing all resources after testing.
+
+A real-life use case is avoiding unnecessary cloud costs.
+
+Another example is cleaning temporary environments.
+
+Cleanup ensures efficient resource management.
