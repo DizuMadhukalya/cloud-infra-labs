@@ -1,0 +1,11 @@
+Filtering network traffic is critical for securing Azure environments.
+
+For example, an organization may allow only HTTPS traffic (port 443) to its web servers while blocking all other ports.
+
+A real-life use case is protecting backend databases by allowing access only from application servers.
+
+Another example is restricting administrative access (SSH/RDP) to specific IP addresses.
+
+Companies also use Azure Firewall to block malicious traffic and enforce policies.
+
+These practices help prevent unauthorized access and enhance overall security.
