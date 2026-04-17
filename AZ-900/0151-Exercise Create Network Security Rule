@@ -1,0 +1,17 @@
+Steps to create NSG rule:
+
+1. Open NSG
+2. Go to inbound rules
+3. Click “Add”
+4. Set port (e.g., 80 for HTTP)
+5. Set action “Allow”
+6. Assign priority
+7. Save
+
+For example, allowing HTTP traffic to access web server.
+
+A real-life use case is enabling application access.
+
+Another example is restricting traffic for security.
+
+This demonstrates traffic control.
