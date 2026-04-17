@@ -1,0 +1,23 @@
+Sequential steps to install Nginx using Custom Script Extension:
+
+1. Go to VM in Azure Portal
+2. Select “Extensions + Applications”
+3. Click “Add” → Custom Script Extension
+4. Provide script
+
+Example script:
+#!/bin/bash
+sudo apt update
+sudo apt install -y nginx
+sudo systemctl start nginx
+sudo systemctl enable nginx
+
+5. Apply and run extension
+
+Nginx is used as a web server to serve web pages.
+
+A real-life use case is hosting websites or APIs.
+
+Another example is using Nginx as a reverse proxy for applications.
+
+Custom Script Extension automates configuration tasks.
