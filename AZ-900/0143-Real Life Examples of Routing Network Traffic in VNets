@@ -1,0 +1,11 @@
+Routing network traffic in Azure VNets is essential for controlling how data flows between resources.
+
+For example, a company may route all outbound traffic through a firewall appliance for inspection.
+
+A real-life use case is enterprise security where all internet-bound traffic is inspected before leaving the network.
+
+Another example is directing traffic between subnets using custom routes for performance optimization.
+
+Organizations also use routing to send traffic through VPN gateways for secure communication with on-premises systems.
+
+These routing strategies ensure secure, efficient, and controlled network communication.
