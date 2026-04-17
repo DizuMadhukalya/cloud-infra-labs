@@ -1,0 +1,20 @@
+Sequential steps to create a Linux VM:
+
+1. Go to Azure Portal
+2. Select “Virtual Machines”
+3. Click “Create”
+4. Choose resource group
+5. Enter VM name
+6. Select Linux image (Ubuntu)
+7. Choose VM size
+8. Set authentication (SSH key/password)
+9. Configure networking
+10. Review and create
+
+For example, deploying an Ubuntu VM for hosting a web server.
+
+A real-life use case is developers creating environments for testing applications.
+
+Another example is hosting backend services on Linux servers.
+
+This exercise helps understand compute deployment.
