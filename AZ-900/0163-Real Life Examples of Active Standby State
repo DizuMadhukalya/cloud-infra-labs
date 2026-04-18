@@ -1,0 +1,9 @@
+Active/Standby is widely used in production systems.
+
+For example, a banking application maintains a standby server for failover.
+
+A real-life use case is disaster recovery in enterprises.
+
+Another example is backup systems in data centers.
+
+This ensures continuity during failures.
