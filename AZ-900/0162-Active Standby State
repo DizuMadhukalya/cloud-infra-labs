@@ -1,0 +1,11 @@
+In an Active/Standby configuration, one instance is active while the other remains idle until a failure occurs.
+
+The standby instance takes over when the active one fails.
+
+For example, a primary server handles traffic while a backup server waits for failover.
+
+A real-life use case is disaster recovery systems.
+
+Another example is database replication setups.
+
+This model ensures reliability but may underutilize resources.
