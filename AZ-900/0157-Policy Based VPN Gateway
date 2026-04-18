@@ -1,0 +1,11 @@
+Policy-based VPN Gateway uses predefined rules (policies) to determine how traffic is encrypted and routed.
+
+It relies on static configurations and does not dynamically adjust routes.
+
+For example, traffic between specific IP ranges is encrypted based on defined policies.
+
+A real-life use case is small organizations with simple network requirements.
+
+Another example is legacy systems that require static VPN configurations.
+
+Policy-based VPNs are easier to configure but less flexible compared to route-based VPNs.
