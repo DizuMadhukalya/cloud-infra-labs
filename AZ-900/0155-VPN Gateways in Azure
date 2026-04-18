@@ -1,0 +1,15 @@
+Azure VPN Gateway is a managed service that enables encrypted connections between Azure VNets and external networks.
+
+It acts as a bridge for secure communication and supports:
+
+* Site-to-Site connections
+* Point-to-Site connections
+* VNet-to-VNet connections
+
+For example, a VPN Gateway allows an organization to securely connect its data center to Azure.
+
+A real-life use case is enabling secure access to cloud resources from branch offices.
+
+Another example is connecting multiple Azure VNets across regions.
+
+VPN Gateway simplifies secure connectivity without managing complex infrastructure.
