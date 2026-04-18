@@ -1,0 +1,15 @@
+High Availability ensures that applications and services remain operational even during failures.
+
+Azure provides built-in redundancy through:
+
+* Availability Zones
+* Load balancing
+* Redundant gateways
+
+For example, deploying resources across multiple zones ensures uptime.
+
+A real-life use case is banking systems requiring continuous availability.
+
+Another example is e-commerce platforms handling high traffic without downtime.
+
+High availability is critical for mission-critical applications.
