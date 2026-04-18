@@ -1,0 +1,9 @@
+Active/Active setups are used in large-scale systems.
+
+For example, global applications run multiple servers across regions.
+
+A real-life use case is streaming services distributing load across servers.
+
+Another example is cloud-native applications using load balancers.
+
+This ensures high performance and fault tolerance.
