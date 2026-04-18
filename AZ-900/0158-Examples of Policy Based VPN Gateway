@@ -1,0 +1,9 @@
+Policy-based VPNs are commonly used in simpler setups.
+
+For example, a small business connects its office network to Azure using predefined IP ranges.
+
+A real-life use case is branch offices accessing centralized resources in Azure.
+
+Another example is legacy firewall systems that only support policy-based VPN configurations.
+
+These setups are straightforward but may not scale well for complex environments.
