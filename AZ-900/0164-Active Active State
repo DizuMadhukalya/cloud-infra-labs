@@ -1,0 +1,11 @@
+In an Active/Active configuration, multiple instances run simultaneously and share the load.
+
+If one instance fails, others continue handling traffic.
+
+For example, two servers process requests simultaneously.
+
+A real-life use case is high-traffic applications like streaming platforms.
+
+Another example is load-balanced web applications.
+
+This model maximizes resource utilization and availability.
