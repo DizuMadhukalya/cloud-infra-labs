@@ -1,0 +1,16 @@
+Azure Virtual Private Networks (VPNs) enable secure communication between Azure Virtual Networks and external networks such as on-premises datacenters or individual client devices over the public internet.
+
+These connections use encryption (IPsec/IKE) to ensure data confidentiality and integrity during transmission.
+
+Azure supports two primary VPN types:
+
+* Site-to-Site (S2S): Connects entire on-premises networks to Azure
+* Point-to-Site (P2S): Connects individual client devices to Azure
+
+For example, an organization can connect its office network to Azure so employees can access cloud-hosted applications securely.
+
+A real-life use case is remote workforce access, where employees connect to Azure resources from home using secure VPN connections.
+
+Another example is hybrid cloud architecture, where part of the infrastructure remains on-premises while other components run in Azure.
+
+Azure VPNs provide a cost-effective and secure connectivity solution.
