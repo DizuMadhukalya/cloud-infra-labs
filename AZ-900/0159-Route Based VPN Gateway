@@ -1,0 +1,11 @@
+Route-based VPN Gateway uses dynamic routing to direct traffic between networks.
+
+It supports protocols like BGP (Border Gateway Protocol) for automatic route updates.
+
+For example, traffic is routed based on routing tables instead of static policies.
+
+A real-life use case is large enterprises with complex network architectures.
+
+Another example is multi-site connectivity where routes change dynamically.
+
+Route-based VPNs provide flexibility, scalability, and advanced routing capabilities.
