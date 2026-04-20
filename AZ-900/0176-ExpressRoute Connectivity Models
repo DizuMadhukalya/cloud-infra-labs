@@ -1,0 +1,13 @@
+ExpressRoute supports different connectivity models:
+
+* CloudExchange colocation
+* Point-to-point Ethernet
+* Any-to-any connections
+
+For example, organizations can choose the model based on their infrastructure.
+
+A real-life use case is enterprises using colocation facilities.
+
+Another example is direct connections between offices and Azure.
+
+These models provide flexibility in connectivity.
