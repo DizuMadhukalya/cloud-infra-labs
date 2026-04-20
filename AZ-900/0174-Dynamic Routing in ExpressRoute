@@ -1,0 +1,11 @@
+ExpressRoute uses dynamic routing through BGP (Border Gateway Protocol) to exchange routing information.
+
+This allows automatic updates of routes between networks.
+
+For example, if a network path changes, routing updates automatically.
+
+A real-life use case is large enterprises with complex network topologies.
+
+Another example is multi-site connectivity where routes frequently change.
+
+Dynamic routing ensures flexibility and scalability.
