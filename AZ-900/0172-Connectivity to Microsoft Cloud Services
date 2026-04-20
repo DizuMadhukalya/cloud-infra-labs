@@ -1,0 +1,9 @@
+ExpressRoute provides connectivity not only to Azure but also to Microsoft services like Microsoft 365 and Dynamics 365.
+
+For example, organizations can access cloud applications securely without using the public internet.
+
+A real-life use case is enterprises accessing Microsoft 365 services with low latency.
+
+Another example is secure communication between business applications and cloud services.
+
+This connectivity improves performance and security.
