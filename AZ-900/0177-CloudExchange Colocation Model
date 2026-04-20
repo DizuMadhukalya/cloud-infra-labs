@@ -1,0 +1,11 @@
+CloudExchange colocation allows organizations to connect to Azure through a third-party exchange provider.
+
+This model uses shared infrastructure for connectivity.
+
+For example, companies colocate their servers in a facility that connects directly to Azure.
+
+A real-life use case is enterprises using Equinix data centers for connectivity.
+
+Another example is reducing latency by connecting through nearby exchange points.
+
+This model provides efficient and scalable connectivity options.
