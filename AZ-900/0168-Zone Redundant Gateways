@@ -1,0 +1,11 @@
+Zone-redundant gateways are deployed across multiple availability zones within a region to ensure high availability.
+
+These gateways automatically distribute traffic across zones, reducing the risk of failure due to a single zone outage.
+
+For example, a VPN or ExpressRoute gateway can be configured as zone-redundant.
+
+A real-life use case is enterprise networking where uptime is critical.
+
+Another example is applications requiring high availability across zones.
+
+Zone redundancy enhances resilience and fault tolerance.
