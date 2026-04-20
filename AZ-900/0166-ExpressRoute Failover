@@ -1,0 +1,11 @@
+ExpressRoute failover ensures continuity of network connectivity between on-premises infrastructure and Azure in case of circuit or path failure.
+
+ExpressRoute is designed with redundancy at multiple levels, including dual circuits and redundant connections at Microsoft edge locations. If one connection fails, traffic is automatically rerouted through the secondary path.
+
+For example, if a primary circuit between a company’s datacenter and Azure fails, the backup circuit takes over without interrupting services.
+
+A real-life use case is financial institutions that require uninterrupted connectivity for transaction processing.
+
+Another example is large enterprises running mission-critical workloads where downtime is unacceptable.
+
+Failover mechanisms in ExpressRoute ensure high availability and reliability of connectivity.
