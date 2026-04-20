@@ -1,0 +1,11 @@
+Azure ExpressRoute provides a private, dedicated connection between on-premises infrastructure and Microsoft cloud services.
+
+Unlike VPN, it does not use the public internet, resulting in higher security, reliability, and performance.
+
+For example, a company can connect its data center directly to Azure using ExpressRoute.
+
+A real-life use case is enterprises handling sensitive data such as financial transactions.
+
+Another example is large-scale data transfers requiring high bandwidth and low latency.
+
+ExpressRoute is ideal for mission-critical workloads.
