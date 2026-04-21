@@ -1,0 +1,16 @@
+Azure DNS is easy to manage using:
+
+* Azure Portal
+* CLI
+* PowerShell
+* REST APIs
+
+Users can quickly create and manage DNS records.
+
+For example, adding a new domain record takes only a few steps.
+
+A real-life use case is developers managing DNS for applications.
+
+Another example is automated deployments using scripts.
+
+Ease of use simplifies DNS management.
