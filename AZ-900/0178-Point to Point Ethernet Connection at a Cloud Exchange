@@ -1,0 +1,11 @@
+Point-to-point Ethernet connections at a cloud exchange provide a dedicated link between an organization’s network and Azure through a connectivity provider.
+
+This model establishes a private, high-speed connection without traversing the public internet.
+
+For example, a company can connect its data center directly to Azure using a dedicated Ethernet circuit provided by a cloud exchange partner like Equinix.
+
+A real-life use case is enterprises requiring predictable latency and high bandwidth for applications such as financial trading platforms.
+
+Another example is large-scale data migration where stable and fast connectivity is essential.
+
+Point-to-point connections offer secure, reliable, and consistent performance for enterprise workloads.
