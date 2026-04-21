@@ -1,0 +1,15 @@
+Alias records in Azure DNS allow mapping a domain name directly to Azure resources such as:
+
+* Public IP addresses
+* Azure App Services
+* Traffic Manager profiles
+
+Unlike traditional DNS records, alias records automatically update when the target resource changes.
+
+For example, an alias record can point a domain to a load balancer.
+
+A real-life use case is dynamic cloud environments where resources frequently change.
+
+Another example is simplifying DNS management for scalable applications.
+
+Alias records provide flexibility and automation in DNS management.
