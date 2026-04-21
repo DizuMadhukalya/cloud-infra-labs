@@ -1,0 +1,15 @@
+Azure DNS is built on a global network of DNS servers, ensuring high reliability and low latency.
+
+It uses:
+
+* Anycast routing
+* Global distribution
+* Redundant infrastructure
+
+For example, DNS queries are routed to the nearest server.
+
+A real-life use case is high-traffic websites requiring fast resolution.
+
+Another example is global applications ensuring consistent performance.
+
+Azure DNS provides enterprise-grade reliability.
