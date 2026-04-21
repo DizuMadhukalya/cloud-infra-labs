@@ -1,0 +1,15 @@
+Azure Content Delivery Network (CDN) handles requests by caching content at edge locations closer to users.
+
+When a user requests content:
+
+1. The request is routed to the nearest edge server
+2. If cached, content is served directly
+3. If not, it is fetched from the origin server
+
+For example, images on a website are delivered quickly using CDN.
+
+A real-life use case is streaming platforms delivering video content globally.
+
+Another example is reducing load on backend servers by caching frequently accessed data.
+
+CDN improves performance, scalability, and user experience.
