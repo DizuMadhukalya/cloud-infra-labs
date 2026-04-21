@@ -1,0 +1,11 @@
+Azure allows integration of private DNS zones with VNets, enabling internal name resolution.
+
+Resources can communicate using domain names instead of IP addresses.
+
+For example, a VM can access a database using a private domain name.
+
+A real-life use case is enterprise applications with internal services.
+
+Another example is microservices communicating within a VNet.
+
+Private domains improve manageability and security.
