@@ -1,0 +1,13 @@
+Azure DNS includes security features such as:
+
+* Role-Based Access Control (RBAC)
+* DNSSEC (Domain Name System Security Extensions)
+* Activity logging
+
+For example, DNSSEC protects against spoofing attacks.
+
+A real-life use case is securing domain records for financial applications.
+
+Another example is controlling access to DNS zones using RBAC.
+
+These features ensure secure domain management.
