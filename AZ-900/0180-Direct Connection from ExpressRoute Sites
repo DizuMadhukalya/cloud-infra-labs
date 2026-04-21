@@ -1,0 +1,11 @@
+Direct connection from ExpressRoute sites allows organizations to connect their on-premises infrastructure directly to Microsoft edge locations.
+
+This provides a private and dedicated connection with high reliability.
+
+For example, a company can establish a direct connection from its data center to an ExpressRoute location.
+
+A real-life use case is enterprises handling sensitive workloads requiring secure and low-latency connections.
+
+Another example is large-scale data transfers between on-premises systems and Azure.
+
+Direct connections ensure optimal performance and security.
