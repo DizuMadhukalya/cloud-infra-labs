@@ -1,0 +1,15 @@
+Azure Blob Storage stores unstructured data such as images, videos, and documents.
+
+It supports:
+
+* Block blobs
+* Append blobs
+* Page blobs
+
+For example, storing website images in blob storage.
+
+A real-life use case is media streaming platforms.
+
+Another example is backup storage.
+
+Blob storage is highly scalable and cost-effective.
