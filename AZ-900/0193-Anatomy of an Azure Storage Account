@@ -1,0 +1,16 @@
+The anatomy of a storage account includes:
+
+* Account name (unique)
+* Region
+* Performance tier (Standard/Premium)
+* Replication option
+* Access keys and endpoints
+
+For example, a storage account URL may look like:
+https://mystorageaccount.blob.core.windows.net
+
+A real-life use case is configuring storage based on performance and redundancy needs.
+
+Another example is accessing storage securely using keys or SAS tokens.
+
+Understanding structure helps in proper configuration.
