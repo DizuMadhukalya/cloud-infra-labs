@@ -1,0 +1,11 @@
+An Azure Storage Account is a container that holds all Azure storage services.
+
+It provides a unique namespace for data.
+
+For example, all blobs, files, queues, and tables are stored within a storage account.
+
+A real-life use case is organizing application data in a single account.
+
+Another example is managing access and billing for storage resources.
+
+Storage accounts simplify data management and access control.
