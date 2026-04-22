@@ -1,0 +1,16 @@
+Azure Storage Services provide scalable, durable, and secure storage solutions for different types of data.
+
+Key services include:
+
+* Blob Storage (unstructured data)
+* File Storage (shared file systems)
+* Queue Storage (message queues)
+* Table Storage (NoSQL structured data)
+
+For example, an application can store images in Blob Storage and logs in Table Storage.
+
+A real-life use case is an e-commerce platform storing product images and customer data.
+
+Another example is IoT systems storing sensor data.
+
+Azure Storage ensures high availability and durability.
