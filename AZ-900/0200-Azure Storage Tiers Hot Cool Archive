@@ -1,0 +1,13 @@
+Azure Storage tiers optimize cost based on data access frequency:
+
+* Hot: frequently accessed data
+* Cool: infrequently accessed data
+* Archive: rarely accessed data
+
+For example, active data stored in Hot tier.
+
+A real-life use case is backup data stored in Archive tier.
+
+Another example is logs stored in Cool tier.
+
+Tiering helps optimize storage costs.
