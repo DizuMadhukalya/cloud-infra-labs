@@ -1,0 +1,61 @@
+1. What does Azure DNS primarily do?
+   a) Store data
+   b) Resolve domain names to IP addresses ✅
+   c) Host applications
+   d) Manage VMs
+
+2. Which routing method improves DNS performance globally?
+   a) Static routing
+   b) Anycast routing ✅
+   c) BGP only
+   d) Manual routing
+
+3. What is DNSSEC used for?
+   a) Performance
+   b) Security against spoofing ✅
+   c) Backup
+   d) Monitoring
+
+4. Which Azure service integrates with DNS for load balancing?
+   a) Azure VM
+   b) Azure Traffic Manager ✅
+   c) Azure Storage
+   d) Azure Backup
+
+5. What type of record maps a domain to an IP address?
+   a) CNAME
+   b) A record ✅
+   c) TXT
+   d) MX
+
+6. What is an alias record used for?
+   a) Email routing
+   b) Mapping to Azure resources ✅
+   c) Logging
+   d) Backup
+
+7. Which feature ensures high availability in Azure DNS?
+   a) Single server
+   b) Global distribution ✅
+   c) Local cache
+   d) Static IP
+
+8. Where can Azure DNS be managed?
+   a) Azure Portal ✅
+   b) Only CLI
+   c) Only PowerShell
+   d) Not manageable
+
+9. What improves DNS query latency?
+   a) Local hosting
+   b) Global edge servers ✅
+   c) Static routes
+   d) Backup
+
+10. Which feature controls access to DNS resources?
+    a) Firewall
+    b) RBAC ✅
+    c) CDN
+    d) Storage
+
+These MCQs help reinforce Azure DNS concepts for exam preparation.
