@@ -1,0 +1,14 @@
+Azure Storage provides redundancy options:
+
+* LRS (Local)
+* ZRS (Zone)
+* GRS (Geo)
+* RA-GRS (Read-access geo)
+
+For example, GRS replicates data to another region.
+
+A real-life use case is disaster recovery planning.
+
+Another example is ensuring availability during outages.
+
+Redundancy ensures data durability and reliability.
