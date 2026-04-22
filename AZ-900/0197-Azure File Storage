@@ -1,0 +1,9 @@
+Azure File Storage provides managed file shares accessible via SMB/NFS.
+
+For example, multiple VMs can access shared files.
+
+A real-life use case is migrating on-premise file servers.
+
+Another example is shared application data.
+
+It simplifies file management in cloud environments.
