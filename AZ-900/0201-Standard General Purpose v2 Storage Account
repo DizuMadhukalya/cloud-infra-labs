@@ -1,0 +1,11 @@
+General-purpose v2 (GPv2) storage accounts are the default and recommended type.
+
+They support all storage services and features.
+
+For example, a single account can store blobs, files, queues, and tables.
+
+A real-life use case is modern applications requiring multiple storage types.
+
+Another example is cost optimization with tiering support.
+
+GPv2 provides flexibility, scalability, and advanced features.
