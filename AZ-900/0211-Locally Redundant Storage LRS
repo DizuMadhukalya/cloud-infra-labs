@@ -1,0 +1,11 @@
+LRS stores multiple copies of data within a single data center.
+
+It provides basic redundancy.
+
+For example, data is replicated three times locally.
+
+A real-life use case is non-critical data storage.
+
+Another example is development environments.
+
+LRS is cost-effective but limited to one location.
