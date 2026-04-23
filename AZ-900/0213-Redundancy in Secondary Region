@@ -1,0 +1,11 @@
+Secondary region redundancy replicates data to another geographic region.
+
+Options include GRS and RA-GRS.
+
+For example, data is copied to a paired region.
+
+A real-life use case is disaster recovery across regions.
+
+Another example is business continuity planning.
+
+This ensures data availability even during regional outages.
