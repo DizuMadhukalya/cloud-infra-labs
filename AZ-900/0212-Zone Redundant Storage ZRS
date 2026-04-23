@@ -1,0 +1,11 @@
+ZRS replicates data across multiple availability zones.
+
+This protects against zone failures.
+
+For example, data is stored in different physical locations within a region.
+
+A real-life use case is mission-critical applications.
+
+Another example is ensuring uptime during zone outages.
+
+ZRS provides higher availability than LRS.
