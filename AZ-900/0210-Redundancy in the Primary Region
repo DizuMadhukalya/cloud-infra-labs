@@ -1,0 +1,11 @@
+Primary region redundancy ensures data is replicated within the same region.
+
+This includes LRS and ZRS.
+
+For example, data is stored across multiple storage units.
+
+A real-life use case is protecting against hardware failure.
+
+Another example is ensuring uptime within a region.
+
+Primary redundancy ensures local resilience.
