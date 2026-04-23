@@ -1,0 +1,16 @@
+Azure Storage redundancy ensures data durability and availability by replicating data.
+
+Options include:
+
+* LRS
+* ZRS
+* GRS
+* RA-GRS
+
+For example, data is replicated across multiple locations.
+
+A real-life use case is disaster recovery planning.
+
+Another example is ensuring availability during outages.
+
+Redundancy protects against data loss.
