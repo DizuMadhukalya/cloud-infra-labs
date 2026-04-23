@@ -1,0 +1,16 @@
+Storage account endpoints are URLs used to access different storage services.
+
+Each storage account has a unique namespace.
+
+Examples:
+
+* Blob: https://account.blob.core.windows.net
+* File: https://account.file.core.windows.net
+
+For example, applications use these endpoints to access stored data.
+
+A real-life use case is web apps retrieving images from blob storage.
+
+Another example is APIs accessing file shares.
+
+Endpoints enable secure and structured access to storage services.
