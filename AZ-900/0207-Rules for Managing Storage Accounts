@@ -1,0 +1,15 @@
+Managing storage accounts involves following best practices:
+
+* Use naming conventions
+* Enable encryption
+* Apply RBAC
+* Monitor usage
+* Use lifecycle policies
+
+For example, applying lifecycle rules to move data to cooler tiers.
+
+A real-life use case is cost optimization by archiving old data.
+
+Another example is securing access using RBAC.
+
+Proper management ensures efficiency and security.
