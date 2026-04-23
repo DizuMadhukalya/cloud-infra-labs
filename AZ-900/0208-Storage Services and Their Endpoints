@@ -1,0 +1,14 @@
+Each storage service has a specific endpoint:
+
+* Blob: blob.core.windows.net
+* File: file.core.windows.net
+* Queue: queue.core.windows.net
+* Table: table.core.windows.net
+
+For example, applications use these endpoints to interact with services.
+
+A real-life use case is APIs accessing queue storage for messaging.
+
+Another example is web apps fetching data from blob storage.
+
+Understanding endpoints is crucial for integration.
