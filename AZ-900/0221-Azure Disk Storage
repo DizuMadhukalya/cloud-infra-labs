@@ -1,0 +1,15 @@
+Azure Disk Storage provides persistent storage for virtual machines.
+
+Types include:
+
+* OS disks
+* Data disks
+* Temporary disks
+
+For example, a VM’s operating system runs on a disk stored in Azure.
+
+A real-life use case is hosting databases on VM disks.
+
+Another example is enterprise applications requiring persistent storage.
+
+Disk storage ensures reliability and performance.
