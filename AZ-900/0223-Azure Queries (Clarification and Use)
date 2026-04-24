@@ -1,0 +1,11 @@
+Azure Queries typically refer to querying data stored in services like Table Storage or using Azure Data Explorer.
+
+Queries allow retrieving and analyzing data efficiently.
+
+For example, querying logs to identify errors.
+
+A real-life use case is monitoring application performance.
+
+Another example is analyzing business data for insights.
+
+Efficient querying enables data-driven decisions.
