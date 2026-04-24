@@ -1,0 +1,14 @@
+Geo-Zone Redundant Storage (GZRS) combines zone-level redundancy in the primary region with geo-replication to a secondary region.
+
+This means data is:
+
+* Replicated across availability zones in the primary region
+* Replicated to a secondary region
+
+For example, data is stored across multiple zones in Central India and also replicated to another region.
+
+A real-life use case is mission-critical applications like banking systems requiring maximum durability.
+
+Another example is global applications that cannot afford downtime.
+
+GZRS provides the highest level of redundancy in Azure Storage.
