@@ -1,0 +1,11 @@
+Read-Access Geo-Redundant Storage (RA-GRS) allows read access to data in the secondary region.
+
+This enables applications to access backup data even when the primary region is unavailable.
+
+For example, if the primary region fails, users can still read data from the secondary region.
+
+A real-life use case is global applications serving read-only data during outages.
+
+Another example is analytics systems reading replicated data without impacting primary workloads.
+
+RA-GRS improves availability and accessibility during failures.
