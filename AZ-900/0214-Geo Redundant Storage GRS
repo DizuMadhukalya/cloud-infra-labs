@@ -1,0 +1,11 @@
+Geo-Redundant Storage (GRS) replicates data from the primary region to a secondary region hundreds of miles away. Within each region, data is also replicated locally, ensuring multiple layers of protection.
+
+GRS works asynchronously, meaning there may be a slight delay between updates in the primary and secondary regions.
+
+For example, if data is stored in Central India, a copy is automatically replicated to a paired region like South India.
+
+A real-life use case is disaster recovery, where data remains safe even if an entire region goes down.
+
+Another example is enterprise backup systems where critical data must survive large-scale outages.
+
+GRS ensures high durability and protection against regional failures.
