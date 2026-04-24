@@ -1,0 +1,11 @@
+Azure File Storage provides managed file shares accessible via standard protocols.
+
+It allows multiple systems to access shared data.
+
+For example, applications can store shared configuration files.
+
+A real-life use case is migrating legacy file servers to the cloud.
+
+Another example is sharing data across multiple VMs.
+
+It simplifies file sharing in distributed systems.
