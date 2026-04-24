@@ -1,0 +1,11 @@
+Azure Queue Storage enables asynchronous communication between application components.
+
+It stores messages that can be processed later.
+
+For example, an order placed on a website is added to a queue for processing.
+
+A real-life use case is microservices architecture.
+
+Another example is background job processing.
+
+Queues improve scalability and decoupling.
