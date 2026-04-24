@@ -1,0 +1,15 @@
+Azure Blob Storage can be accessed using:
+
+* Azure Portal
+* CLI
+* SDKs
+* REST APIs
+* SAS tokens
+
+For example, a developer uploads files using SDKs.
+
+A real-life use case is web apps fetching images from blob storage.
+
+Another example is secure file sharing using SAS URLs.
+
+Access methods provide flexibility and security.
