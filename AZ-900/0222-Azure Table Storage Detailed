@@ -1,0 +1,11 @@
+Azure Table Storage is a NoSQL datastore for structured data.
+
+It uses key-value pairs for fast access.
+
+For example, storing user profile data.
+
+A real-life use case is logging and telemetry systems.
+
+Another example is applications requiring scalable structured storage.
+
+Table storage is flexible and efficient.
