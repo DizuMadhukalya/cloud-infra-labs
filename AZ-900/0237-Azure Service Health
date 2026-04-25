@@ -1,0 +1,15 @@
+Azure Service Health provides information about Azure service outages and maintenance.
+
+It includes:
+
+* Service issues
+* Planned maintenance
+* Health advisories
+
+For example, notifying users about regional outages.
+
+A real-life use case is planning for downtime.
+
+Another example is troubleshooting service disruptions.
+
+Service Health ensures awareness and preparedness.
