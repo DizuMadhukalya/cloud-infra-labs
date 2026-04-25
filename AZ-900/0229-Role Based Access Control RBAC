@@ -1,0 +1,15 @@
+Role-Based Access Control (RBAC) allows assigning permissions based on roles.
+
+Roles include:
+
+* Owner
+* Contributor
+* Reader
+
+For example, a developer may have contributor access while a manager has reader access.
+
+A real-life use case is controlling access to production environments.
+
+Another example is restricting sensitive operations to specific users.
+
+RBAC ensures least-privilege access.
