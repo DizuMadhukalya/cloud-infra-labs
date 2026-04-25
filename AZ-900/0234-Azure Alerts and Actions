@@ -1,0 +1,15 @@
+Azure Alerts notify users when specific conditions are met.
+
+Actions include:
+
+* Email notifications
+* SMS alerts
+* Automated responses
+
+For example, sending alerts when CPU usage exceeds threshold.
+
+A real-life use case is preventing downtime.
+
+Another example is automated scaling based on alerts.
+
+Alerts improve proactive monitoring.
