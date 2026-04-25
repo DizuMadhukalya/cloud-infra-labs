@@ -1,0 +1,14 @@
+Microsoft Entra ID provides core identity concepts:
+
+* Users: Individual identities
+* Groups: Collection of users
+* Service principals: Applications accessing resources
+* Tenants: Dedicated instance of Entra ID
+
+For example, users are grouped by departments for easier management.
+
+A real-life use case is granting access to applications based on group membership.
+
+Another example is applications using service principals to interact with Azure resources securely.
+
+These concepts form the foundation of identity management.
