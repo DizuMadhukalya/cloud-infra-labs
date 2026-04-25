@@ -1,0 +1,14 @@
+Azure supports multiple authentication methods:
+
+* Password-based authentication
+* Multi-Factor Authentication (MFA)
+* Biometric authentication
+* Token-based authentication
+
+For example, users may log in using password + OTP.
+
+A real-life use case is securing financial applications with MFA.
+
+Another example is passwordless login using biometrics.
+
+Strong authentication reduces security risks.
