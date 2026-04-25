@@ -1,0 +1,11 @@
+Azure Log Analytics is used to query and analyze logs collected by Azure Monitor.
+
+It uses Kusto Query Language (KQL).
+
+For example, analyzing application logs for errors.
+
+A real-life use case is troubleshooting system failures.
+
+Another example is auditing security events.
+
+Log Analytics enables deep insights into system behavior.
