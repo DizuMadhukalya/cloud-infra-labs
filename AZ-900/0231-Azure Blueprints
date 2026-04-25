@@ -1,0 +1,15 @@
+Azure Blueprints allow organizations to define repeatable sets of Azure resources and policies.
+
+They include:
+
+* Resource groups
+* Policies
+* RBAC assignments
+
+For example, deploying a standard environment for new projects.
+
+A real-life use case is enterprises maintaining consistent environments.
+
+Another example is onboarding new teams quickly.
+
+Blueprints simplify deployment and governance.
