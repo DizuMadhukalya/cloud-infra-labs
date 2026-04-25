@@ -1,0 +1,15 @@
+Azure Monitor collects and analyzes telemetry data from resources.
+
+It provides:
+
+* Metrics
+* Logs
+* Alerts
+
+For example, monitoring CPU usage of VMs.
+
+A real-life use case is detecting performance issues.
+
+Another example is alerting administrators during outages.
+
+Azure Monitor ensures system visibility and reliability.
