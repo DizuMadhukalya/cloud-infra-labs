@@ -1,0 +1,14 @@
+Blob Storage Access Tiers (Highest to Lowest Storage Cost):
+
+| Tier    | Storage Cost | Access Cost | Usage                    |
+| ------- | ------------ | ----------- | ------------------------ |
+| Hot     | Highest      | Lowest      | Frequently accessed data |
+| Cool    | Medium       | Medium      | Infrequent access        |
+| Cold    | Lower        | Higher      | Rare access              |
+| Archive | Lowest       | Highest     | Long-term storage        |
+
+For example, a company stores active data in Hot tier and archives old data.
+
+A real-life use case is tiered data lifecycle management.
+
+This table helps in selecting the right tier.
