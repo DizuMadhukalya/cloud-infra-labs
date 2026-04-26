@@ -1,0 +1,15 @@
+The Cool Access Tier is optimized for data that is accessed infrequently but still requires quick access when needed.
+
+Characteristics:
+
+* Lower storage cost than Hot
+* Higher access cost
+* Minimum retention period (usually 30 days)
+
+For example, monthly reports stored for occasional review.
+
+A real-life use case is backup files accessed only during recovery.
+
+Another example is logs that are reviewed occasionally.
+
+Cool tier balances cost and accessibility.
