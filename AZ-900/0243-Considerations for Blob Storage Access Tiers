@@ -1,0 +1,19 @@
+Choosing the right access tier depends on:
+
+* Frequency of access
+* Cost sensitivity
+* Data retention requirements
+* Performance needs
+
+For example:
+
+* Hot tier for active applications
+* Cool tier for backups
+* Cold tier for compliance data
+* Archive tier for long-term storage
+
+A real-life use case is a company storing recent data in Hot tier and older data in Archive tier.
+
+Another example is log management systems automatically moving data between tiers.
+
+Proper tier selection ensures cost optimization and efficiency.
