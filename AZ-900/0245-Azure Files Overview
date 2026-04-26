@@ -1,0 +1,11 @@
+Azure Files provides fully managed file shares accessible over SMB and NFS.
+
+It allows multiple systems to share files easily.
+
+For example, applications can store shared configuration files.
+
+A real-life use case is migrating traditional file servers to the cloud.
+
+Another example is shared storage for distributed applications.
+
+Azure Files simplifies file management in cloud environments.
