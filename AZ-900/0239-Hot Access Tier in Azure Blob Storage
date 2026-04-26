@@ -1,0 +1,15 @@
+The Hot Access Tier is designed for data that is frequently accessed and requires low latency.
+
+Characteristics:
+
+* Higher storage cost
+* Lower access cost
+* Immediate availability
+
+For example, a website serving images or videos to users stores content in the Hot tier.
+
+A real-life use case is active application data such as user uploads and frequently accessed documents.
+
+Another example is real-time analytics systems where data is continuously accessed.
+
+Hot tier ensures fast performance for frequently used data.
