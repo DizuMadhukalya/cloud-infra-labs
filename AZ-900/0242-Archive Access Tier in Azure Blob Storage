@@ -1,0 +1,15 @@
+The Archive Access Tier is the lowest-cost storage option for long-term data retention.
+
+Characteristics:
+
+* Very low storage cost
+* High retrieval cost
+* Data must be rehydrated before access
+
+For example, storing years of financial records for compliance.
+
+A real-life use case is legal document storage.
+
+Another example is historical data analysis.
+
+Archive tier is ideal for long-term storage with minimal access requirements.
