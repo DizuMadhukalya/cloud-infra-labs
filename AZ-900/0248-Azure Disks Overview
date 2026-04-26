@@ -1,0 +1,15 @@
+Azure Disks provide persistent storage for virtual machines.
+
+Types include:
+
+* Standard HDD
+* Standard SSD
+* Premium SSD
+
+For example, VMs use disks for OS and data storage.
+
+A real-life use case is hosting databases.
+
+Another example is enterprise applications requiring persistent storage.
+
+Disks ensure performance and durability.
