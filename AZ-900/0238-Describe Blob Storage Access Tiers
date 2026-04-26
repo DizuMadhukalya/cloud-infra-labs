@@ -1,0 +1,16 @@
+Azure Blob Storage provides multiple access tiers to optimize cost based on how frequently data is accessed. These tiers help balance storage cost and access performance.
+
+The main tiers are:
+
+* Hot Tier (frequent access)
+* Cool Tier (infrequent access)
+* Cold Tier (rare access, newer optimization tier)
+* Archive Tier (long-term storage, offline access)
+
+For example, frequently accessed application images are stored in the Hot tier, while backups are stored in Cool or Archive tiers.
+
+A real-life use case is an e-commerce platform storing product images in Hot tier and old order logs in Cool or Archive tiers.
+
+Another example is enterprises using Archive tier for compliance data retention.
+
+These tiers help organizations reduce storage costs while maintaining accessibility when needed.
