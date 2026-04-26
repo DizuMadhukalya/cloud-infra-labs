@@ -1,0 +1,15 @@
+The Cold Access Tier is designed for data that is rarely accessed but still needs to be available with relatively quick retrieval.
+
+Characteristics:
+
+* Lower storage cost than Cool
+* Higher access cost
+* Longer retention period
+
+For example, compliance data accessed once or twice a year.
+
+A real-life use case is audit logs stored for regulatory purposes.
+
+Another example is archived business records.
+
+Cold tier offers further cost savings for rarely accessed data.
