@@ -1,0 +1,14 @@
+Azure offers a variety of migration tools:
+
+* Azure Migrate
+* Azure Data Box
+* Azure Database Migration Service
+* AzCopy
+
+For example, Azure Migrate handles VM migrations, while Data Box is used for large-scale offline transfers.
+
+A real-life use case is migrating enterprise workloads from on-premise to Azure.
+
+Another example is transferring petabytes of data using physical devices.
+
+These tools provide flexibility for different migration needs.
