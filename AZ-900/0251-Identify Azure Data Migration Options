@@ -1,0 +1,18 @@
+Identifying the correct Azure data migration option involves evaluating:
+
+* Data size
+* Network speed
+* Downtime tolerance
+* Security requirements
+
+For example:
+
+* Use Azure Migrate for structured workloads
+* Use Azure Data Box for large datasets
+* Use AzCopy for file transfers
+
+A real-life use case is an enterprise deciding between online and offline migration strategies.
+
+Another example is selecting tools based on project deadlines.
+
+Proper identification ensures efficient and cost-effective migration.
