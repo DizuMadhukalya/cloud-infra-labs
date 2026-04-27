@@ -1,0 +1,13 @@
+Azure file movement tools include:
+
+* AzCopy
+* Azure Storage Explorer
+* Azure File Sync
+
+For example, AzCopy is used for command-line transfers.
+
+A real-life use case is developers uploading data to blob storage.
+
+Another example is syncing files across multiple locations.
+
+These tools simplify data movement.
