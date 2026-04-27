@@ -1,0 +1,15 @@
+AzCopy is a command-line utility used to transfer data to and from Azure Storage.
+
+Features include:
+
+* High-speed transfer
+* Resume capability
+* Secure authentication
+
+For example, uploading files to blob storage using CLI.
+
+A real-life use case is automating data transfers in DevOps pipelines.
+
+Another example is migrating large datasets efficiently.
+
+AzCopy is a powerful and efficient data transfer tool.
