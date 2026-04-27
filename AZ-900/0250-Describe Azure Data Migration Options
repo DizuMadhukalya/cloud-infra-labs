@@ -1,0 +1,15 @@
+Azure provides multiple data migration options to help organizations move data from on-premises environments or other cloud platforms into Azure efficiently and securely.
+
+These options include:
+
+* Online migration tools (over network)
+* Offline migration tools (physical devices)
+* Hybrid approaches
+
+For example, small datasets can be migrated over the internet, while large datasets may require offline transfer using physical devices.
+
+A real-life use case is a company migrating its on-premise database to Azure SQL Database.
+
+Another example is moving large backup archives to Azure Blob Storage.
+
+Choosing the right migration method depends on data size, network bandwidth, and time constraints.
