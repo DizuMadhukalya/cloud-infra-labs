@@ -1,0 +1,13 @@
+Azure Migrate integrates with multiple tools:
+
+* Azure Database Migration Service
+* Azure Site Recovery
+* Third-party tools
+
+For example, migrating databases using integrated services.
+
+A real-life use case is enterprises using multiple tools for different workloads.
+
+Another example is seamless migration workflows.
+
+Integration improves efficiency and flexibility.
