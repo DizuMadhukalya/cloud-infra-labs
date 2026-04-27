@@ -1,0 +1,14 @@
+Azure provides multiple file movement options:
+
+* AzCopy
+* Azure Storage Explorer
+* Data Box
+* Azure File Sync
+
+For example, small files can be moved using AzCopy.
+
+A real-life use case is transferring application data to Azure.
+
+Another example is syncing on-premise files with cloud storage.
+
+Choosing the right tool ensures efficient file transfer.
