@@ -1,0 +1,11 @@
+Azure Data Box is a physical device used to transfer large amounts of data to Azure.
+
+It is useful when network transfer is slow or impractical.
+
+For example, organizations can copy data onto the device and ship it to Microsoft.
+
+A real-life use case is migrating terabytes or petabytes of data.
+
+Another example is remote locations with limited internet connectivity.
+
+Data Box provides secure and efficient offline data transfer.
