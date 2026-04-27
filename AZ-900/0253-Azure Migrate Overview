@@ -1,0 +1,15 @@
+Azure Migrate is a centralized hub for assessing and migrating on-premises resources to Azure.
+
+It supports:
+
+* VM migration
+* Database migration
+* Application migration
+
+For example, organizations can discover on-premise servers and assess their readiness for migration.
+
+A real-life use case is enterprises modernizing their infrastructure.
+
+Another example is migrating workloads with minimal downtime.
+
+Azure Migrate simplifies and centralizes migration processes.
