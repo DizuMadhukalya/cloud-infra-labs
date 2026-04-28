@@ -1,0 +1,16 @@
+Azure Identity, Access, and Security services protect resources through authentication, authorization, and governance.
+
+Key services:
+
+* Microsoft Entra ID
+* RBAC
+* MFA
+* Conditional Access
+
+For example, restricting admin access using MFA.
+
+A real-life use case is enterprise identity governance.
+
+Another example is securing SaaS platforms.
+
+These services form the foundation of cloud security.
