@@ -1,0 +1,15 @@
+Azure IoT and Edge services connect, monitor, and manage devices while enabling local edge processing.
+
+Core services:
+
+* IoT Hub
+* IoT Central
+* IoT Edge
+
+For example, factory sensors sending telemetry to Azure.
+
+A real-life use case is predictive maintenance in manufacturing.
+
+Another example is autonomous vehicles processing edge data locally.
+
+Azure IoT and Edge support scalable connected ecosystems.
