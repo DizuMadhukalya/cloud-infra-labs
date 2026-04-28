@@ -1,0 +1,27 @@
+Azure offers services for Artificial Intelligence (AI), Machine Learning (ML), and IoT/Edge computing.
+
+AI Services:
+
+* Vision
+* Speech
+* Language
+
+ML Services:
+
+* Model training
+* Deployment
+* MLOps
+
+IoT/Edge Services:
+
+* IoT Hub
+* IoT Central
+* Azure IoT Edge
+
+For example, AI services can analyze images, ML can predict trends, and IoT can manage connected devices.
+
+A real-life use case is smart factories using IoT sensors and ML analytics.
+
+Another example is healthcare diagnostics using AI image recognition.
+
+These services enable intelligent, connected systems.
