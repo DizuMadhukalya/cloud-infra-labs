@@ -1,0 +1,61 @@
+1. Which Azure tool is primarily command-line based for storage transfer?
+   a) Storage Explorer
+   b) AzCopy ✅
+   c) Data Factory
+   d) Azure Portal
+
+2. Which tool provides a GUI for managing storage?
+   a) AzCopy
+   b) Storage Explorer ✅
+   c) VPN Gateway
+   d) ExpressRoute
+
+3. Which service syncs on-premise files with Azure?
+   a) Azure File Sync ✅
+   b) Blob Sync
+   c) Azure Migrate
+   d) Azure DNS
+
+4. Which tool is best for petabyte-scale offline transfer?
+   a) AzCopy
+   b) Azure Data Box ✅
+   c) Storage Explorer
+   d) Queue Storage
+
+5. What does Azure File Sync primarily do?
+   a) Encrypt files
+   b) Synchronize file shares ✅
+   c) Host websites
+   d) Manage identities
+
+6. Which tool supports drag-and-drop uploads?
+   a) Storage Explorer ✅
+   b) AzCopy
+   c) CLI only
+   d) NSG
+
+7. Which tool is ideal for DevOps automation?
+   a) Storage Explorer
+   b) AzCopy ✅
+   c) Azure DNS
+   d) RBAC
+
+8. Which option supports offline migration?
+   a) File Sync
+   b) Data Box ✅
+   c) Blob
+   d) Table
+
+9. Which service helps maintain local cache with cloud sync?
+   a) Azure File Sync ✅
+   b) Queue Storage
+   c) CDN
+   d) Blob Archive
+
+10. Which tool is best for visual multi-account management?
+    a) AzCopy
+    b) Storage Explorer ✅
+    c) Data Box
+    d) Azure Policy
+
+These MCQs reinforce understanding of Azure file movement tools and use cases.
