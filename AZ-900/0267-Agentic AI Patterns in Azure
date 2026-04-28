@@ -1,0 +1,15 @@
+Agentic AI refers to systems where AI agents can reason, plan, and act autonomously toward goals.
+
+In Azure, this can involve:
+
+* AI orchestration
+* Tool calling
+* Workflow automation
+
+For example, an AI assistant can analyze emails, schedule meetings, and trigger workflows.
+
+A real-life use case is enterprise automation assistants.
+
+Another example is autonomous customer support systems.
+
+Agentic AI extends beyond prediction into decision-making and action.
