@@ -1,0 +1,14 @@
+Microsoft Entra ID provides:
+
+* Authentication
+* Authorization
+* Single Sign-On
+* Identity governance
+
+For example, users sign in once and access multiple services.
+
+A real-life use case is enterprise workforce management.
+
+Another example is securing external customer applications.
+
+Entra ID centralizes and secures identity management.
