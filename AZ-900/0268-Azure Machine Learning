@@ -1,0 +1,15 @@
+Azure Machine Learning is a cloud platform for building, training, and deploying machine learning models.
+
+It supports:
+
+* Automated ML
+* Model deployment
+* Experiment tracking
+
+For example, predicting customer churn.
+
+A real-life use case is fraud detection.
+
+Another example is healthcare predictive analytics.
+
+Azure ML simplifies enterprise-grade machine learning workflows.
