@@ -1,0 +1,18 @@
+Azure Storage Explorer is a graphical desktop application that allows users to manage Azure Storage resources easily.
+
+It supports:
+
+* Blob containers
+* File shares
+* Queues
+* Tables
+
+Users can upload, download, manage, and monitor storage data without relying solely on command-line tools.
+
+For example, a developer can drag and drop files into Blob Storage directly from their desktop.
+
+A real-life use case is administrators managing storage accounts across multiple subscriptions.
+
+Another example is developers testing storage operations locally before production deployment.
+
+Storage Explorer simplifies storage management with a user-friendly interface.
