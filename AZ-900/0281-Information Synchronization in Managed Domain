@@ -1,0 +1,15 @@
+Information synchronization in managed domains ensures user identities, credentials, and group memberships from Entra ID are replicated into the managed domain.
+
+This allows:
+
+* Consistent credentials
+* Group policy use
+* Legacy compatibility
+
+For example, employees can use cloud identities for domain-joined VMs.
+
+A real-life use case is unified access management.
+
+Another example is cloud-hosted legacy applications.
+
+Synchronization ensures seamless identity continuity.
