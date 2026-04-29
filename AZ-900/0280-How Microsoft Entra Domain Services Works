@@ -1,0 +1,16 @@
+Microsoft Entra Domain Services creates a managed domain based on Entra ID identities.
+
+It automatically provides:
+
+* Domain join
+* Group Policy
+* LDAP
+* NTLM/Kerberos
+
+For example, virtual machines can join the managed domain without traditional domain controllers.
+
+A real-life use case is migrating traditional apps to Azure.
+
+Another example is supporting domain-dependent applications.
+
+This service reduces operational complexity.
