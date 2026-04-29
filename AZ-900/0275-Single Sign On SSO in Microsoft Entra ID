@@ -1,0 +1,15 @@
+Single Sign-On (SSO) in Microsoft Entra ID allows users to authenticate once and access multiple applications without repeatedly entering credentials.
+
+SSO improves:
+
+* User convenience
+* Security
+* Productivity
+
+For example, an employee signs in once and accesses Microsoft 365, Salesforce, and internal applications.
+
+A real-life use case is enterprises managing large software ecosystems.
+
+Another example is universities providing students access to multiple academic systems.
+
+SSO reduces password fatigue and simplifies identity management.
