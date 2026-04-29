@@ -1,0 +1,15 @@
+Azure supports multiple authentication methods for different security needs:
+
+* Passwords
+* MFA
+* Passwordless
+* Biometrics
+* Security keys
+
+For example, enterprises may use MFA for admins and passwordless for executives.
+
+A real-life use case is balancing usability and security.
+
+Another example is securing sensitive workloads.
+
+Azure authentication methods support flexible identity security.
