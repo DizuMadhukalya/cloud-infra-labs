@@ -1,0 +1,15 @@
+Organizations can connect on-premises Active Directory with Microsoft Entra ID using synchronization tools like Azure AD Connect.
+
+This enables:
+
+* Hybrid identity
+* Password hash sync
+* Pass-through authentication
+
+For example, employees use the same credentials for local and cloud resources.
+
+A real-life use case is enterprises transitioning gradually to cloud identity.
+
+Another example is maintaining legacy systems while adopting Microsoft 365.
+
+Hybrid identity ensures consistency and smooth migration.
