@@ -1,0 +1,11 @@
+Microsoft Entra Domain Services provides managed domain services such as domain join, group policy, LDAP, and Kerberos without deploying domain controllers.
+
+It is useful for legacy applications requiring traditional directory services.
+
+For example, older enterprise apps can use domain services in Azure.
+
+A real-life use case is lifting legacy workloads to the cloud.
+
+Another example is extending domain capabilities without infrastructure overhead.
+
+Entra Domain Services simplifies domain-based cloud deployments.
