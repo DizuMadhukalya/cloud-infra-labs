@@ -1,0 +1,16 @@
+Microsoft Entra ID authentication is the process of verifying user identity before granting access to applications, resources, or services.
+
+Microsoft Entra ID supports modern authentication through:
+
+* Passwords
+* Multi-Factor Authentication (MFA)
+* Passwordless authentication
+* Conditional Access
+
+For example, when an employee logs into a corporate portal, Entra ID verifies credentials and may require an additional authentication factor.
+
+A real-life use case is enterprises protecting access to internal resources such as HR systems or finance dashboards.
+
+Another example is SaaS applications using Entra ID for centralized authentication.
+
+Authentication in Entra ID strengthens security while enabling seamless access.
