@@ -1,0 +1,16 @@
+Device management in Microsoft Entra ID allows organizations to register, join, and secure devices.
+
+Features include:
+
+* Device registration
+* Azure AD Join
+* Hybrid Azure AD Join
+* Conditional Access policies
+
+For example, only compliant laptops may access company resources.
+
+A real-life use case is remote workforce management.
+
+Another example is educational institutions managing student devices.
+
+Device management enhances endpoint security and governance.
