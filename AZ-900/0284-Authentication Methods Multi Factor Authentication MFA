@@ -1,0 +1,14 @@
+Multi-Factor Authentication (MFA) requires two or more verification factors:
+
+* Password
+* OTP
+* Mobile app approval
+* Biometrics
+
+For example, logging in with password + phone notification.
+
+A real-life use case is banking or enterprise admin portals.
+
+Another example is remote employee access.
+
+MFA significantly improves security against credential theft.
