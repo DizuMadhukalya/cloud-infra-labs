@@ -1,0 +1,22 @@
+Traditional Multi-Factor Authentication (MFA) refers broadly to using multiple verification methods, such as passwords plus OTPs, across various platforms. Microsoft Entra ID MFA is Microsoft’s integrated MFA solution that combines authentication with Conditional Access, identity governance, and cloud-based policy enforcement.
+
+Traditional MFA:
+
+* Often app-specific
+* May lack centralized management
+* Separate integrations
+
+Microsoft Entra MFA:
+
+* Integrated with Microsoft ecosystem
+* Conditional Access support
+* Risk-based authentication
+* Centralized management
+
+For example, Entra MFA can require stronger authentication only when a user signs in from an unfamiliar location.
+
+A real-life use case is enterprises applying adaptive security policies for remote employees.
+
+Another example is reducing friction for low-risk logins while strengthening high-risk access attempts.
+
+Microsoft Entra MFA provides deeper cloud-native security than basic MFA alone.
