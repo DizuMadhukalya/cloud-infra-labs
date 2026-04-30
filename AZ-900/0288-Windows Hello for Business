@@ -1,0 +1,15 @@
+Windows Hello for Business is a passwordless authentication solution that uses biometrics or PINs tied to a trusted device.
+
+Features:
+
+* Facial recognition
+* Fingerprint scanning
+* PIN backed by hardware security
+
+For example, employees log in using facial recognition instead of passwords.
+
+A real-life use case is enterprises securing company laptops.
+
+Another example is remote workers using secure device-based login.
+
+Windows Hello for Business reduces password reliance while improving user convenience.
