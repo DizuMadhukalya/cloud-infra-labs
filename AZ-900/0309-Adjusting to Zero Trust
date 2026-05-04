@@ -1,0 +1,15 @@
+Adopting Zero Trust requires organizational and technical changes:
+
+* Strong identity controls
+* MFA
+* Conditional Access
+* Device compliance
+* Continuous monitoring
+
+For example, replacing broad VPN trust with identity-based controls.
+
+A real-life use case is enterprises modernizing legacy security.
+
+Another example is securing remote workforces.
+
+Adjusting to Zero Trust is an ongoing strategy that improves security maturity.
