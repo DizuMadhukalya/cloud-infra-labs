@@ -1,0 +1,31 @@
+Conditional Access follows a signal-to-enforcement model:
+
+Signal Sources:
+
+* User identity
+* Location
+* Device state
+* App sensitivity
+* Sign-in risk
+
+Decision Layer:
+
+* Policy evaluation
+
+Enforcement:
+
+* Allow
+* Require MFA
+* Block
+* Limit session
+
+Diagram:
+Signal → Policy Evaluation → Enforcement Decision
+
+For example, an unmanaged device from a risky country triggers MFA or access denial.
+
+A real-life use case is protecting enterprise SaaS platforms.
+
+Another example is securing privileged cloud administration.
+
+This model enables dynamic, context-aware access security.
