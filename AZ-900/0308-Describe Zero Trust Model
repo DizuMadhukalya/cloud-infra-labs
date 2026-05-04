@@ -1,0 +1,22 @@
+Zero Trust is a security model based on three principles:
+
+1. Verify explicitly
+2. Use least privilege access
+3. Assume breach
+
+Verify explicitly:
+Always authenticate and authorize based on all signals.
+
+Least privilege:
+Grant only necessary access.
+
+Assume breach:
+Design as if attackers may already exist inside.
+
+For example, even internal employees may require MFA for sensitive systems.
+
+A real-life use case is modern enterprise cybersecurity.
+
+Another example is protecting hybrid cloud infrastructures.
+
+Zero Trust minimizes trust assumptions and strengthens resilience.
