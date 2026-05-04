@@ -1,0 +1,15 @@
+RBAC enforcement occurs whenever a user or service attempts an action.
+
+Azure checks:
+
+* Identity
+* Assigned role
+* Scope
+
+For example, a Reader cannot delete resources.
+
+A real-life use case is preventing accidental production deletion.
+
+Another example is securing privileged admin tasks.
+
+RBAC enforcement ensures policy adherence and operational safety.
