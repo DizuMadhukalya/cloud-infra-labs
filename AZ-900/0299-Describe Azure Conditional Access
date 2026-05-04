@@ -1,0 +1,17 @@
+Azure Conditional Access is a policy-based security framework in Microsoft Entra ID that controls access based on specific conditions.
+
+Conditional Access evaluates:
+
+* User identity
+* Device compliance
+* Location
+* Application sensitivity
+* Risk signals
+
+For example, if a login attempt comes from an unfamiliar country, Azure may require MFA or block access.
+
+A real-life use case is remote workforce security.
+
+Another example is restricting financial application access to managed devices only.
+
+Conditional Access helps organizations enforce adaptive security policies.
