@@ -1,0 +1,14 @@
+RBAC is applied by assigning roles at specific scopes:
+
+* Management group
+* Subscription
+* Resource group
+* Individual resource
+
+For example, assigning Contributor role to a DevOps team at a resource group level.
+
+A real-life use case is department-based access segmentation.
+
+Another example is granting auditors Reader access only.
+
+RBAC assignments control access precisely.
