@@ -1,0 +1,16 @@
+Managing guest access over time is essential to maintaining security when external users collaborate with an organization.
+
+Microsoft Entra ID provides lifecycle management capabilities such as:
+
+* Access reviews
+* Expiration policies
+* Guest user removal
+* Conditional Access for guests
+
+For example, a consultant invited for a 3-month project can automatically lose access after project completion.
+
+A real-life use case is enterprises working with temporary contractors or vendors.
+
+Another example is universities granting temporary access to visiting researchers.
+
+Managing guest access over time prevents unnecessary permissions, reduces security risk, and supports governance.
