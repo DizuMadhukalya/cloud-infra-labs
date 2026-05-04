@@ -1,0 +1,21 @@
+Azure Role-Based Access Control (RBAC) manages who can perform actions on Azure resources.
+
+Core components:
+
+* Security principal (user/app/group)
+* Role definition
+* Scope
+
+Examples of roles:
+
+* Owner
+* Contributor
+* Reader
+
+For example, a finance manager may only view billing data while engineers deploy resources.
+
+A real-life use case is enforcing least privilege.
+
+Another example is separating Dev, Test, and Production permissions.
+
+RBAC ensures secure and organized resource governance.
