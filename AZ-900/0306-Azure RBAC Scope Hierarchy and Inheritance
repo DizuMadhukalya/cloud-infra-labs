@@ -1,0 +1,16 @@
+RBAC follows hierarchical scope inheritance:
+
+Management Group
+→ Subscription
+→ Resource Group
+→ Resource
+
+Permissions assigned higher in the hierarchy flow downward unless restricted.
+
+For example, Reader at subscription level applies to all contained resource groups.
+
+A real-life use case is enterprise-wide governance.
+
+Another example is broad audit access.
+
+Hierarchy simplifies large-scale permission management.
