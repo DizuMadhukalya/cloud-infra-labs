@@ -1,0 +1,14 @@
+Defense in Depth is a layered cybersecurity strategy where multiple security controls are placed at different levels to protect systems.
+
+Instead of relying on one security measure, multiple layers reduce the chance of total compromise.
+
+Core concept:
+If one layer fails, another layer continues protection.
+
+For example, even if a phishing attack compromises credentials, MFA and Conditional Access may still block unauthorized access.
+
+A real-life use case is enterprise cloud security.
+
+Another example is government systems protecting sensitive infrastructure.
+
+Defense in Depth creates resilient, overlapping security protections.
