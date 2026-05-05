@@ -1,0 +1,16 @@
+The Compute Layer secures servers, VMs, containers, and workloads.
+
+Controls include:
+
+* Endpoint protection
+* Patching
+* Secure boot
+* Vulnerability management
+
+For example, keeping Azure VMs updated.
+
+A real-life use case is preventing malware on cloud workloads.
+
+Another example is container image security.
+
+Compute security protects processing environments directly.
