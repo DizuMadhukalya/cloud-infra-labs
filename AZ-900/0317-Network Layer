@@ -1,0 +1,16 @@
+The Network Layer secures communication paths inside and between systems.
+
+Controls include:
+
+* NSGs
+* VPNs
+* Segmentation
+* Encryption
+
+For example, Azure VNets isolate workloads.
+
+A real-life use case is separating production and test environments.
+
+Another example is secure branch-office connectivity.
+
+Network security limits lateral movement by attackers.
