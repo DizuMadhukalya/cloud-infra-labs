@@ -1,0 +1,16 @@
+The Application Layer protects software and APIs from vulnerabilities.
+
+Controls include:
+
+* Secure development
+* API security
+* WAF
+* Patch management
+
+For example, securing login portals against SQL injection.
+
+A real-life use case is SaaS application security.
+
+Another example is protecting e-commerce checkout systems.
+
+Application security prevents exploitation of software weaknesses.
