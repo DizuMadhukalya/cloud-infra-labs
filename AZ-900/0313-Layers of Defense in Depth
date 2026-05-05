@@ -1,0 +1,19 @@
+Defense in Depth consists of multiple layers:
+
+1. Physical Security
+2. Identity and Access
+3. Perimeter
+4. Network
+5. Compute
+6. Application
+7. Data
+
+Each layer protects a different attack surface.
+
+For example, securing a datacenter physically while also protecting user identities and encrypting data.
+
+A real-life use case is enterprises protecting cloud and hybrid infrastructure.
+
+Another example is regulated industries with compliance requirements.
+
+This layered model improves resilience against diverse attack vectors.
