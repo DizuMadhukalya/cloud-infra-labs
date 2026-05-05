@@ -1,0 +1,15 @@
+The Perimeter Layer protects network boundaries from external threats.
+
+Controls include:
+
+* Firewalls
+* DDoS protection
+* Web Application Firewalls
+
+For example, Azure DDoS Protection defends against traffic floods.
+
+A real-life use case is protecting public-facing websites.
+
+Another example is filtering malicious internet traffic.
+
+Perimeter security helps block threats before they enter internal systems.
