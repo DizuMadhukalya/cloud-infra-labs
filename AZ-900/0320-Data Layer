@@ -1,0 +1,16 @@
+The Data Layer focuses on protecting the actual information being stored, processed, or transmitted.
+
+Controls include:
+
+* Encryption
+* Classification
+* Backup
+* DLP (Data Loss Prevention)
+
+For example, encrypting customer financial records.
+
+A real-life use case is protecting healthcare patient data.
+
+Another example is compliance with privacy regulations.
+
+Data security ensures confidentiality, integrity, and availability.
