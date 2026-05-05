@@ -1,0 +1,17 @@
+Each layer in Defense in Depth serves a unique purpose:
+
+* Physical: Protect infrastructure
+* Identity: Verify users/devices
+* Perimeter: Block external threats
+* Network: Secure communications
+* Compute: Protect workloads
+* Application: Secure software
+* Data: Protect information
+
+For example, even if attackers bypass perimeter controls, identity and data protections remain active.
+
+A real-life use case is enterprise-grade cybersecurity strategy.
+
+Another example is securing cloud-native environments against multiple threat types.
+
+Together, these layers create comprehensive, resilient security.
