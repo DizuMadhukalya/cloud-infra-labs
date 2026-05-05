@@ -1,0 +1,23 @@
+Traditional perimeter security assumes that users inside the network are trusted, while external threats are blocked at the perimeter.
+
+Traditional Model:
+Internet → Firewall → Trusted Internal Network
+
+Zero Trust Model:
+User/Device → Identity Verification → Conditional Access → Least Privilege → Resource
+
+Diagram:
+
+Traditional:
+Outside → [Firewall] → Inside Trusted
+
+Zero Trust:
+User → Verify Identity → Check Device → Evaluate Risk → Grant Minimal Access
+
+For example, traditional VPN access often grants broad network access, while Zero Trust verifies every session individually.
+
+A real-life use case is replacing flat corporate VPN models with segmented, identity-driven security.
+
+Another example is protecting cloud-native environments where perimeter boundaries are less defined.
+
+Zero Trust is more adaptive and resilient against insider threats and credential compromise.
