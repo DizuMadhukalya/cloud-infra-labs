@@ -1,0 +1,16 @@
+This layer controls who can access resources and under what conditions.
+
+Controls include:
+
+* MFA
+* RBAC
+* Conditional Access
+* Passwordless authentication
+
+For example, Microsoft Entra ID verifies user identity.
+
+A real-life use case is enterprise workforce access control.
+
+Another example is limiting admin privileges.
+
+Identity is often the first major control point in modern security.
