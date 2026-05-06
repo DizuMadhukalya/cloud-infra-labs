@@ -1,0 +1,17 @@
+Physical layer security focuses on protecting hardware, facilities, and infrastructure from unauthorized physical access or environmental threats.
+
+Real-life examples include:
+
+* Biometric access to datacenters
+* Security guards at server facilities
+* CCTV surveillance
+* Smart locks for server rooms
+* Fire suppression systems
+
+For example, Microsoft Azure datacenters use biometric scanners, perimeter fencing, and 24/7 monitoring.
+
+A real-life use case is banks securing transaction servers in controlled facilities.
+
+Another example is hospitals protecting local servers containing patient records.
+
+Physical layer security is the first line of defense against theft, tampering, and infrastructure sabotage.
