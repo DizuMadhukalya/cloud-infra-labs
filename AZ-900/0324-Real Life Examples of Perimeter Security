@@ -1,0 +1,16 @@
+Perimeter security protects organizational boundaries from external attacks.
+
+Real-life examples:
+
+* Firewalls protecting public-facing servers
+* DDoS mitigation for websites
+* Web Application Firewalls for e-commerce apps
+* Geo-blocking malicious regions
+
+For example, online banking websites use WAFs to prevent web attacks.
+
+A real-life use case is SaaS companies defending APIs.
+
+Another example is streaming services mitigating DDoS attacks.
+
+Perimeter security reduces exposure to internet-based threats.
