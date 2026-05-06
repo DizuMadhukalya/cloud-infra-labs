@@ -1,0 +1,16 @@
+Network layer security protects internal communication channels and segmentation.
+
+Real-life examples:
+
+* VNets separating environments
+* VPN tunnels for branch offices
+* NSGs restricting subnet communication
+* ExpressRoute private connectivity
+
+For example, a company isolates HR systems from development systems.
+
+A real-life use case is hybrid cloud enterprise networking.
+
+Another example is secure branch office communication.
+
+Network security limits lateral movement and secures traffic flow.
