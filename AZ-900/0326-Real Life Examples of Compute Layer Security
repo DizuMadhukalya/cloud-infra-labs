@@ -1,0 +1,16 @@
+Compute layer security protects processing systems such as VMs, servers, and containers.
+
+Real-life examples:
+
+* Antivirus on VMs
+* Patch management
+* Secure boot
+* Container image scanning
+
+For example, a fintech company patches payment processing servers regularly.
+
+A real-life use case is malware prevention on cloud VMs.
+
+Another example is containerized healthcare applications requiring secure workloads.
+
+Compute security protects execution environments from compromise.
