@@ -1,0 +1,19 @@
+Azure Key Vault securely stores and manages:
+
+* Encryption keys
+* Secrets
+* Certificates
+
+Features include:
+
+* Hardware Security Modules (HSM)
+* Access policies
+* Key rotation
+
+For example, applications retrieve secrets securely without hardcoding them.
+
+A real-life use case is storing database credentials securely.
+
+Another example is enterprises managing customer-managed encryption keys.
+
+Azure Key Vault centralizes secure key and secret governance.
