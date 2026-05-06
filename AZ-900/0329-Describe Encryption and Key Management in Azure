@@ -1,0 +1,16 @@
+Encryption in Azure protects data using cryptographic methods, while key management controls who can access encryption keys.
+
+Azure supports:
+
+* Encryption at rest
+* Encryption in transit
+* Customer-managed keys
+* Platform-managed keys
+
+For example, Azure Storage encrypts stored files automatically.
+
+A real-life use case is enterprises controlling encryption keys for compliance.
+
+Another example is securing cloud databases.
+
+Encryption and key management ensure confidentiality and governance.
