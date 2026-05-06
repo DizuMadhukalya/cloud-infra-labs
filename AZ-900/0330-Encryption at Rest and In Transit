@@ -1,0 +1,19 @@
+Encryption at Rest protects stored data, while Encryption in Transit protects moving data.
+
+Encryption at Rest:
+
+* Azure Storage encryption
+* Disk encryption
+
+Encryption in Transit:
+
+* HTTPS/TLS
+* VPN encryption
+
+For example, stored customer files are encrypted at rest, while uploaded files use HTTPS.
+
+A real-life use case is banking apps securing both storage and communication.
+
+Another example is healthcare systems protecting records end-to-end.
+
+Together, these protections secure data lifecycle.
