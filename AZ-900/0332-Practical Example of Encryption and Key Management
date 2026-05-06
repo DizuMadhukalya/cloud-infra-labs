@@ -1,0 +1,16 @@
+Consider a healthcare application storing patient records in Azure Blob Storage.
+
+Practical flow:
+
+1. Data uploaded over HTTPS
+2. Stored using encryption at rest
+3. Encryption keys managed via Azure Key Vault
+4. Access controlled by RBAC
+
+For example, only authorized doctors can decrypt records.
+
+A real-life use case is HIPAA-compliant healthcare systems.
+
+Another example is financial applications protecting transaction records.
+
+This demonstrates layered encryption and governance.
