@@ -1,0 +1,12 @@
+| Feature           | Encryption at Rest               | Encryption in Transit        |
+| ----------------- | -------------------------------- | ---------------------------- |
+| Purpose           | Protect stored data              | Protect moving data          |
+| Examples          | Disk encryption, Blob encryption | HTTPS, TLS, VPN              |
+| Threats Prevented | Theft of storage media           | Interception during transfer |
+| Azure Tools       | Storage Service Encryption       | SSL/TLS, VPN Gateway         |
+
+For example, Azure Storage protects files at rest while HTTPS protects downloads.
+
+A real-life use case is securing enterprise customer data.
+
+This comparison helps clarify data protection stages.
