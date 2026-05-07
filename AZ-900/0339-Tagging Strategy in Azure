@@ -1,0 +1,15 @@
+Tags are key-value metadata applied to Azure resources for organization and governance.
+
+Examples:
+
+* Department: Finance
+* Environment: Production
+* Owner: DevOps
+
+For example, organizations track cloud spending by department using tags.
+
+A real-life use case is cost allocation.
+
+Another example is operational filtering and automation.
+
+Tagging improves visibility, billing accuracy, and management.
