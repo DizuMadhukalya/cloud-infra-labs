@@ -1,0 +1,17 @@
+Azure Governance ensures resources are deployed, managed, and used according to organizational policies.
+
+Governance tools include:
+
+* Management Groups
+* Azure Policy
+* RBAC
+* Resource Locks
+* Tags
+
+For example, governance can prevent deployment of resources outside approved regions.
+
+A real-life use case is enterprises enforcing regulatory standards.
+
+Another example is controlling cloud sprawl in growing organizations.
+
+Governance ensures compliance, consistency, and operational discipline.
