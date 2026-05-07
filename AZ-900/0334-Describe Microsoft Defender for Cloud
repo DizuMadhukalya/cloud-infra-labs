@@ -1,0 +1,17 @@
+Microsoft Defender for Cloud is a cloud-native security solution that helps organizations strengthen security posture, detect threats, and protect workloads across Azure, hybrid, and multi-cloud environments.
+
+Key capabilities include:
+
+* Secure Score
+* Security recommendations
+* Threat detection
+* Regulatory compliance dashboards
+* Workload protections for servers, databases, storage, and containers
+
+For example, Defender for Cloud may identify an exposed VM port and recommend closing it.
+
+A real-life use case is enterprises continuously monitoring security posture across hundreds of resources.
+
+Another example is startups using built-in recommendations to improve cloud security without a large security team.
+
+Microsoft Defender for Cloud acts as a centralized security advisor and threat protection platform.
