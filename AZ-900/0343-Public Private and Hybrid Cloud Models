@@ -1,0 +1,13 @@
+Azure supports different cloud deployment models:
+
+* Public Cloud: Shared provider infrastructure
+* Private Cloud: Dedicated infrastructure
+* Hybrid Cloud: Combination of both
+
+For example, Azure Arc supports hybrid cloud management.
+
+A real-life use case is enterprises maintaining on-prem systems while adopting Azure.
+
+Another example is governments requiring sensitive private workloads.
+
+Understanding deployment models helps align technical and business needs.
