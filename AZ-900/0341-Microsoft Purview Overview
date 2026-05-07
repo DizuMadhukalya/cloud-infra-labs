@@ -1,0 +1,16 @@
+Microsoft Purview is a unified data governance, compliance, and risk management platform.
+
+It helps:
+
+* Discover data
+* Classify sensitive information
+* Apply retention policies
+* Monitor compliance
+
+For example, Purview can identify personally identifiable information (PII) across datasets.
+
+A real-life use case is GDPR compliance.
+
+Another example is enterprise-wide data governance.
+
+Purview helps organizations understand and protect their data estate.
