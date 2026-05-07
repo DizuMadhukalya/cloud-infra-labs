@@ -1,0 +1,16 @@
+Service Level Agreements (SLAs) define Microsoft’s uptime commitments for Azure services.
+
+For example:
+
+* 99.9% uptime
+* 99.99% uptime
+
+SLAs influence architecture decisions.
+
+For example, deploying across availability zones may improve SLA coverage.
+
+A real-life use case is mission-critical enterprise apps.
+
+Another example is designing resilient SaaS platforms.
+
+SLAs guide reliability expectations and architectural planning.
