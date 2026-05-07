@@ -1,0 +1,14 @@
+Azure Resource Locks prevent accidental deletion or modification of critical resources.
+
+Types:
+
+* Delete lock
+* Read-only lock
+
+For example, a production database can be protected from accidental deletion.
+
+A real-life use case is safeguarding mission-critical infrastructure.
+
+Another example is preventing junior admins from modifying sensitive production systems.
+
+Resource locks act as an operational safeguard.
