@@ -1,0 +1,16 @@
+Microsoft Sentinel is a cloud-native Security Information and Event Management (SIEM) and Security Orchestration Automated Response (SOAR) platform.
+
+It helps:
+
+* Collect logs
+* Detect threats
+* Investigate incidents
+* Automate responses
+
+For example, Sentinel can correlate suspicious login attempts across multiple systems.
+
+A real-life use case is large enterprises monitoring global security events.
+
+Another example is detecting ransomware indicators early.
+
+Microsoft Sentinel enables centralized intelligent threat detection.
