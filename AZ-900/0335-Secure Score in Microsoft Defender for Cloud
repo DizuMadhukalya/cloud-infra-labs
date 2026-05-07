@@ -1,0 +1,15 @@
+Secure Score is a measurement of an organization’s security posture based on implemented controls and recommendations.
+
+It helps organizations:
+
+* Prioritize security improvements
+* Benchmark posture
+* Track progress
+
+For example, enabling MFA or closing open ports may increase Secure Score.
+
+A real-life use case is CISOs tracking enterprise security maturity.
+
+Another example is IT teams using Secure Score to prioritize remediation.
+
+Secure Score provides actionable visibility into security improvements.
