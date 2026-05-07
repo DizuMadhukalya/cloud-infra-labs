@@ -1,0 +1,20 @@
+The Shared Responsibility Model defines which security responsibilities belong to Microsoft versus the customer.
+
+Microsoft manages:
+
+* Physical infrastructure
+* Core platform
+
+Customer manages:
+
+* Data
+* Identities
+* Configurations
+
+For example, Microsoft secures datacenters, but customers secure user permissions.
+
+A real-life use case is preventing cloud misconfigurations.
+
+Another example is compliance accountability.
+
+Understanding this model is essential for secure cloud operations.
