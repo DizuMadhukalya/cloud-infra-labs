@@ -1,0 +1,16 @@
+Business continuity in Azure ensures systems remain operational during failures.
+
+Tools include:
+
+* Availability Zones
+* Region Pairs
+* Backup
+* Site Recovery
+
+For example, e-commerce systems deploy across zones to prevent downtime.
+
+A real-life use case is banking resilience.
+
+Another example is healthcare continuity.
+
+Azure supports robust continuity planning.
