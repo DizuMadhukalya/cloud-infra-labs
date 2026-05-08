@@ -1,0 +1,15 @@
+Azure Reservations allow organizations to commit to long-term resource usage (1 or 3 years) for discounted pricing.
+
+Applicable services include:
+
+* Virtual Machines
+* SQL Databases
+* App Services
+
+For example, a business running predictable workloads can save significantly through reserved instances.
+
+A real-life use case is stable production infrastructure.
+
+Another example is enterprises optimizing recurring operational costs.
+
+Reservations improve cost efficiency for predictable workloads.
