@@ -1,0 +1,16 @@
+Azure Backup is a cloud-based backup solution for protecting data across Azure, on-premises, and hybrid systems.
+
+Features:
+
+* Centralized backup
+* Encryption
+* Long-term retention
+* Policy automation
+
+For example, organizations can back up virtual machines automatically.
+
+A real-life use case is ransomware resilience.
+
+Another example is accidental deletion recovery.
+
+Azure Backup supports secure disaster preparedness.
