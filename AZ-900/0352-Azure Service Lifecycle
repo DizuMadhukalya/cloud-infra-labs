@@ -1,0 +1,19 @@
+Azure services evolve through lifecycle stages:
+
+* Preview
+* General Availability (GA)
+* Deprecation
+
+Preview:
+Early access, limited guarantees
+
+GA:
+Production-ready with full support
+
+For example, enterprises should avoid mission-critical dependency on preview features.
+
+A real-life use case is technology experimentation.
+
+Another example is strategic product adoption.
+
+Understanding lifecycle stages helps manage operational risk.
