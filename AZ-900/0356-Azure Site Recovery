@@ -1,0 +1,15 @@
+Azure Site Recovery replicates workloads to Azure for failover during outages.
+
+Capabilities:
+
+* VM replication
+* Disaster recovery testing
+* Automated failover
+
+For example, on-premises systems can fail over to Azure during datacenter outages.
+
+A real-life use case is enterprise disaster recovery.
+
+Another example is business continuity for manufacturing systems.
+
+Site Recovery minimizes downtime during major incidents.
