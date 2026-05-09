@@ -1,0 +1,15 @@
+Azure Bicep is a domain-specific language for deploying Azure resources.
+
+Advantages over raw ARM JSON:
+
+* Simpler syntax
+* Better readability
+* Easier modularization
+
+For example, developers define infrastructure using concise Bicep files.
+
+A real-life use case is scalable enterprise infrastructure deployment.
+
+Another example is reusable deployment modules.
+
+Bicep simplifies Azure IaC development.
