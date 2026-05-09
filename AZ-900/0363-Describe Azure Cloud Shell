@@ -1,0 +1,16 @@
+Azure Cloud Shell is a browser-based command-line environment accessible directly from the Azure Portal.
+
+It supports:
+
+* Bash
+* PowerShell
+* Azure CLI
+* Persistent storage
+
+For example, users can manage resources without installing local tools.
+
+A real-life use case is remote administration from any device.
+
+Another example is quick troubleshooting sessions.
+
+Cloud Shell improves portability and operational convenience.
