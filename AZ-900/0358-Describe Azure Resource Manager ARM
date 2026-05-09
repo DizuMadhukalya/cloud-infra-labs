@@ -1,0 +1,17 @@
+Azure Resource Manager (ARM) is the deployment and management layer for Azure resources.
+
+ARM enables:
+
+* Resource deployment
+* Access control integration
+* Tagging
+* Policy enforcement
+* Template-based infrastructure
+
+For example, a company can deploy an entire environment (VMs, networking, storage) using one ARM template.
+
+A real-life use case is DevOps automation.
+
+Another example is maintaining consistent infrastructure across environments.
+
+ARM centralizes and standardizes Azure resource management.
