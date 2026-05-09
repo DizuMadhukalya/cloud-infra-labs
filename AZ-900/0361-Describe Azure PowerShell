@@ -1,0 +1,15 @@
+Azure PowerShell is a scripting environment for managing Azure resources using PowerShell commands.
+
+Advantages:
+
+* Automation
+* Repeatability
+* Scripting flexibility
+
+For example, administrators can automate VM creation using scripts.
+
+A real-life use case is bulk resource management.
+
+Another example is automated operational tasks.
+
+Azure PowerShell improves efficiency for cloud administrators.
