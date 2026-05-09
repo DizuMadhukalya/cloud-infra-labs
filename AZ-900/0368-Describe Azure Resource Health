@@ -1,0 +1,16 @@
+Azure Resource Health provides information about the operational health of individual Azure resources.
+
+It reports:
+
+* Available
+* Unavailable
+* Degraded
+* Unknown states
+
+For example, administrators can determine whether outages originate from Azure or application misconfiguration.
+
+A real-life use case is troubleshooting production downtime.
+
+Another example is operational incident management.
+
+Resource Health improves infrastructure visibility.
