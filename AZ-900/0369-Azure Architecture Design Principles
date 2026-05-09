@@ -1,0 +1,15 @@
+Core Azure architecture principles include:
+
+* Scalability
+* Reliability
+* Security
+* Cost Optimization
+* Performance Efficiency
+
+For example, applications should scale automatically during traffic spikes.
+
+A real-life use case is global e-commerce platforms.
+
+Another example is designing resilient healthcare systems.
+
+These principles guide modern cloud solution architecture.
