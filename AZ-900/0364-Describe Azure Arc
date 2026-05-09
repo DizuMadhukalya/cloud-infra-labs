@@ -1,0 +1,15 @@
+Azure Arc extends Azure management to on-premises, edge, and multi-cloud resources.
+
+Capabilities:
+
+* Unified governance
+* Policy enforcement
+* Hybrid management
+
+For example, organizations manage AWS and on-prem servers from Azure.
+
+A real-life use case is hybrid enterprise infrastructure.
+
+Another example is centralized compliance management.
+
+Azure Arc unifies management across environments.
