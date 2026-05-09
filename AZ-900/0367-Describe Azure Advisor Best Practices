@@ -1,0 +1,17 @@
+Azure Advisor analyzes deployed resources and recommends improvements.
+
+Recommendation categories:
+
+* Reliability
+* Security
+* Performance
+* Cost
+* Operational Excellence
+
+For example, Advisor may suggest resizing underutilized VMs.
+
+A real-life use case is reducing unnecessary cloud costs.
+
+Another example is improving security posture.
+
+Azure Advisor supports continuous optimization.
