@@ -1,0 +1,16 @@
+ARM Templates are Infrastructure-as-Code (IaC) files written in JSON used to automate Azure deployments.
+
+Benefits:
+
+* Repeatability
+* Consistency
+* Automation
+* Version control
+
+For example, developers can deploy identical environments for Dev, Test, and Production.
+
+A real-life use case is enterprise cloud standardization.
+
+Another example is disaster recovery environment recreation.
+
+ARM Templates reduce manual deployment errors.
