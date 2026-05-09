@@ -1,0 +1,22 @@
+Infrastructure as Code (IaC) automates infrastructure deployment using configuration files instead of manual setup.
+
+Benefits:
+
+* Consistency
+* Speed
+* Version control
+* Automation
+
+Examples in Azure:
+
+* ARM Templates
+* Bicep
+* Terraform integration
+
+For example, DevOps teams deploy identical cloud environments repeatedly.
+
+A real-life use case is CI/CD automation.
+
+Another example is disaster recovery provisioning.
+
+IaC modernizes infrastructure operations.
