@@ -1,0 +1,17 @@
+The Azure Portal is a web-based graphical interface for managing Azure services and resources.
+
+Capabilities include:
+
+* Resource creation
+* Monitoring
+* Billing management
+* Security configuration
+* Dashboard customization
+
+For example, administrators can deploy virtual machines directly through the portal.
+
+A real-life use case is small teams managing resources visually.
+
+Another example is training beginners in cloud operations.
+
+The Azure Portal simplifies cloud administration through an intuitive interface.
