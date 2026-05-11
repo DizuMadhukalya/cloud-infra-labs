@@ -1,0 +1,23 @@
+Azure Monitor uses both Metrics and Logs, but each serves different purposes.
+
+Metrics:
+
+* Numerical
+* Lightweight
+* Near real-time
+* Example: CPU percentage
+
+Logs:
+
+* Detailed records
+* Queryable
+* Rich context
+* Example: Security event details
+
+For example, CPU spikes are tracked with metrics, while login failures are analyzed with logs.
+
+A real-life use case is combining infrastructure monitoring with forensic investigation.
+
+Another example is security analytics.
+
+Understanding both improves effective monitoring strategies.
