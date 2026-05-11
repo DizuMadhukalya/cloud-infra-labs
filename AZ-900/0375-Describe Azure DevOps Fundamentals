@@ -1,0 +1,17 @@
+Azure DevOps provides tools for software planning, development, testing, and deployment.
+
+Core services:
+
+* Boards
+* Repos
+* Pipelines
+* Test Plans
+* Artifacts
+
+For example, developers automate deployments through CI/CD pipelines.
+
+A real-life use case is enterprise software delivery.
+
+Another example is startup product iteration.
+
+Azure DevOps supports modern software engineering workflows.
