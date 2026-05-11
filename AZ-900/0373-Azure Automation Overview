@@ -1,0 +1,16 @@
+Azure Automation automates repetitive operational tasks.
+
+Capabilities:
+
+* Runbooks
+* Process automation
+* Update management
+* Desired State Configuration
+
+For example, organizations can automate VM shutdown during off-hours.
+
+A real-life use case is cost optimization.
+
+Another example is patch automation for compliance.
+
+Azure Automation improves operational efficiency and consistency.
