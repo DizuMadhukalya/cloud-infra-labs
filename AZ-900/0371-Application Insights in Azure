@@ -1,0 +1,16 @@
+Azure Application Insights is an application performance management (APM) tool used to monitor software applications.
+
+Capabilities:
+
+* Request tracking
+* Exception monitoring
+* User behavior analysis
+* Dependency tracking
+
+For example, a web app can identify slow API calls impacting user experience.
+
+A real-life use case is SaaS platforms optimizing customer-facing applications.
+
+Another example is identifying bottlenecks in enterprise applications.
+
+Application Insights helps developers improve software reliability and performance.
