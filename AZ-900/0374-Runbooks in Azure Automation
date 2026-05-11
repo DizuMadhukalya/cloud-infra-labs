@@ -1,0 +1,16 @@
+Runbooks are automated workflows executed within Azure Automation.
+
+They can:
+
+* Start/stop VMs
+* Apply updates
+* Execute scripts
+* Respond to alerts
+
+For example, a runbook can shut down development VMs nightly to reduce cost.
+
+A real-life use case is automated incident response.
+
+Another example is routine administrative tasks.
+
+Runbooks reduce manual intervention and improve repeatability.
