@@ -1,0 +1,18 @@
+Azure provides a broad monitoring ecosystem to help organizations observe, troubleshoot, secure, and optimize resources.
+
+Core tools include:
+
+* Azure Monitor
+* Log Analytics
+* Application Insights
+* Azure Alerts
+* Service Health
+* Resource Health
+
+For example, Azure Monitor collects metrics from VMs, while Application Insights tracks application performance.
+
+A real-life use case is e-commerce platforms monitoring checkout latency.
+
+Another example is enterprises proactively detecting outages before users are affected.
+
+Azure’s monitoring ecosystem supports operational excellence through observability and proactive response.
