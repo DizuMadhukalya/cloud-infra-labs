@@ -1,0 +1,16 @@
+Azure Firewall is a cloud-native network security service that controls and logs traffic across Azure networks.
+
+Capabilities:
+
+* Stateful inspection
+* Network rules
+* Application rules
+* Threat intelligence filtering
+
+For example, enterprises can centralize outbound internet control.
+
+A real-life use case is protecting hybrid corporate networks.
+
+Another example is controlling traffic between subnets.
+
+Azure Firewall strengthens centralized network security.
