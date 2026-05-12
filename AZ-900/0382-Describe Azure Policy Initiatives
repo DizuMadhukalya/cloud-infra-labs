@@ -1,0 +1,16 @@
+Azure Policy Initiatives are collections of multiple Azure Policy definitions grouped together to enforce broader governance goals.
+
+Instead of applying policies one by one, initiatives allow organizations to bundle related compliance requirements such as:
+
+* Allowed locations
+* Required tags
+* Encryption mandates
+* Resource SKU restrictions
+
+For example, a financial organization may create an initiative that enforces encryption, approved regions, and mandatory audit logging.
+
+A real-life use case is regulatory compliance frameworks such as HIPAA or ISO.
+
+Another example is enterprise governance across multiple departments.
+
+Policy initiatives simplify large-scale compliance management and standardization.
