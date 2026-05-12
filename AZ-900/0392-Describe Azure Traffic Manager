@@ -1,0 +1,13 @@
+Azure Traffic Manager routes users to optimal service endpoints based on:
+
+* Performance
+* Priority
+* Geographic location
+
+For example, users in Asia connect to Asian datacenters while Europe connects locally.
+
+A real-life use case is global application failover.
+
+Another example is regional traffic optimization.
+
+Traffic Manager improves user experience and resilience globally.
