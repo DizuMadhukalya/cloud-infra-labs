@@ -1,0 +1,14 @@
+Azure Load Balancer distributes network traffic across multiple servers for availability and scalability.
+
+Types:
+
+* Public Load Balancer
+* Internal Load Balancer
+
+For example, e-commerce traffic is spread across multiple web servers.
+
+A real-life use case is application high availability.
+
+Another example is backend redundancy.
+
+Azure Load Balancer ensures resilient service delivery.
