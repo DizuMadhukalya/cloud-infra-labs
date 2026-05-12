@@ -1,0 +1,19 @@
+Azure Web Application Firewall (WAF) protects web applications from common exploits such as:
+
+* SQL injection
+* Cross-site scripting
+* Bot attacks
+
+WAF works with:
+
+* Azure Front Door
+* Application Gateway
+* CDN
+
+For example, an online banking application can block malicious web requests before reaching the backend.
+
+A real-life use case is protecting payment systems.
+
+Another example is securing healthcare portals.
+
+WAF enhances application-layer security for public-facing apps.
