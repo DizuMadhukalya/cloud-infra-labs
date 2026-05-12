@@ -1,0 +1,16 @@
+Azure offers multiple networking tools, each serving distinct purposes:
+
+* Load Balancer: Layer 4 traffic distribution
+* Application Gateway: Layer 7 web routing
+* Front Door: Global entry + CDN
+* Traffic Manager: DNS routing
+* Bastion: Secure admin access
+* Firewall: Network security
+
+For example, a global e-commerce company may combine Front Door + WAF + Load Balancer.
+
+A real-life use case is enterprise cloud architecture.
+
+Another example is startup web scaling.
+
+Choosing correctly ensures performance, security, and scalability.
