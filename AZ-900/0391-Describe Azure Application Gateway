@@ -1,0 +1,16 @@
+Azure Application Gateway is a web traffic load balancer operating at the application layer.
+
+Capabilities:
+
+* URL routing
+* SSL termination
+* Session affinity
+* WAF integration
+
+For example, requests to /images may route differently than /api.
+
+A real-life use case is complex web app architecture.
+
+Another example is microservices routing.
+
+Application Gateway enables intelligent web traffic management.
