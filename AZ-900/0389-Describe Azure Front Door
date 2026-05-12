@@ -1,0 +1,14 @@
+Azure Front Door is a global entry point for web applications that provides:
+
+* Load balancing
+* CDN acceleration
+* SSL offloading
+* WAF integration
+
+For example, multinational companies use Front Door to route users to the nearest healthy backend.
+
+A real-life use case is global SaaS delivery.
+
+Another example is reducing website latency internationally.
+
+Azure Front Door enhances global performance and resilience.
