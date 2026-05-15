@@ -1,11 +1,11 @@
 Azure Blueprints and Azure Policy both support governance, but they serve different purposes.
 
-Azure Policy:
+Azure Policy does the following:
 
 * Enforces rules
 * Audits compliance
 
-Azure Blueprints:
+Azure Blueprints does the following:
 
 * Deploys full governance packages
 * Includes policies, RBAC, ARM templates, and resource groups
