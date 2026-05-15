@@ -1,6 +1,6 @@
 Azure Application Gateway is a web traffic load balancer operating at the application layer.
 
-Capabilities:
+Capabilities of Azure Application Gateway:
 
 * URL routing
 * SSL termination
@@ -9,6 +9,7 @@ Capabilities:
 
 For example, requests to /images may route differently than /api.
 
+# Real-Life Use Case
 A real-life use case is complex web app architecture.
 
 Another example is microservices routing.
