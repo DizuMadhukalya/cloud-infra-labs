@@ -1,6 +1,6 @@
 Azure Bastion provides secure RDP/SSH connectivity to Azure VMs directly through the Azure Portal without exposing public IPs.
 
-Benefits:
+Benefits of Azure Bastion:
 
 * No public RDP/SSH ports
 * Browser-based secure access
@@ -8,6 +8,7 @@ Benefits:
 
 For example, administrators manage VMs securely without opening port 3389.
 
+# Real-Life User Case
 A real-life use case is secure remote administration.
 
 Another example is compliance-sensitive environments.
