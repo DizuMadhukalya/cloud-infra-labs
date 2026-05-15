@@ -1,6 +1,6 @@
 Network Security Groups (NSGs) are subnet or NIC-level traffic filters controlling inbound and outbound traffic.
 
-Rules define:
+The NSG associated rules define:
 
 * Source
 * Destination
@@ -10,6 +10,7 @@ Rules define:
 
 For example, a web server subnet allows HTTP/HTTPS but blocks RDP from public networks.
 
+# Real-Life Use Case
 A real-life use case is micro-segmentation.
 
 Another example is restricting management access.
