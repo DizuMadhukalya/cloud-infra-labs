@@ -5,10 +5,13 @@ Azure Front Door is a global entry point for web applications that provides:
 * SSL offloading
 * WAF integration
 
+# Real-Life Example 1
 For example, multinational companies use Front Door to route users to the nearest healthy backend.
 
+# Real-Life User Case
 A real-life use case is global SaaS delivery.
 
+# Real-Life Example 2
 Another example is reducing website latency internationally.
 
 Azure Front Door enhances global performance and resilience.
