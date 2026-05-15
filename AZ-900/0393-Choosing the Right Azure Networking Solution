@@ -7,10 +7,13 @@ Azure offers multiple networking tools, each serving distinct purposes:
 * Bastion: Secure admin access
 * Firewall: Network security
 
+# Real-Life Example 1
 For example, a global e-commerce company may combine Front Door + WAF + Load Balancer.
 
+# Real-Life Use Case
 A real-life use case is enterprise cloud architecture.
 
+# Real-Life Example 2
 Another example is startup web scaling.
 
 Choosing correctly ensures performance, security, and scalability.
