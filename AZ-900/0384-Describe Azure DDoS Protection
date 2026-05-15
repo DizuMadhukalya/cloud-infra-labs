@@ -1,6 +1,6 @@
 Azure DDoS Protection protects Azure resources from Distributed Denial-of-Service attacks.
 
-Features:
+Features of Azure DDoS Protection:
 
 * Traffic monitoring
 * Automatic mitigation
@@ -9,6 +9,7 @@ Features:
 
 For example, an online retail website may experience a traffic flood attack during a major sale.
 
+# Real-Life User Case
 A real-life use case is e-commerce resilience.
 
 Another example is financial services protecting customer portals.
