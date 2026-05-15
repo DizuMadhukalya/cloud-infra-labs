@@ -1,12 +1,13 @@
 Azure Load Balancer distributes network traffic across multiple servers for availability and scalability.
 
-Types:
+Types of Azure Load Balancers:
 
 * Public Load Balancer
 * Internal Load Balancer
 
 For example, e-commerce traffic is spread across multiple web servers.
 
+# Real-Life Use Cases:
 A real-life use case is application high availability.
 
 Another example is backend redundancy.
