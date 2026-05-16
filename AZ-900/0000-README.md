@@ -1,17 +1,17 @@
 Here are the details of my journey through the course of AZ-900. 
 
-# AZ-900: Microsoft Azure Fundamentals 🚀
+# AZ-900: Microsoft Azure Fundamentals 
 
 Here are the details of my journey through the course of AZ-900.
 
 ---
 
-## 📌 About This Repository
+## About This Repository
 This repository contains my notes, hands-on labs, and key learnings while preparing for the **Microsoft Azure Fundamentals (AZ-900)** certification.
 
 ---
 
-## 🎯 Goals
+## Goals
 - Understand core Azure concepts
 - Learn Azure services (Compute, Storage, Networking)
 - Understand pricing, SLA, and lifecycle
@@ -19,9 +19,9 @@ This repository contains my notes, hands-on labs, and key learnings while prepar
 
 ---
 
-## 📚 Topics Covered
+## Topics Covered
 
-### ☁️ Cloud Concepts
+### Cloud Concepts
 - What is Cloud Computing
 - Types: IaaS, PaaS, SaaS
 - Public vs Private vs Hybrid Cloud
@@ -29,7 +29,7 @@ This repository contains my notes, hands-on labs, and key learnings while prepar
 
 ---
 
-### ⚙️ Core Azure Services
+### Core Azure Services
 - Virtual Machines (VMs)
 - Azure App Services
 - Azure Storage (Blob, File, Queue)
@@ -37,14 +37,14 @@ This repository contains my notes, hands-on labs, and key learnings while prepar
 
 ---
 
-### 🔐 Security & Identity
+### Security & Identity
 - Azure Active Directory (AAD)
 - Role-Based Access Control (RBAC)
 - Shared Responsibility Model
 
 ---
 
-### 💰 Pricing & Management
+### Pricing & Management
 - Azure Pricing Calculator
 - Total Cost of Ownership (TCO)
 - Azure Cost Management
@@ -52,28 +52,28 @@ This repository contains my notes, hands-on labs, and key learnings while prepar
 
 ---
 
-## 🧪 Hands-on Labs
+## Hands-on Labs
 | Day | Topic | Status |
 |-----|------|--------|
-| Day 1 | Azure Portal Overview | ✅ |
+| Day 1 | Azure Portal Overview | 
 | Day 2 | Virtual Machines | ⏳ |
 | Day 3 | Storage Services | ⏳ |
 
 ---
 
-## 📝 Notes
+## Notes
 - I will update this repository daily as I progress.
 - Each topic will have detailed notes and examples.
 
 ---
 
-## 🏁 Target
+## Target
 - Complete preparation in **2–3 weeks**
 - Clear AZ-900 certification exam
 
 ---
 
-## 🔗 Useful Resources
+## Useful Resources
 - Microsoft Learn
 - Azure Documentation
 
