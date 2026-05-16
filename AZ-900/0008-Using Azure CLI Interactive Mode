@@ -4,10 +4,13 @@ Users can enter interactive mode by running the command: az interactive
 
 In this mode, users receive suggestions for commands and parameters, reducing the chances of syntax errors.
 
+# Real-Life Example 1:
 For example, a beginner who is unsure about the exact syntax for creating a virtual machine can use interactive mode to explore commands step by step.
 
+# Real-Life Use Case:
 A real-life use case includes training environments where new team members are learning Azure CLI. Interactive mode helps them understand available commands without constantly referring to documentation.
 
+# Real-Life Example 2:
 Another example is troubleshooting. Engineers can quickly explore commands and test configurations in real-time without writing full scripts.
 
 This feature bridges the gap between GUI-based usage and full command-line expertise.
