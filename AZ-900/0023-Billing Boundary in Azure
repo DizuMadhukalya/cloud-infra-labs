@@ -4,8 +4,10 @@ All resources within a subscription contribute to its billing.
 
 For example, if a company has separate subscriptions for development and production, each subscription will have its own billing report.
 
+# Real-Life Use Case:
 A real-life use case is cost optimization. Organizations can allocate budgets to different subscriptions and monitor spending to avoid overspending.
 
+# Real-Life Example:
 Another example is chargeback models, where IT departments bill different business units based on their resource usage.
 
 Billing boundaries also help in financial planning and accountability, ensuring transparency in cloud expenditure.
