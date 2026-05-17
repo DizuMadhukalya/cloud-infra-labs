@@ -1,5 +1,7 @@
-Azure resources are individual components such as virtual machines, storage accounts, databases, and networks that are used to build cloud solutions. Resource Groups are logical containers that hold related resources.
+Azure resources are individual components such as virtual machines, storage accounts, databases, and networks that are used to build cloud solutions. 
+Resource Groups are logical containers that hold related resources.
 
+# Real-Life Example 1:
 For example, a web application may include:
 
 * A virtual machine
@@ -8,6 +10,7 @@ For example, a web application may include:
 
 All these resources can be grouped under a single resource group.
 
+# Real-Life Use Case:
 A real-life use case is project-based organization. A company can create separate resource groups for different projects, making management and billing easier.
 
 Another example is lifecycle management. Deleting a resource group automatically deletes all resources within it, which is useful when cleaning up test environments.
