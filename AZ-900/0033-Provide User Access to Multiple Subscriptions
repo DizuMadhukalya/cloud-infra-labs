@@ -2,8 +2,10 @@ Azure allows users to access multiple subscriptions by assigning roles at the su
 
 For example, a cloud engineer can be given Contributor access to multiple subscriptions so they can manage resources across environments.
 
+# Real-Life Use Case:
 A real-life use case is DevOps teams managing Dev, Test, and Prod subscriptions simultaneously.
 
+# Real-Life Example:
 Another example is consultants working with multiple clients, where they are granted access to different subscriptions without sharing credentials.
 
 Access can be controlled centrally, ensuring security while allowing flexibility.
