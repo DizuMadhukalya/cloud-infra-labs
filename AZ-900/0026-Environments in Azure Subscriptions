@@ -8,8 +8,10 @@ For example:
 * Test environment: used for validation and QA
 * Prod environment: used for live applications
 
+# Real-Life Use Case:
 A real-life use case is a software company deploying new features. Developers first build features in Dev, testers validate in Test, and finally deploy to Prod.
 
+# Real-Life Example 1:
 Another example is minimizing risk. If something breaks in Dev or Test, it does not impact production users.
 
 This structured approach ensures stability, better collaboration, and efficient deployment pipelines.
