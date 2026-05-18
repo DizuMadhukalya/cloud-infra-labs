@@ -7,8 +7,10 @@ For example, a management group may include subscriptions that contain:
 * Storage accounts
 * Networking resources
 
+# Real-Life Use Case:
 A real-life use case is a company managing multiple applications across subscriptions. All production-related subscriptions can be grouped under a “Production Management Group”.
 
+# Real-Life Example 1:
 Another example is applying policies like restricting certain VM sizes across all subscriptions under a group.
 
 This structure allows organizations to manage diverse resources efficiently through hierarchical grouping.
