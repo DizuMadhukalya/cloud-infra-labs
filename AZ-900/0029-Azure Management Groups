@@ -2,8 +2,10 @@ Azure Management Groups provide a way to organize multiple subscriptions under a
 
 For example, a company can create a management group for all production subscriptions and apply security policies at the group level.
 
+# Real-Life use case:
 A real-life use case is a large enterprise with hundreds of subscriptions. Instead of managing each subscription individually, administrators can manage them collectively using management groups.
 
+# Real-Life Example:
 Another example is enforcing policies such as restricting resource locations or requiring specific security configurations across all subscriptions.
 
 Management groups simplify governance and ensure consistency across large-scale Azure environments.
