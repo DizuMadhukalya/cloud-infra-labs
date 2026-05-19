@@ -5,6 +5,7 @@ Azure services go through different lifecycle stages:
 
 For example, a new AI service may be in preview, allowing users to test features before official release.
 
+# Real-Life Use Case:
 A real-life use case is avoiding production risks. Companies avoid using preview services in critical applications.
 
 Another example is innovation, where developers experiment with preview features to build cutting-edge solutions.
