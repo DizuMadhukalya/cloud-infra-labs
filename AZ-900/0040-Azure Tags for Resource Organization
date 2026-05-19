@@ -8,6 +8,7 @@ Common tag examples:
 
 For example, tagging all production resources with “Environment=Prod” helps in filtering and managing them easily.
 
+# Real-Life Use Case:
 A real-life use case is cost tracking. Organizations can generate cost reports based on tags to understand spending per department.
 
 Another example is automation, where scripts can identify and act on resources based on tags.
