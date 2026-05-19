@@ -10,6 +10,7 @@ RBAC can be applied at different scopes such as management group, subscription, 
 
 For example, a developer can be given Contributor access to a resource group but not to the entire subscription.
 
+# Real-Life Use Case:
 A real-life use case is separating duties in an organization. Security teams may have read-only access, while DevOps teams manage deployments.
 
 Another example is multi-team collaboration where each team has controlled access to only their resources.
