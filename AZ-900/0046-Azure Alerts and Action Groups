@@ -2,6 +2,7 @@ Azure Alerts notify users when specific conditions are met, such as high CPU usa
 
 For example, an alert can trigger an email or SMS when a server’s CPU usage exceeds 90%.
 
+# Real-Life Use Case:
 A real-life use case is incident management. IT teams receive alerts and respond quickly to issues.
 
 Another example is automated scaling, where alerts trigger scripts to scale resources.
