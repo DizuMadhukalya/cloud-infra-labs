@@ -8,6 +8,7 @@ Blueprints include:
 
 For example, a company can create a blueprint for deploying a secure environment with predefined networking, policies, and access controls.
 
+# Real-Life Use Case:
 A real-life use case is onboarding new projects. Instead of manually setting up infrastructure, teams can deploy a blueprint and get everything configured automatically.
 
 Another example is compliance, where blueprints ensure that all deployments meet organizational standards.
