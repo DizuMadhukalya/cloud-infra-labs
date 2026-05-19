@@ -8,6 +8,7 @@ It analyzes resource usage and suggests:
 
 For example, Advisor may recommend shutting down underutilized virtual machines to reduce costs.
 
+# Real-Life Use Case:
 A real-life use case is startups optimizing their cloud spending by following Advisor recommendations.
 
 Another example is improving system performance by resizing underpowered resources.
