@@ -8,6 +8,7 @@ Policies can restrict actions such as:
 
 For example, a company can create a policy that only allows resources to be created in the “Central India” region to meet data residency requirements.
 
+# Real-Life Use Case:
 A real-life use case is compliance in financial institutions. Banks can enforce encryption policies on all storage accounts to meet regulatory standards.
 
 Another example is cost control, where organizations restrict expensive VM sizes to avoid unnecessary spending.
