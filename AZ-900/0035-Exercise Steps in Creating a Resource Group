@@ -12,6 +12,7 @@ Steps to create a resource group:
 
 For example, a developer creating a web application can create a resource group named “WebApp-RG” to store all related resources like VMs, databases, and storage.
 
+# Real-Life Use Case:
 A real-life use case is project-based management. Each project can have its own resource group, making it easier to manage and delete resources when the project ends.
 
 Another example is testing environments where temporary resource groups can be created and deleted frequently.
