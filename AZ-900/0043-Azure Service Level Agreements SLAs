@@ -7,6 +7,7 @@ For example:
 * 99.9% uptime allows ~43 minutes of downtime per month
 * 99.99% uptime allows ~4 minutes of downtime per month
 
+# Real-Life Use Case:
 A real-life use case is selecting services for critical applications. A banking system may require services with high SLAs to ensure minimal downtime.
 
 Another example is designing applications across availability zones to achieve higher SLAs.
