@@ -8,6 +8,7 @@ Key components include:
 
 For example, monitoring CPU usage of a virtual machine helps identify performance issues.
 
+# Real-Life Use case:
 A real-life use case is detecting outages. Alerts can notify administrators when services go down.
 
 Another example is performance tuning, where monitoring data helps optimize applications.
