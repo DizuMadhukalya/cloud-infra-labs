@@ -7,6 +7,7 @@ Management groups have several important characteristics:
 
 For example, applying a policy at a parent management group automatically affects all child subscriptions.
 
+# Real-Life Use Case:
 A real-life use case is enterprise governance where security policies must be enforced across all departments.
 
 Another example is compliance management in regulated industries, ensuring all resources meet specific standards.
