@@ -5,8 +5,10 @@ Azure provides:
 * Basic protection (default)
 * Standard protection (enhanced)
 
+# Real-Life Example:
 For example, during a DDoS attack, Azure automatically detects and mitigates malicious traffic.
 
+# Real-Life Use Case:
 A real-life use case is an e-commerce website during a sale event, where attackers may try to disrupt services.
 
 Another example is financial platforms that must remain accessible at all times.
