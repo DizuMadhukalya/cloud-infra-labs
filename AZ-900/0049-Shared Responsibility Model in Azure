@@ -12,8 +12,10 @@ Customers are responsible for:
 * Identity management
 * Application security
 
+# Real-life Example:
 For example, if a company deploys a virtual machine, Azure ensures the hardware is secure, but the company must update the operating system and secure applications.
 
+# Real-Life Use Case:
 A real-life use case is a web application hosted on Azure. Microsoft secures the platform, but developers must ensure the application is free from vulnerabilities.
 
 Another example is compliance, where organizations must configure their environments to meet legal standards.
