@@ -6,8 +6,10 @@ Common factors include:
 * Mobile OTP
 * Biometric verification
 
+# Real-Life Example:
 For example, a user logs in with a password and then confirms via a mobile app.
 
+# Real-Life Use Case:
 A real-life use case is protecting corporate accounts from phishing attacks.
 
 Another example is securing financial transactions where additional verification is required.
