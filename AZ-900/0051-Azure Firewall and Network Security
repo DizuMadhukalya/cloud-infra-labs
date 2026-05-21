@@ -6,8 +6,10 @@ Features include:
 * Application and network filtering
 * Threat intelligence integration
 
+# Real-Life Example:
 For example, a company can allow only specific IP addresses to access its servers.
 
+# Real-Life Use Case:
 A real-life use case is protecting internal applications from unauthorized access.
 
 Another example is securing APIs by restricting traffic to trusted sources.
