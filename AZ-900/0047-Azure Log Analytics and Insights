@@ -4,8 +4,10 @@ Users can run queries to analyze logs and detect issues.
 
 For example, administrators can analyze logs to identify failed login attempts or system errors.
 
+# Real-Life use Case: 
 A real-life use case is security monitoring, where suspicious activities are detected through log analysis.
 
+# Real-Life Example:
 Another example is troubleshooting application issues by analyzing logs.
 
 Log Analytics enables data-driven decision-making and advanced diagnostics.
