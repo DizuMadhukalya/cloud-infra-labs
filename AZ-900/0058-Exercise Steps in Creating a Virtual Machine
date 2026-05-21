@@ -16,8 +16,10 @@ Steps to create a VM:
 
 For example, a developer can create a Linux VM to host a web application.
 
+# Real-Life Use Case:
 A real-life use case is a company hosting its backend services on VMs for full control over the operating system and configurations.
 
+# Real-Life Example:
 Another example is testing environments where multiple VMs are created for QA testing.
 
 This exercise provides hands-on understanding of deploying compute resources in Azure.
