@@ -5,8 +5,10 @@ They protect against:
 * Hardware failures
 * Planned maintenance
 
+# Real-Life Example:
 For example, deploying two VMs in an availability set ensures one remains active during failures.
 
+# Real-Life Use Case:
 A real-life use case is critical applications requiring uptime.
 
 Another example is enterprise systems needing redundancy.
