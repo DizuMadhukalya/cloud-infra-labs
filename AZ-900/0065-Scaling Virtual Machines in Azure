@@ -7,8 +7,10 @@ Types:
 
 For example, during high traffic, more VMs can be added.
 
+# Real-Life Use Case
 A real-life use case is e-commerce sales events with sudden traffic spikes.
 
+# Real-Life Example:
 Another example is reducing resources during low usage to save costs.
 
 Scaling ensures performance and cost efficiency.
