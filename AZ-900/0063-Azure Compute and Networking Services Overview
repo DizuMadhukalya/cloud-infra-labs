@@ -12,8 +12,10 @@ Networking services include:
 * Load Balancer
 * VPN Gateway
 
+# Real-Life Example:
 For example, a web app runs on compute services and connects to databases via networking.
 
+# Real-Life Use Case:
 A real-life use case is a multi-tier application where frontend, backend, and database are connected through secure networks.
 
 Another example is global applications using load balancers to distribute traffic.
