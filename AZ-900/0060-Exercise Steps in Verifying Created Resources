@@ -13,8 +13,10 @@ Steps to verify resources:
 
 For example, after creating a VM, verifying ensures that it is accessible and properly configured.
 
+# Real-Life Use Case:
 A real-life use case is production deployment validation, where engineers verify services before going live.
 
+# Real-Life Example:
 Another example is troubleshooting deployment failures by checking resource status and logs.
 
 Verification ensures reliability and correctness of deployments.
