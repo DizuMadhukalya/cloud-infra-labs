@@ -2,8 +2,10 @@ Virtual Machines are widely used to host applications in the cloud, especially w
 
 For example, a company can deploy a backend API on a Linux VM and configure custom dependencies, runtime environments, and security settings.
 
+# Real-Life Use Case:
 A real-life use case is hosting enterprise applications such as ERP systems that require specific OS configurations.
 
+# Real-Life Example:
 Another example is running game servers on VMs, where developers need full control over performance tuning and networking.
 
 VMs are also used for hosting databases, middleware, and legacy applications that cannot be easily migrated to platform services.
