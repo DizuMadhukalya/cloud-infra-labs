@@ -9,8 +9,10 @@ Steps:
 5. Confirm by typing the name
 6. Click Delete
 
+# Real-Life Example:
 For example, after completing a lab exercise, deleting the resource group ensures no charges are incurred.
 
+# Real-Life Use Case:
 A real-life use case is temporary testing environments that are created and deleted frequently.
 
 Another example is cost optimization, where unused resources are removed to reduce billing.
