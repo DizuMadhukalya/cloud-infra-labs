@@ -11,8 +11,10 @@ Key settings include:
 * Authentication Type: Password or SSH key
 * Username: Admin account for login
 
+# Real-Life Example - 
 For example, choosing a smaller VM size reduces cost but may limit performance.
 
+# Real-Life use case:
 A real-life use case is selecting the correct region for low latency. For users in India, choosing “Central India” ensures faster response.
 
 Another example is choosing Linux over Windows to reduce licensing costs.
