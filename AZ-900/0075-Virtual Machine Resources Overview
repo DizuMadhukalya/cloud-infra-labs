@@ -9,8 +9,10 @@ Key resources include:
 
 For example, a high-performance application requires more CPU and RAM.
 
+# Real-Life Use Case:
 A real-life use case is selecting appropriate resources for a database server requiring high memory.
 
+# Real-Life Example:
 Another example is lightweight applications running on smaller VM configurations to reduce cost.
 
 Understanding VM resources is crucial for performance optimization and cost efficiency.
