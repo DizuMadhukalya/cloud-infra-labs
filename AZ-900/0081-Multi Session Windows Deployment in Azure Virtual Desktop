@@ -4,8 +4,10 @@ This reduces cost and improves resource utilization.
 
 For example, multiple employees can use the same VM simultaneously.
 
+# Real-Life Use Case:
 A real-life use case is call centers where many users access identical environments.
 
+# Real-Life Example:
 Another example is training labs where students use shared desktops.
 
 Multi-session deployment optimizes cost and scalability.
