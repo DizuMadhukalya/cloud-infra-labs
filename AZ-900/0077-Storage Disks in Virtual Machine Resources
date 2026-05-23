@@ -10,8 +10,10 @@ Azure also provides different performance tiers like Standard HDD, Standard SSD,
 
 For example, a database application may use Premium SSD for high performance.
 
+# Real-Life Use Case:
 A real-life use case is storing large datasets for analytics.
 
+# Real-Life Example:
 Another example is separating OS and data disks for better performance and management.
 
 Storage selection directly impacts application speed and reliability.
