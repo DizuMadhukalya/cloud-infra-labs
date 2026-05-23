@@ -2,8 +2,10 @@ Migrating to the cloud using Virtual Machines is often the easiest approach, kno
 
 Existing on-premise applications can be moved to Azure VMs without major changes.
 
+# Real-Life Example:
 For example, a company running a legacy application on physical servers can migrate it directly to a VM in Azure.
 
+# Real-Life Use Case:
 A real-life use case is enterprises modernizing infrastructure without rewriting applications.
 
 Another example is quick migration during data center shutdowns.
