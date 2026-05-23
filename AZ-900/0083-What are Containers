@@ -4,8 +4,10 @@ Unlike traditional virtualization, containers do not require a full OS for each 
 
 For example, Docker containers can start in seconds compared to minutes for virtual machines.
 
+# Real-Life Use Case:
 A real-life use case is deploying web applications quickly across multiple environments without configuration issues.
 
+# Real-Life Example:
 Another example is running multiple applications on the same server without conflicts.
 
 Containers improve resource efficiency, portability, and speed.
