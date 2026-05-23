@@ -2,8 +2,10 @@ Virtual Machines play a critical role in disaster recovery (DR) by enabling repl
 
 For example, an organization can replicate its on-premise servers to Azure VMs. In case of a disaster, workloads can be quickly switched to Azure.
 
+# Real-Life Use Case:
 A real-life use case is a financial institution ensuring business continuity during outages or natural disasters.
 
+# Real-Life Example:
 Another example is data center failure, where applications can be restored on Azure VMs within minutes.
 
 Azure Site Recovery is commonly used to automate this process.
