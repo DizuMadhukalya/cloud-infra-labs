@@ -9,8 +9,10 @@ Key components include:
 
 For example, a VM can be accessed via a public IP for remote login.
 
+# Real-Life Use Case:
 A real-life use case is multi-tier applications where frontend and backend communicate within a VNet.
 
+# Real-Life Example:
 Another example is securing VMs using private IPs and restricting public access.
 
 Networking ensures connectivity, security, and performance.
