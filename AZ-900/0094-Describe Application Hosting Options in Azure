@@ -7,8 +7,10 @@ Common hosting options include:
 * Containers (ACI, AKS, Container Apps): Portable and scalable deployments
 * Azure Functions (Serverless): Event-driven execution without infrastructure management
 
+# Real-Life Example:
 For example, a startup building a simple web app may choose Azure App Service for ease of deployment, while a large enterprise might use AKS for microservices architecture.
 
+# Real-Life Use Case:
 A real-life use case is a company migrating from on-premise servers. They might start with VMs (lift-and-shift), then gradually move to App Services or containers for better scalability.
 
 Another example is an IoT system using Azure Functions for processing event data in real-time.
