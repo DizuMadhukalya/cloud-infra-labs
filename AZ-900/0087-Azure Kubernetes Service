@@ -2,8 +2,10 @@ Azure Kubernetes Service (AKS) is a managed Kubernetes platform used to deploy, 
 
 It automates container orchestration tasks such as scaling, load balancing, and self-healing.
 
+# Real-Life Example:
 For example, AKS can automatically restart failed containers and distribute traffic across multiple instances.
 
+# Real-Life Use Case:
 A real-life use case is large-scale applications like streaming platforms or e-commerce systems.
 
 Another example is enterprise microservices architectures requiring high scalability and reliability.
