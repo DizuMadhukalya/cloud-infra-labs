@@ -2,8 +2,10 @@ Azure Functions is a serverless compute service that allows users to run code wi
 
 Functions are triggered by events such as HTTP requests, timers, or messages.
 
+# Real-Life Example:
 For example, a function can process an uploaded file automatically when it is added to storage.
 
+# Real-Life Use Case:
 A real-life use case is backend APIs that scale automatically based on demand.
 
 Another example is processing IoT data streams in real-time.
