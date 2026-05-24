@@ -9,8 +9,10 @@ Key features include:
 * Continuous deployment support
 * Integration with GitHub and Azure DevOps
 
+# Real-Life Example:
 For example, a developer can deploy a web application directly from GitHub with minimal configuration.
 
+# Real-Life Use Case:
 A real-life use case is a business hosting its website and backend APIs using App Service for reliability and scalability.
 
 Another example is startups rapidly deploying applications without worrying about server management.
