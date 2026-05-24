@@ -2,8 +2,10 @@ Azure Container Apps is a serverless container service designed for running micr
 
 It provides built-in scaling, load balancing, and integration with Kubernetes without requiring direct cluster management.
 
+# Real-Life Example:
 For example, a microservice application can automatically scale based on incoming requests.
 
+# Real-Life Use Case:
 A real-life use case is API backends that scale dynamically depending on traffic.
 
 Another example is event-driven systems such as processing messages from queues.
