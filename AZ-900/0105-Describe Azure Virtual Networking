@@ -9,6 +9,7 @@ Key components include:
 
 For example, a web server and database can communicate within a private VNet.
 
+# Real-Life Use Case:
 A real-life use case is multi-tier applications where frontend and backend are isolated for security.
 
 Another example is hybrid cloud setups where on-premise networks connect to Azure VNets.
