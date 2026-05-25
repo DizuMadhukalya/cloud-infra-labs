@@ -8,6 +8,7 @@ They can be:
 
 For example, a WebJob can process uploaded images or send email notifications.
 
+# Real-Life Use Case:
 A real-life use case is batch processing tasks such as generating reports or cleaning up data.
 
 Another example is handling asynchronous tasks that should not block user requests.
