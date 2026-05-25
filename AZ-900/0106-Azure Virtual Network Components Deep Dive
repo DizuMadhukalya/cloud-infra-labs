@@ -9,6 +9,7 @@ Key components include:
 
 For example, a company can create separate subnets for frontend, backend, and database layers.
 
+# Real-Life Use Case
 A real-life use case is a banking application where database servers are placed in a private subnet inaccessible from the internet.
 
 Another example is isolating environments (Dev/Test/Prod) within different subnets for security.
