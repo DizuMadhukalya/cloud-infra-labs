@@ -4,6 +4,7 @@ They integrate easily with iOS, Android, and cross-platform frameworks.
 
 For example, a mobile app can use Azure Mobile Apps for user authentication and syncing data.
 
+# Real-Life Use Case:
 A real-life use case is a fitness app storing user activity data in the cloud.
 
 Another example is a messaging app sending push notifications to users.
