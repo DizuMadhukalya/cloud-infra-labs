@@ -4,6 +4,7 @@ When a user places an order, a WebJob processes the request and sends confirmati
 
 Another example is nightly data processing where reports are generated automatically.
 
+# Real-Life Use Case:
 A real-life use case is cleaning up expired sessions or logs.
 
 WebJobs handle background tasks efficiently without affecting user experience.
