@@ -8,6 +8,7 @@ They allow or deny traffic based on:
 
 For example, an NSG can allow HTTP (port 80) traffic but block all other ports.
 
+# Real-Life Use Case:
 A real-life use case is securing backend servers so they are only accessible from frontend servers.
 
 Another example is restricting SSH/RDP access to specific IP addresses for security.
