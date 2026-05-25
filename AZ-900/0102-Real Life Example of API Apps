@@ -4,6 +4,7 @@ The API handles requests such as booking rides, calculating fares, and tracking 
 
 For example, when a user requests a ride, the mobile app communicates with the API App.
 
+# Real-Life Example:
 Another example is payment gateways where APIs process transactions securely.
 
 API Apps enable seamless communication between frontend and backend systems.
