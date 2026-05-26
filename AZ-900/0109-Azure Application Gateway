@@ -8,8 +8,10 @@ Features include:
 
 For example, traffic can be routed to different backend services based on URL paths.
 
+# Real-Life Use Case:
 A real-life use case is routing requests like /api to backend servers and /images to storage services.
 
+# Real-Life Example:
 Another example is protecting web applications from attacks using WAF.
 
 Application Gateway enhances security and intelligent routing.
