@@ -7,6 +7,7 @@ It supports:
 
 For example, a web application can distribute user requests across multiple VMs.
 
+# Real-Life Use Case:
 A real-life use case is an e-commerce website handling thousands of users simultaneously.
 
 Another example is ensuring application availability during server failures.
