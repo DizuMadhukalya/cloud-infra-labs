@@ -8,8 +8,10 @@ It supports:
 
 For example, a media company can store video content in Blob Storage.
 
+# Real-Life Use Case:
 A real-life use case is storing backups and logs.
 
+# Real-Life Example:
 Another example is serving static content for websites.
 
 Blob Storage is optimized for large-scale data storage.
