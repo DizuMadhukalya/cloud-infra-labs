@@ -4,8 +4,10 @@ Isolation ensures that resources are protected from unauthorized access, while s
 
 For example, a database can be placed in a private subnet with no internet access.
 
+# Real-Life Use Case:
 A real-life use case is a financial system where sensitive data is isolated from public-facing services.
 
+# Real-Life Example:
 Another example is separating development, testing, and production environments to avoid interference.
 
 Isolation and segmentation improve security, performance, and manageability.
