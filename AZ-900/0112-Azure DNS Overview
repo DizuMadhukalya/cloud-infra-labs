@@ -4,8 +4,10 @@ It translates domain names into IP addresses.
 
 For example, a website like [www.example.com](http://www.example.com) is mapped to a server IP.
 
+# Real-Life Use Case:
 A real-life use case is hosting domain records for applications deployed in Azure.
 
+# Real-Life Example:
 Another example is managing DNS zones for global applications.
 
 Azure DNS ensures reliable and fast domain resolution.
