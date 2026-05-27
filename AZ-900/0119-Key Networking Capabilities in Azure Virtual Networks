@@ -8,8 +8,10 @@ Azure Virtual Networks provide several key networking capabilities:
 
 For example, VNets allow secure communication between resources without exposing them to the public internet.
 
+# Real-Life Use Case:
 A real-life use case is hosting a secure enterprise application where backend services are not accessible externally.
 
+# Real-Life Example:
 Another example is connecting cloud resources to on-premise infrastructure using VPN or ExpressRoute.
 
 These capabilities make VNets highly flexible and powerful for designing secure cloud architectures.
