@@ -4,6 +4,7 @@ This internal communication is secure and does not traverse the public internet.
 
 For example, a web server can communicate with a database server within the same VNet.
 
+# Real-Life Use Case:
 A real-life use case is a multi-tier application where frontend, backend, and database interact internally.
 
 Another example is microservices architecture where services communicate securely within a VNet.
