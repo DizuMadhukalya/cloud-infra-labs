@@ -4,8 +4,10 @@ It supports SMB and NFS protocols.
 
 For example, applications can access shared files just like a traditional file server.
 
+# Real-Life Use Case:
 A real-life use case is migrating on-premise file servers to Azure.
 
+# Real-Life Example:
 Another example is sharing files across multiple VMs.
 
 Azure File Storage simplifies file sharing in cloud environments.
