@@ -9,8 +9,10 @@ Types include:
 
 For example, GRS replicates data to another region for disaster recovery.
 
+# Real-Life Use Case:
 A real-life use case is protecting critical business data.
 
+# Real-Life Example:
 Another example is ensuring availability during regional outages.
 
 Redundancy options improve reliability and resilience.
