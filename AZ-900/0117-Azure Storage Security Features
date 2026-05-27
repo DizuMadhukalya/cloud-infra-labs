@@ -8,8 +8,10 @@ These include:
 
 For example, data is automatically encrypted when stored in Azure.
 
+# Real-Life Use Case:
 A real-life use case is secure data sharing using SAS tokens.
 
+# Real-Life Example 1:
 Another example is restricting access to storage accounts using RBAC.
 
 Storage security ensures data confidentiality and compliance.
