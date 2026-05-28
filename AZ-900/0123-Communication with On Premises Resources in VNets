@@ -4,8 +4,10 @@ This enables hybrid cloud scenarios where resources are distributed across cloud
 
 For example, an organization can connect its office network to Azure to access cloud-hosted applications.
 
+# Real-Life Use Case:
 A real-life use case is extending enterprise infrastructure to the cloud.
 
+# Real-Life Example:
 Another example is backup and disaster recovery where data is replicated between on-premise and Azure.
 
 This connectivity allows seamless integration between environments.
