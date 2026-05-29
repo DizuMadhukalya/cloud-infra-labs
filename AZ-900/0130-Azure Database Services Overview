@@ -8,8 +8,10 @@ Azure offers multiple database services such as:
 
 For example, a web application can store user data in Azure SQL Database.
 
+# Real-Life Use Case:
 A real-life use case is an e-commerce platform storing product and customer information in relational databases.
 
+# Real-Life Example:
 Another example is IoT systems storing large volumes of semi-structured data in NoSQL databases like Cosmos DB.
 
 These services provide scalability, high availability, and built-in security.
