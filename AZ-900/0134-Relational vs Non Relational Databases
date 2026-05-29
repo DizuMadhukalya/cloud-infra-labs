@@ -14,8 +14,10 @@ Non-relational:
 
 For example, banking systems use relational databases for transactions.
 
+# Real-Life Use Case:
 A real-life use case is social media platforms using NoSQL databases for scalability.
 
+# Real-Life Example:
 Another example is e-commerce platforms using both types for different purposes.
 
 Choosing the right database depends on application requirements.
