@@ -6,8 +6,10 @@ It supports:
 * Multiple database types
 * Online and offline migration
 
+# Real-Life Example:
 For example, a company can migrate its SQL Server database to Azure SQL Database.
 
+# Real-Life Use Case:
 A real-life use case is enterprises modernizing legacy systems.
 
 Another example is migrating large datasets with minimal disruption.
