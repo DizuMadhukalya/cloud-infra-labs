@@ -9,8 +9,10 @@ It offers:
 
 For example, an application can use Azure SQL Database to store structured data such as user profiles and transactions.
 
+# Real-Life Use Case:
 A real-life use case is a banking system managing customer accounts and transactions.
 
+# Real-Life Example:
 Another example is SaaS applications storing tenant-specific data securely.
 
 Azure SQL Database eliminates the need for manual database maintenance.
