@@ -4,8 +4,10 @@ For example, a web server communicates with a database server internally.
 
 Another example is microservices exchanging data within a VNet.
 
+# Real-Life Use Case:
 A real-life use case is enterprise applications where different services interact securely.
 
+# Real-Life Example:
 Another example is analytics systems where data flows between storage and processing units.
 
 This communication ensures efficient and secure operations.
