@@ -8,8 +8,10 @@ These services offer:
 
 For example, a web application built using PHP can use MySQL as its backend.
 
+# Real-Life Use Case:
 A real-life use case is startups using PostgreSQL for analytics and data processing.
 
+# Real-Life Example:
 Another example is migrating existing applications from on-premise MySQL databases to Azure.
 
 These services provide flexibility for developers familiar with open-source databases.
