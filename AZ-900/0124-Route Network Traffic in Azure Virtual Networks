@@ -8,8 +8,10 @@ Azure provides:
 
 For example, traffic can be routed through a firewall for inspection.
 
+# Real-Life Use Case
 A real-life use case is directing all outbound traffic through a security appliance.
 
+# Real-Life Example
 Another example is optimizing traffic flow between subnets for performance.
 
 Routing ensures efficient and secure data flow.
