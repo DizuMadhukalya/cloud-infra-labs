@@ -9,6 +9,7 @@ Sequential steps to create a resource group:
 7. Click “Review + Create”
 8. Click “Create”
 
+# Real-Life Example:
 For example, creating a resource group named “WebApp-RG” for hosting application resources.
 
 A real-life use case is organizing all resources of a project under one group for easy management.
