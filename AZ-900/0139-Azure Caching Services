@@ -4,8 +4,10 @@ It stores frequently accessed data in memory.
 
 For example, user session data can be cached to reduce database load.
 
+# Real-Life Use Case:
 A real-life use case is e-commerce platforms caching product data.
 
+# Real-Life Example:
 Another example is gaming applications storing session states.
 
 Caching reduces latency and improves responsiveness.
