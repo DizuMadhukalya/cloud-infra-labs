@@ -8,8 +8,10 @@ It supports:
 
 For example, a company can schedule daily backups of its virtual machines.
 
+# Real-Life Use Case:
 A real-life use case is protecting business data from accidental deletion or ransomware attacks.
 
+# Real-Life Example:
 Another example is long-term data retention for compliance.
 
 Azure Backup ensures data protection and recovery.
