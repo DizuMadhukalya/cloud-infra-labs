@@ -16,8 +16,10 @@ sudo systemctl enable nginx
 
 Nginx is used as a web server to serve web pages.
 
+# Real-Life Use Case:
 A real-life use case is hosting websites or APIs.
 
+# # Real-Life Example:
 Another example is using Nginx as a reverse proxy for applications.
 
 Custom Script Extension automates configuration tasks.
