@@ -8,8 +8,10 @@ Steps to access web server:
 
 For example, accessing a deployed web server from a browser.
 
+# Real-Life Use Case:
 A real-life use case is testing deployed applications.
 
+# Real-Life Example:
 Another example is verifying production deployments.
 
 This confirms successful installation and connectivity.
