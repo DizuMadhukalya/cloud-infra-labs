@@ -4,8 +4,10 @@ It relies on static configurations and does not dynamically adjust routes.
 
 For example, traffic between specific IP ranges is encrypted based on defined policies.
 
+# Real-Life Use Case:
 A real-life use case is small organizations with simple network requirements.
 
+# Real-Life Example:
 Another example is legacy systems that require static VPN configurations.
 
 Policy-based VPNs are easier to configure but less flexible compared to route-based VPNs.
