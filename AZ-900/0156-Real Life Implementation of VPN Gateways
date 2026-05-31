@@ -2,8 +2,10 @@ VPN Gateways are widely used in real-world enterprise environments.
 
 For example, a multinational company connects its headquarters and branch offices to Azure using Site-to-Site VPN.
 
+# Real-Life Use Case:
 A real-life use case is secure remote access for employees working from home.
 
+# Real-Life Example:
 Another example is connecting on-premise databases to cloud-based applications.
 
 Organizations also use VPN Gateways for disaster recovery, ensuring backup systems in Azure remain accessible.
