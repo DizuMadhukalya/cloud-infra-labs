@@ -8,8 +8,10 @@ Steps to list NSG rules:
 
 For example, checking allowed and blocked ports.
 
+# Real-Life Use Case:
 A real-life use case is troubleshooting connectivity issues.
 
+# Real-Life Example:
 Another example is auditing security configurations.
 
 This helps understand network access policies.
