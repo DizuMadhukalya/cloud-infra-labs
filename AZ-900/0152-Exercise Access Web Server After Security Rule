@@ -7,8 +7,10 @@ Steps:
 
 For example, accessing web server after enabling HTTP.
 
+# Real-Life Use Case:
 A real-life use case is validating security configurations.
 
+# Real-Life Example:
 Another example is ensuring application availability.
 
 This confirms proper rule configuration.
