@@ -10,8 +10,10 @@ Steps to create NSG rule:
 
 For example, allowing HTTP traffic to access web server.
 
+# Real-Life Use Case:
 A real-life use case is enabling application access.
 
+# Real-Life Example:
 Another example is restricting traffic for security.
 
 This demonstrates traffic control.
