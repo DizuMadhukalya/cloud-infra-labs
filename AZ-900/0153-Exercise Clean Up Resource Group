@@ -8,8 +8,10 @@ Steps:
 
 For example, removing all resources after testing.
 
+# Real-Life Use Case:
 A real-life use case is avoiding unnecessary cloud costs.
 
+# Real-Life Example:
 Another example is cleaning temporary environments.
 
 Cleanup ensures efficient resource management.
