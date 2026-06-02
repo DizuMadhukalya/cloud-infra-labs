@@ -4,8 +4,10 @@ ExpressRoute is designed with redundancy at multiple levels, including dual circ
 
 For example, if a primary circuit between a company’s datacenter and Azure fails, the backup circuit takes over without interrupting services.
 
+# Real-Life Use Case:
 A real-life use case is financial institutions that require uninterrupted connectivity for transaction processing.
 
+# Real-Life Example:
 Another example is large enterprises running mission-critical workloads where downtime is unacceptable.
 
 Failover mechanisms in ExpressRoute ensure high availability and reliability of connectivity.
