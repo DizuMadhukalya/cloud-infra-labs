@@ -4,8 +4,10 @@ If one instance fails, others continue handling traffic.
 
 For example, two servers process requests simultaneously.
 
+# Real-Life Use Case:
 A real-life use case is high-traffic applications like streaming platforms.
 
+# Real-Life Example:
 Another example is load-balanced web applications.
 
 This model maximizes resource utilization and availability.
