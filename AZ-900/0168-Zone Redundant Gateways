@@ -4,8 +4,10 @@ These gateways automatically distribute traffic across zones, reducing the risk 
 
 For example, a VPN or ExpressRoute gateway can be configured as zone-redundant.
 
+# Real-Life Use Case:
 A real-life use case is enterprise networking where uptime is critical.
 
+# Real-Life Example:
 Another example is applications requiring high availability across zones.
 
 Zone redundancy enhances resilience and fault tolerance.
