@@ -4,8 +4,10 @@ The standby instance takes over when the active one fails.
 
 For example, a primary server handles traffic while a backup server waits for failover.
 
+# Real-Life Use Case:
 A real-life use case is disaster recovery systems.
 
+# Real-Life Example:
 Another example is database replication setups.
 
 This model ensures reliability but may underutilize resources.
