@@ -4,8 +4,10 @@ This ensures continuous connectivity even if one path fails.
 
 For example, traffic is automatically rerouted to a secondary connection.
 
+# Real-Life Use Case:
 A real-life use case is mission-critical systems requiring high availability.
 
+# Real-Life Example:
 Another example is enterprise networks ensuring uninterrupted operations.
 
 Built-in redundancy enhances reliability.
