@@ -4,8 +4,10 @@ This model establishes a private, high-speed connection without traversing the p
 
 For example, a company can connect its data center directly to Azure using a dedicated Ethernet circuit provided by a cloud exchange partner like Equinix.
 
+# Real-Life Use Case:
 A real-life use case is enterprises requiring predictable latency and high bandwidth for applications such as financial trading platforms.
 
+# Real-Life Example:
 Another example is large-scale data migration where stable and fast connectivity is essential.
 
 Point-to-point connections offer secure, reliable, and consistent performance for enterprise workloads.
