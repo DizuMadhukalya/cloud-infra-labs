@@ -4,8 +4,10 @@ This model uses shared infrastructure for connectivity.
 
 For example, companies colocate their servers in a facility that connects directly to Azure.
 
+# Real-Life Use Case:
 A real-life use case is enterprises using Equinix data centers for connectivity.
 
+# Real-Life Example:
 Another example is reducing latency by connecting through nearby exchange points.
 
 This model provides efficient and scalable connectivity options.
