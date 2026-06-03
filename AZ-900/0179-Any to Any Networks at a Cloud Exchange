@@ -4,8 +4,10 @@ Instead of having dedicated circuits for each connection, participants can commu
 
 For example, a company connected to a cloud exchange can access multiple cloud providers and partners through the same network.
 
+# Real-Life Use Case:
 A real-life use case is service providers offering connectivity to multiple clients efficiently.
 
+# Real-Life Example:
 Another example is enterprises connecting to multiple SaaS providers without establishing separate connections.
 
 This model provides flexibility, scalability, and cost efficiency.
