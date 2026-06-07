@@ -7,8 +7,10 @@ Azure DNS offers several benefits:
 
 For example, applications can handle millions of DNS queries without performance issues.
 
+# Real-life use case:
 A real-life use case is global businesses serving users across regions.
 
+# Real-life example:
 Another example is integrating DNS with Azure services for seamless management.
 
 These benefits make Azure DNS reliable and efficient.
