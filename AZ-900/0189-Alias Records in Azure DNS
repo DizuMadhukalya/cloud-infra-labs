@@ -8,8 +8,10 @@ Unlike traditional DNS records, alias records automatically update when the targ
 
 For example, an alias record can point a domain to a load balancer.
 
+# Real-life use case:
 A real-life use case is dynamic cloud environments where resources frequently change.
 
+# Real-life example:
 Another example is simplifying DNS management for scalable applications.
 
 Alias records provide flexibility and automation in DNS management.
