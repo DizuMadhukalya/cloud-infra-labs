@@ -4,8 +4,10 @@ It provides a unique namespace for data.
 
 For example, all blobs, files, queues, and tables are stored within a storage account.
 
+# Real-life use case:
 A real-life use case is organizing application data in a single account.
 
+# Real-life example:
 Another example is managing access and billing for storage resources.
 
 Storage accounts simplify data management and access control.
