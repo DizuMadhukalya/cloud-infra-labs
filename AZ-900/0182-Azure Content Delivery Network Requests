@@ -8,8 +8,10 @@ When a user requests content:
 
 For example, images on a website are delivered quickly using CDN.
 
+# Real-life use case:
 A real-life use case is streaming platforms delivering video content globally.
 
+# Real-life example:
 Another example is reducing load on backend servers by caching frequently accessed data.
 
 CDN improves performance, scalability, and user experience.
