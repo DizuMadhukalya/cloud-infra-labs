@@ -8,8 +8,10 @@ It uses:
 
 For example, DNS queries are routed to the nearest server.
 
+# Real-life use case:
 A real-life use case is high-traffic websites requiring fast resolution.
 
+# Real-life example:
 Another example is global applications ensuring consistent performance.
 
 Azure DNS provides enterprise-grade reliability.
