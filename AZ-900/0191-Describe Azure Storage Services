@@ -9,8 +9,10 @@ Key services include:
 
 For example, an application can store images in Blob Storage and logs in Table Storage.
 
+# Real-life use case:
 A real-life use case is an e-commerce platform storing product images and customer data.
 
+# Real-life example:
 Another example is IoT systems storing sensor data.
 
 Azure Storage ensures high availability and durability.
