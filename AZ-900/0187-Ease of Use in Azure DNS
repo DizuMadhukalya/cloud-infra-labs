@@ -9,8 +9,10 @@ Users can quickly create and manage DNS records.
 
 For example, adding a new domain record takes only a few steps.
 
+# Real-life use case:
 A real-life use case is developers managing DNS for applications.
 
+# Real-life example:
 Another example is automated deployments using scripts.
 
 Ease of use simplifies DNS management.
