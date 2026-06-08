@@ -2,8 +2,10 @@ Azure Table Storage is a NoSQL key-value store for structured data.
 
 For example, storing user profiles.
 
+# Real-Life Use Case:
 A real-life use case is applications requiring fast access to structured data.
 
+# Real-Life Example:
 Another example is logging and telemetry data.
 
 It provides scalable and flexible storage.
