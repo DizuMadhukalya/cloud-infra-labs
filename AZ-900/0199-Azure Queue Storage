@@ -2,8 +2,10 @@ Azure Queue Storage is used for storing messages for asynchronous processing.
 
 For example, background tasks like order processing.
 
+# Real-Life Use Case:
 A real-life use case is decoupling application components.
 
+# Real-Life Example:
 Another example is handling high workloads efficiently.
 
 Queues improve scalability and reliability.
