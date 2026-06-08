@@ -8,8 +8,10 @@ It supports:
 
 For example, storing website images in blob storage.
 
+# Real-Life Use Case:
 A real-life use case is media streaming platforms.
 
+# Real-Life Example:
 Another example is backup storage.
 
 Blob storage is highly scalable and cost-effective.
