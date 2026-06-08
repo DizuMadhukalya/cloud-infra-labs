@@ -9,8 +9,10 @@ Each service serves a different purpose.
 
 For example, blobs store images, while queues handle messages.
 
+# Real-Life Use-Case:
 A real-life use case is microservices communication using queues.
 
+# Real-Life Example:
 Another example is storing structured data in tables.
 
 This unified model simplifies storage management.
