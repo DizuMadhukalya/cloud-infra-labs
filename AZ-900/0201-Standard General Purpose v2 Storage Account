@@ -4,8 +4,10 @@ They support all storage services and features.
 
 For example, a single account can store blobs, files, queues, and tables.
 
+# Real-Life Use Case:
 A real-life use case is modern applications requiring multiple storage types.
 
+# Real-Life Example:
 Another example is cost optimization with tiering support.
 
 GPv2 provides flexibility, scalability, and advanced features.
