@@ -8,6 +8,7 @@ Below is a comparison of key storage account types:
 
 For example, GPv2 is used for general applications, while premium options are used for performance-critical workloads.
 
+# Real-Life Use Case:
 A real-life use case is choosing premium storage for real-time applications and standard storage for backups.
 
 Another example is enterprises mixing storage types based on workload requirements.
