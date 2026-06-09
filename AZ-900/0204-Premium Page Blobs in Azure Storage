@@ -4,8 +4,10 @@ They are backed by SSD storage and provide consistent low-latency performance.
 
 For example, OS disks and data disks for VMs are stored as page blobs.
 
+# Real-Life Use Case:
 A real-life use case is running high-performance databases on VMs.
 
+# Real-Life Example:
 Another example is enterprise applications requiring fast disk access.
 
 Premium page blobs ensure stable and predictable performance for disk-intensive workloads.
