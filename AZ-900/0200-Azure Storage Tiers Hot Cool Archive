@@ -6,8 +6,10 @@ Azure Storage tiers optimize cost based on data access frequency:
 
 For example, active data stored in Hot tier.
 
+# Real-Life Use Case:
 A real-life use case is backup data stored in Archive tier.
 
+# Real-Life Example:
 Another example is logs stored in Cool tier.
 
 Tiering helps optimize storage costs.
