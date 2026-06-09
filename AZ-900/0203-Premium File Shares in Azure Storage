@@ -4,8 +4,10 @@ They support SMB and NFS protocols and are ideal for applications requiring shar
 
 For example, enterprise applications like SAP or databases can use premium file shares for high-speed file operations.
 
+# Real-Life Use Case:
 A real-life use case is migrating on-premise file servers with performance-critical workloads to Azure.
 
+# Real-Life Example:
 Another example is hosting shared configurations or application data for multiple VMs.
 
 Premium file shares ensure reliability and fast access for demanding workloads.
