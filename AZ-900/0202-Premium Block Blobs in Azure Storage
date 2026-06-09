@@ -4,8 +4,10 @@ Unlike standard blob storage, premium block blobs are designed for workloads suc
 
 For example, a media processing application that continuously uploads and processes large video files can benefit from premium block blobs.
 
+# Real-Life Use Case:
 A real-life use case is a streaming platform where content is uploaded and processed rapidly before being distributed globally.
 
+# Real-Life Example:
 Another example is machine learning pipelines that require fast access to training datasets.
 
 Premium block blobs ensure consistent performance and reduced latency.
