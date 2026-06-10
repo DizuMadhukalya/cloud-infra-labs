@@ -9,8 +9,10 @@ Options include:
 
 For example, data is replicated across multiple locations.
 
+# Real-Life Use Case:
 A real-life use case is disaster recovery planning.
 
+# Real-Life Example;
 Another example is ensuring availability during outages.
 
 Redundancy protects against data loss.
