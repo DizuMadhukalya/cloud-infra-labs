@@ -8,8 +8,10 @@ Managing storage accounts involves following best practices:
 
 For example, applying lifecycle rules to move data to cooler tiers.
 
+# Real-Life Use Case:
 A real-life use case is cost optimization by archiving old data.
 
+# Real-Life Example:
 Another example is securing access using RBAC.
 
 Proper management ensures efficiency and security.
