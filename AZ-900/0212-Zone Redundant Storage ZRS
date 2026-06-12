@@ -4,8 +4,10 @@ This protects against zone failures.
 
 For example, data is stored in different physical locations within a region.
 
+# Real-Life Use Case:
 A real-life use case is mission-critical applications.
 
+# Real-life Example:
 Another example is ensuring uptime during zone outages.
 
 ZRS provides higher availability than LRS.
