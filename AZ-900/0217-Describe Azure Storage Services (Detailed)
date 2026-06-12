@@ -10,8 +10,10 @@ They include:
 
 For example, a web application may use blob storage for images and queue storage for background processing.
 
+# Real-life Use Case:
 A real-life use case is enterprise applications storing logs, backups, and transactional data.
 
+# Real-life Example:
 Another example is IoT platforms storing large-scale sensor data.
 
 These services provide scalability, durability, and flexibility.
