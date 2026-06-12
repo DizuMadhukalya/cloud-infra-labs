@@ -4,8 +4,10 @@ It uses key-value pairs for fast access.
 
 For example, storing user profile data.
 
+# Real-life Use Case:
 A real-life use case is logging and telemetry systems.
 
+# Real-life Example:
 Another example is applications requiring scalable structured storage.
 
 Table storage is flexible and efficient.
