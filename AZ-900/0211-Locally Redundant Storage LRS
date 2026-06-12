@@ -4,8 +4,10 @@ It provides basic redundancy.
 
 For example, data is replicated three times locally.
 
+# Real-life Use Case:
 A real-life use case is non-critical data storage.
 
+# Real-Life Example:
 Another example is development environments.
 
 LRS is cost-effective but limited to one location.
