@@ -8,8 +8,10 @@ Types include:
 
 For example, a VM’s operating system runs on a disk stored in Azure.
 
+# Real-life Use Case:
 A real-life use case is hosting databases on VM disks.
 
+# Real-life Example:
 Another example is enterprise applications requiring persistent storage.
 
 Disk storage ensures reliability and performance.
