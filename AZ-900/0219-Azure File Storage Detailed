@@ -4,8 +4,10 @@ It allows multiple systems to access shared data.
 
 For example, applications can store shared configuration files.
 
+# Real-life Use Case:
 A real-life use case is migrating legacy file servers to the cloud.
 
+# Real-life Example:
 Another example is sharing data across multiple VMs.
 
 It simplifies file sharing in distributed systems.
