@@ -4,8 +4,10 @@ It stores messages that can be processed later.
 
 For example, an order placed on a website is added to a queue for processing.
 
+# Real-life Use Case:
 A real-life use case is microservices architecture.
 
+# Real-life Example:
 Another example is background job processing.
 
 Queues improve scalability and decoupling.
