@@ -4,8 +4,10 @@ GRS works asynchronously, meaning there may be a slight delay between updates in
 
 For example, if data is stored in Central India, a copy is automatically replicated to a paired region like South India.
 
+# Real-life Use Case:
 A real-life use case is disaster recovery, where data remains safe even if an entire region goes down.
 
+# Real-life Example:
 Another example is enterprise backup systems where critical data must survive large-scale outages.
 
 GRS ensures high durability and protection against regional failures.
