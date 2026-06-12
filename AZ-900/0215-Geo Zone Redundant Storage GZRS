@@ -7,8 +7,10 @@ This means data is:
 
 For example, data is stored across multiple zones in Central India and also replicated to another region.
 
+# Real-life Use Case:
 A real-life use case is mission-critical applications like banking systems requiring maximum durability.
 
+# Real-life Example:
 Another example is global applications that cannot afford downtime.
 
 GZRS provides the highest level of redundancy in Azure Storage.
