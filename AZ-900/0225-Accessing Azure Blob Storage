@@ -8,8 +8,10 @@ Azure Blob Storage can be accessed using:
 
 For example, a developer uploads files using SDKs.
 
+# Real-Life Use Case:
 A real-life use case is web apps fetching images from blob storage.
 
+# Real-Life Example:
 Another example is secure file sharing using SAS URLs.
 
 Access methods provide flexibility and security.
