@@ -8,8 +8,10 @@ These options include:
 
 For example, small datasets can be migrated over the internet, while large datasets may require offline transfer using physical devices.
 
+# Real-Life Use Case:
 A real-life use case is a company migrating its on-premise database to Azure SQL Database.
 
+# Real-Life Example:
 Another example is moving large backup archives to Azure Blob Storage.
 
 Choosing the right migration method depends on data size, network bandwidth, and time constraints.
