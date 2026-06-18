@@ -10,8 +10,10 @@ It supports:
 
 For example, employees can log in once and access multiple applications.
 
+# Real-Life Use Case:
 A real-life use case is enterprise organizations managing thousands of user accounts securely.
 
+# Real-Life Example:
 Another example is SaaS applications using centralized identity management.
 
 Identity services ensure secure access control across cloud resources.
