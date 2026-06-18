@@ -7,8 +7,10 @@ Azure supports multiple authentication methods:
 
 For example, users may log in using password + OTP.
 
+# Real-Life Use Case:
 A real-life use case is securing financial applications with MFA.
 
+# Real-Life Example:
 Another example is passwordless login using biometrics.
 
 Strong authentication reduces security risks.
