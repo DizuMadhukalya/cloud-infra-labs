@@ -8,8 +8,10 @@ It allows defining rules such as:
 
 For example, restricting resource creation to specific regions.
 
+# Real-Life Use Case:
 A real-life use case is ensuring compliance with company policies.
 
+# Real-Life Example:
 Another example is preventing deployment of unsecured resources.
 
 Policies help maintain governance and consistency.
