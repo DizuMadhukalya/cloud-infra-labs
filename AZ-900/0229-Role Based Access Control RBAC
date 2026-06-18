@@ -8,8 +8,10 @@ Roles include:
 
 For example, a developer may have contributor access while a manager has reader access.
 
+# Real-Life Use Case:
 A real-life use case is controlling access to production environments.
 
+# Real-Life Example:
 Another example is restricting sensitive operations to specific users.
 
 RBAC ensures least-privilege access.
