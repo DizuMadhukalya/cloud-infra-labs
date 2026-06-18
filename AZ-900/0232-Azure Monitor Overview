@@ -8,8 +8,10 @@ It provides:
 
 For example, monitoring CPU usage of VMs.
 
+# Real-Life Use Case:
 A real-life use case is detecting performance issues.
 
+# Real-Life Example:
 Another example is alerting administrators during outages.
 
 Azure Monitor ensures system visibility and reliability.
