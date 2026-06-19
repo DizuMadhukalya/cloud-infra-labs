@@ -8,8 +8,10 @@ Actions include:
 
 For example, sending alerts when CPU usage exceeds threshold.
 
+# Real-Life Use-Case:
 A real-life use case is preventing downtime.
 
+# Real-life Example:
 Another example is automated scaling based on alerts.
 
 Alerts improve proactive monitoring.
