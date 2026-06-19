@@ -4,8 +4,10 @@ It uses Kusto Query Language (KQL).
 
 For example, analyzing application logs for errors.
 
+# Real-life Use Case:
 A real-life use case is troubleshooting system failures.
 
+# Real-Life Example:
 Another example is auditing security events.
 
 Log Analytics enables deep insights into system behavior.
