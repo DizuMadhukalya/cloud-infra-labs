@@ -4,8 +4,10 @@ It allows multiple systems to share files easily.
 
 For example, applications can store shared configuration files.
 
+# Real-Life Use Case:
 A real-life use case is migrating traditional file servers to the cloud.
 
+# Real-Life Example:
 Another example is shared storage for distributed applications.
 
 Azure Files simplifies file management in cloud environments.
