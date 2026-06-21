@@ -4,8 +4,10 @@ It allows applications to send messages that are processed later.
 
 For example, an order processing system queues tasks.
 
+# Real-Life Use Case:
 A real-life use case is microservices communication.
 
+# Real-Life Example:
 Another example is background job processing.
 
 Queues improve scalability and reliability.
