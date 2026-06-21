@@ -11,8 +11,10 @@ For example:
 * Use Azure Data Box for large datasets
 * Use AzCopy for file transfers
 
+# Real-Life Use Case:
 A real-life use case is an enterprise deciding between online and offline migration strategies.
 
+# Real-Life Example:
 Another example is selecting tools based on project deadlines.
 
 Proper identification ensures efficient and cost-effective migration.
