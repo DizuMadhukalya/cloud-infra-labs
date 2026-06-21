@@ -8,8 +8,10 @@ Types include:
 
 For example, VMs use disks for OS and data storage.
 
+# Real-Life Use-Case:
 A real-life use case is hosting databases.
 
+# Real-Life Example:
 Another example is enterprise applications requiring persistent storage.
 
 Disks ensure performance and durability.
