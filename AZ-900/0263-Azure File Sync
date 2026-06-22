@@ -4,8 +4,10 @@ It allows frequently accessed files to remain cached locally while less-used fil
 
 For example, a business can maintain local file server performance while leveraging Azure for scalability and backup.
 
+# Real-Life Use Case:
 A real-life use case is branch offices sharing centralized files while retaining local access speed.
 
+# Real-Life Example:
 Another example is disaster recovery where cloud copies protect against local failures.
 
 Azure File Sync bridges on-premise and cloud environments efficiently.
