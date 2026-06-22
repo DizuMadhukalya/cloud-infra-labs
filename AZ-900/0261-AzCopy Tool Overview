@@ -8,8 +8,10 @@ Features include:
 
 For example, uploading files to blob storage using CLI.
 
+# Real-Life Use Case:
 A real-life use case is automating data transfers in DevOps pipelines.
 
+# Real-Life Example:
 Another example is migrating large datasets efficiently.
 
 AzCopy is a powerful and efficient data transfer tool.
