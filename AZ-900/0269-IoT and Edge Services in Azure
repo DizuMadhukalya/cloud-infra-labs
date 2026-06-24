@@ -8,8 +8,10 @@ Core services:
 
 For example, factory sensors sending telemetry to Azure.
 
+# Real-Life Use Case:
 A real-life use case is predictive maintenance in manufacturing.
 
+# Real-Life Example:
 Another example is autonomous vehicles processing edge data locally.
 
 Azure IoT and Edge support scalable connected ecosystems.
