@@ -9,8 +9,10 @@ Capabilities include:
 
 For example, administrators can configure authentication for custom business apps.
 
+# Real-Life Use Case:
 A real-life use case is managing access to third-party SaaS tools like ServiceNow or Slack.
 
+# Real-Life Example:
 Another example is securing APIs with Entra-based authentication.
 
 Application management ensures secure and centralized control.
