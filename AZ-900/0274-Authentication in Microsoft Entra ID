@@ -9,8 +9,10 @@ Microsoft Entra ID supports modern authentication through:
 
 For example, when an employee logs into a corporate portal, Entra ID verifies credentials and may require an additional authentication factor.
 
+# Real-Life Use Case:
 A real-life use case is enterprises protecting access to internal resources such as HR systems or finance dashboards.
 
+# Real-Life Example:
 Another example is SaaS applications using Entra ID for centralized authentication.
 
 Authentication in Entra ID strengthens security while enabling seamless access.
