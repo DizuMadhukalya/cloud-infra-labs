@@ -7,8 +7,10 @@ Multi-Factor Authentication (MFA) requires two or more verification factors:
 
 For example, logging in with password + phone notification.
 
+# Real-Life Use Case:
 A real-life use case is banking or enterprise admin portals.
 
+# Real-Life Example:
 Another example is remote employee access.
 
 MFA significantly improves security against credential theft.
