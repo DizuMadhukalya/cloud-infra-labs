@@ -15,8 +15,10 @@ Microsoft Entra MFA:
 
 For example, Entra MFA can require stronger authentication only when a user signs in from an unfamiliar location.
 
+# Real-Life Use Case:
 A real-life use case is enterprises applying adaptive security policies for remote employees.
 
+# Real-Life Example:
 Another example is reducing friction for low-risk logins while strengthening high-risk access attempts.
 
 Microsoft Entra MFA provides deeper cloud-native security than basic MFA alone.
