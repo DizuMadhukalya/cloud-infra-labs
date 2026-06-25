@@ -8,8 +8,10 @@ Azure supports multiple authentication methods for different security needs:
 
 For example, enterprises may use MFA for admins and passwordless for executives.
 
+# Real-Life Use Case:
 A real-life use case is balancing usability and security.
 
+# Real-Life Example:
 Another example is securing sensitive workloads.
 
 Azure authentication methods support flexible identity security.
