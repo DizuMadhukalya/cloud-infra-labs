@@ -4,8 +4,10 @@ It is useful for legacy applications requiring traditional directory services.
 
 For example, older enterprise apps can use domain services in Azure.
 
+# Real-Life Use Case:
 A real-life use case is lifting legacy workloads to the cloud.
 
+# Real-Life Example:
 Another example is extending domain capabilities without infrastructure overhead.
 
 Entra Domain Services simplifies domain-based cloud deployments.
