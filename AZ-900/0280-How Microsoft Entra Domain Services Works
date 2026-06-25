@@ -9,8 +9,10 @@ It automatically provides:
 
 For example, virtual machines can join the managed domain without traditional domain controllers.
 
+# Real-Life Use Case:
 A real-life use case is migrating traditional apps to Azure.
 
+# Real-Life Example:
 Another example is supporting domain-dependent applications.
 
 This service reduces operational complexity.
