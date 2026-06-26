@@ -10,8 +10,10 @@ Conditional Access evaluates:
 
 For example, if a login attempt comes from an unfamiliar country, Azure may require MFA or block access.
 
+# Real-Life Use Case:
 A real-life use case is remote workforce security.
 
+# Real-Life Example:
 Another example is restricting financial application access to managed devices only.
 
 Conditional Access helps organizations enforce adaptive security policies.
