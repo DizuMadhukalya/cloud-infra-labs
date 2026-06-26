@@ -9,8 +9,10 @@ Microsoft Entra ID provides lifecycle management capabilities such as:
 
 For example, a consultant invited for a 3-month project can automatically lose access after project completion.
 
+# Real-Life Use Case:
 A real-life use case is enterprises working with temporary contractors or vendors.
 
+# Real-Life Example:
 Another example is universities granting temporary access to visiting researchers.
 
 Managing guest access over time prevents unnecessary permissions, reduces security risk, and supports governance.
