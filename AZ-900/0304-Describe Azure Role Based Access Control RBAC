@@ -14,8 +14,10 @@ Examples of roles:
 
 For example, a finance manager may only view billing data while engineers deploy resources.
 
+# Real-Life Use Case:
 A real-life use case is enforcing least privilege.
 
+# Real-Life Example:
 Another example is separating Dev, Test, and Production permissions.
 
 RBAC ensures secure and organized resource governance.
