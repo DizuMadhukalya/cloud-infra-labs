@@ -24,8 +24,10 @@ Signal → Policy Evaluation → Enforcement Decision
 
 For example, an unmanaged device from a risky country triggers MFA or access denial.
 
+# Real-Life Use Case:
 A real-life use case is protecting enterprise SaaS platforms.
 
+# Real-Life Example:
 Another example is securing privileged cloud administration.
 
 This model enables dynamic, context-aware access security.
