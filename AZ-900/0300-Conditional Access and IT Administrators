@@ -9,8 +9,10 @@ They can:
 
 For example, admins may allow internal office logins without MFA but require MFA externally.
 
+# Real-Life Use Case:
 A real-life use case is securing executive accounts.
 
+# Real-Life Example:
 Another example is compliance-driven industries such as healthcare or finance.
 
 Conditional Access gives administrators granular control over enterprise security.
