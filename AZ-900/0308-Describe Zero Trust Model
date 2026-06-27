@@ -15,8 +15,10 @@ Design as if attackers may already exist inside.
 
 For example, even internal employees may require MFA for sensitive systems.
 
+# Real-Life Use Case:
 A real-life use case is modern enterprise cybersecurity.
 
+# Real-Life Example:
 Another example is protecting hybrid cloud infrastructures.
 
 Zero Trust minimizes trust assumptions and strengthens resilience.
