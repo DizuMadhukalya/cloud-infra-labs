@@ -7,8 +7,10 @@ If one layer fails, another layer continues protection.
 
 For example, even if a phishing attack compromises credentials, MFA and Conditional Access may still block unauthorized access.
 
+# Real-Life Use Case:
 A real-life use case is enterprise cloud security.
 
+# Real-Life Example:
 Another example is government systems protecting sensitive infrastructure.
 
 Defense in Depth creates resilient, overlapping security protections.
