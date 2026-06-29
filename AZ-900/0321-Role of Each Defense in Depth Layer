@@ -10,8 +10,10 @@ Each layer in Defense in Depth serves a unique purpose:
 
 For example, even if attackers bypass perimeter controls, identity and data protections remain active.
 
+# Real-Life Use Case:
 A real-life use case is enterprise-grade cybersecurity strategy.
 
+# Real-Life Example:
 Another example is securing cloud-native environments against multiple threat types.
 
 Together, these layers create comprehensive, resilient security.
