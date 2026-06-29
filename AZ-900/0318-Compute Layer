@@ -9,8 +9,10 @@ Controls include:
 
 For example, keeping Azure VMs updated.
 
+# Real-Life Use Case:
 A real-life use case is preventing malware on cloud workloads.
 
+# Real-Life Example:
 Another example is container image security.
 
 Compute security protects processing environments directly.
