@@ -16,8 +16,10 @@ User → Verify Identity → Check Device → Evaluate Risk → Grant Minimal Ac
 
 For example, traditional VPN access often grants broad network access, while Zero Trust verifies every session individually.
 
+# Real-Life Use Case:
 A real-life use case is replacing flat corporate VPN models with segmented, identity-driven security.
 
+# Real-Life Example:
 Another example is protecting cloud-native environments where perimeter boundaries are less defined.
 
 Zero Trust is more adaptive and resilient against insider threats and credential compromise.
