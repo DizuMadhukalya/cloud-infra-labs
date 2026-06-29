@@ -12,8 +12,10 @@ Each layer protects a different attack surface.
 
 For example, securing a datacenter physically while also protecting user identities and encrypting data.
 
+# Real-Life Use Case:
 A real-life use case is enterprises protecting cloud and hybrid infrastructure.
 
+# Real-Life Example:
 Another example is regulated industries with compliance requirements.
 
 This layered model improves resilience against diverse attack vectors.
