@@ -9,8 +9,10 @@ Controls include:
 
 For example, Microsoft Entra ID verifies user identity.
 
+# Real-Life Use Case:
 A real-life use case is enterprise workforce access control.
 
+# Real-Life Example:
 Another example is limiting admin privileges.
 
 Identity is often the first major control point in modern security.
