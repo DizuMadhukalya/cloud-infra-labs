@@ -9,8 +9,10 @@ Controls include:
 
 For example, Azure VNets isolate workloads.
 
+# Real-Life Use Case:
 A real-life use case is separating production and test environments.
 
+# Real-Life Example:
 Another example is secure branch-office connectivity.
 
 Network security limits lateral movement by attackers.
