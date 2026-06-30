@@ -9,8 +9,10 @@ Real-life examples:
 
 For example, online banking websites use WAFs to prevent web attacks.
 
+# Real-Life Use Case:
 A real-life use case is SaaS companies defending APIs.
 
+# Real-Life Example:
 Another example is streaming services mitigating DDoS attacks.
 
 Perimeter security reduces exposure to internet-based threats.
