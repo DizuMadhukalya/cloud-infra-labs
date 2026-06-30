@@ -9,8 +9,10 @@ Real-life examples include:
 
 For example, a multinational company may require MFA for all remote employees.
 
+# Real-Life Use Case:
 A real-life use case is universities managing student and faculty access separately.
 
+# Real-Life Example:
 Another example is healthcare organizations protecting patient systems through least privilege.
 
 This layer protects against credential theft and unauthorized access.
