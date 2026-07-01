@@ -12,8 +12,10 @@ Encryption in Transit:
 
 For example, stored customer files are encrypted at rest, while uploaded files use HTTPS.
 
+# Real-Life Use Case:
 A real-life use case is banking apps securing both storage and communication.
 
+# Real-Life Example:
 Another example is healthcare systems protecting records end-to-end.
 
 Together, these protections secure data lifecycle.
