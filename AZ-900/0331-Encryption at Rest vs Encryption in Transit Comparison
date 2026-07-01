@@ -5,8 +5,10 @@
 | Threats Prevented | Theft of storage media           | Interception during transfer |
 | Azure Tools       | Storage Service Encryption       | SSL/TLS, VPN Gateway         |
 
+# Real-Life Example:
 For example, Azure Storage protects files at rest while HTTPS protects downloads.
 
+# Real-Life Use Case:
 A real-life use case is securing enterprise customer data.
 
 This comparison helps clarify data protection stages.
