@@ -10,8 +10,10 @@ Key capabilities include:
 
 For example, Defender for Cloud may identify an exposed VM port and recommend closing it.
 
+# Real-Life Use Case:
 A real-life use case is enterprises continuously monitoring security posture across hundreds of resources.
 
+# Real-Life Example:
 Another example is startups using built-in recommendations to improve cloud security without a large security team.
 
 Microsoft Defender for Cloud acts as a centralized security advisor and threat protection platform.
