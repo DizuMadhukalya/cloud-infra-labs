@@ -12,8 +12,10 @@ Features include:
 
 For example, applications retrieve secrets securely without hardcoding them.
 
+# Real-Life Use Case:
 A real-life use case is storing database credentials securely.
 
+# Real-Life Example:
 Another example is enterprises managing customer-managed encryption keys.
 
 Azure Key Vault centralizes secure key and secret governance.
