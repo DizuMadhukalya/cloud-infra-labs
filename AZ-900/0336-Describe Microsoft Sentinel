@@ -9,8 +9,10 @@ It helps:
 
 For example, Sentinel can correlate suspicious login attempts across multiple systems.
 
+# Real-Life Use Case:
 A real-life use case is large enterprises monitoring global security events.
 
+# Real-Life Example:
 Another example is detecting ransomware indicators early.
 
 Microsoft Sentinel enables centralized intelligent threat detection.
