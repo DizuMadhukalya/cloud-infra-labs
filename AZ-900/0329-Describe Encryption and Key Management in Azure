@@ -9,8 +9,10 @@ Azure supports:
 
 For example, Azure Storage encrypts stored files automatically.
 
+# Real-Life Use Case:
 A real-life use case is enterprises controlling encryption keys for compliance.
 
+# Real-Life Example:
 Another example is securing cloud databases.
 
 Encryption and key management ensure confidentiality and governance.
