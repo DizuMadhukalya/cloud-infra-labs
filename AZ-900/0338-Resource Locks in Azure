@@ -7,8 +7,10 @@ Types:
 
 For example, a production database can be protected from accidental deletion.
 
+# Real-Life Use Case:
 A real-life use case is safeguarding mission-critical infrastructure.
 
+# Real-Life Example:
 Another example is preventing junior admins from modifying sensitive production systems.
 
 Resource locks act as an operational safeguard.
