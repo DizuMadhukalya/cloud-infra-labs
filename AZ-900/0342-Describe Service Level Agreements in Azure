@@ -9,8 +9,10 @@ SLAs influence architecture decisions.
 
 For example, deploying across availability zones may improve SLA coverage.
 
+# Real-Life Use Case:
 A real-life use case is mission-critical enterprise apps.
 
+# Real-Life Example:
 Another example is designing resilient SaaS platforms.
 
 SLAs guide reliability expectations and architectural planning.
