@@ -6,8 +6,10 @@ Azure supports different cloud deployment models:
 
 For example, Azure Arc supports hybrid cloud management.
 
+# Real-Life Use Case:
 A real-life use case is enterprises maintaining on-prem systems while adopting Azure.
 
+# Real-Life Example:
 Another example is governments requiring sensitive private workloads.
 
 Understanding deployment models helps align technical and business needs.
