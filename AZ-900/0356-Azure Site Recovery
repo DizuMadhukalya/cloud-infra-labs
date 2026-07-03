@@ -8,8 +8,10 @@ Capabilities:
 
 For example, on-premises systems can fail over to Azure during datacenter outages.
 
+# Real-Life Use Case:
 A real-life use case is enterprise disaster recovery.
 
+# Real-Life Example:
 Another example is business continuity for manufacturing systems.
 
 Site Recovery minimizes downtime during major incidents.
