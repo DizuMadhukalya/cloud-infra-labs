@@ -11,8 +11,10 @@ Limitations:
 
 For example, batch processing jobs or test workloads can use Spot VMs.
 
+# Real-Life Use Case:
 A real-life use case is ML model training experiments.
 
+# Real-Life Example:
 Another example is rendering workloads.
 
 Spot pricing is ideal for flexible, non-critical compute needs.
