@@ -10,8 +10,10 @@ ARM enables:
 
 For example, a company can deploy an entire environment (VMs, networking, storage) using one ARM template.
 
+# Real-Life Use Case:
 A real-life use case is DevOps automation.
 
+# Real-Life Example:
 Another example is maintaining consistent infrastructure across environments.
 
 ARM centralizes and standardizes Azure resource management.
