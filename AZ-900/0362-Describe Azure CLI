@@ -8,8 +8,10 @@ Features:
 
 For example, developers can deploy storage accounts using a single command.
 
+# Real-Life Use Case:
 A real-life use case is DevOps CI/CD pipelines.
 
+# Real-Life Example:
 Another example is Linux-based administration.
 
 Azure CLI enables fast and scriptable cloud management.
