@@ -8,8 +8,10 @@ Capabilities:
 
 For example, organizations manage AWS and on-prem servers from Azure.
 
+# Real-Life Use Case:
 A real-life use case is hybrid enterprise infrastructure.
 
+# Real-Life Example:
 Another example is centralized compliance management.
 
 Azure Arc unifies management across environments.
