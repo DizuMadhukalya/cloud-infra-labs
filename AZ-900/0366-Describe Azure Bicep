@@ -8,8 +8,10 @@ Advantages over raw ARM JSON:
 
 For example, developers define infrastructure using concise Bicep files.
 
+# Real-Life Use Case:
 A real-life use case is scalable enterprise infrastructure deployment.
 
+# Real-Life Example:
 Another example is reusable deployment modules.
 
 Bicep simplifies Azure IaC development.
