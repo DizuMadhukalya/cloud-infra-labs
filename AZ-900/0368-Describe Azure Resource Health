@@ -9,8 +9,10 @@ It reports:
 
 For example, administrators can determine whether outages originate from Azure or application misconfiguration.
 
+# Real-Life Use Cases:
 A real-life use case is troubleshooting production downtime.
 
+# Real-Life Example:
 Another example is operational incident management.
 
 Resource Health improves infrastructure visibility.
