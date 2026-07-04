@@ -8,8 +8,10 @@ Core Azure architecture principles include:
 
 For example, applications should scale automatically during traffic spikes.
 
+# Real-Life Use Case:
 A real-life use case is global e-commerce platforms.
 
+# Real-Life Example:
 Another example is designing resilient healthcare systems.
 
 These principles guide modern cloud solution architecture.
