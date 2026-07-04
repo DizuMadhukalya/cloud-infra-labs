@@ -15,8 +15,10 @@ Examples in Azure:
 
 For example, DevOps teams deploy identical cloud environments repeatedly.
 
+# Real-Life Use Case:
 A real-life use case is CI/CD automation.
 
+# Real-Life Example:
 Another example is disaster recovery provisioning.
 
 IaC modernizes infrastructure operations.
