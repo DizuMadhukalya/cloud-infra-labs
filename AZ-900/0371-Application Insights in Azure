@@ -9,8 +9,10 @@ Capabilities:
 
 For example, a web app can identify slow API calls impacting user experience.
 
+# Real-Life Use Case:
 A real-life use case is SaaS platforms optimizing customer-facing applications.
 
+# Real-Life Example:
 Another example is identifying bottlenecks in enterprise applications.
 
 Application Insights helps developers improve software reliability and performance.
