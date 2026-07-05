@@ -16,8 +16,10 @@ Logs:
 
 For example, CPU spikes are tracked with metrics, while login failures are analyzed with logs.
 
+# Real-Life Use Case:
 A real-life use case is combining infrastructure monitoring with forensic investigation.
 
+# Real-Life Example:
 Another example is security analytics.
 
 Understanding both improves effective monitoring strategies.
