@@ -9,8 +9,10 @@ They can:
 
 For example, a runbook can shut down development VMs nightly to reduce cost.
 
+# Real-Life Use Case:
 A real-life use case is automated incident response.
 
+# Real-Life Example:
 Another example is routine administrative tasks.
 
 Runbooks reduce manual intervention and improve repeatability.
