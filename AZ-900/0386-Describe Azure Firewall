@@ -9,9 +9,10 @@ Capabilities of Azure Firewall:
 
 For example, enterprises can centralize outbound internet control.
 
-# Real-Life Use Case
+# Real-Life Use Case:
 A real-life use case is protecting hybrid corporate networks.
 
+# Real-Life Example:
 Another example is controlling traffic between subnets.
 
 Azure Firewall strengthens centralized network security.
