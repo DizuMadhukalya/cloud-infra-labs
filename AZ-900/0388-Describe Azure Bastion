@@ -8,9 +8,10 @@ Benefits of Azure Bastion:
 
 For example, administrators manage VMs securely without opening port 3389.
 
-# Real-Life User Case
+# Real-Life User Case:
 A real-life use case is secure remote administration.
 
+# Real-Life Example:
 Another example is compliance-sensitive environments.
 
 Azure Bastion improves VM access security significantly.
