@@ -9,9 +9,11 @@ Capabilities of Azure Application Gateway:
 
 For example, requests to /images may route differently than /api.
 
-# Real-Life Use Case
+# Real-Life Use Case:
 A real-life use case is complex web app architecture.
 
+# Real-Life Example:
 Another example is microservices routing.
 
+# Significance:
 Application Gateway enables intelligent web traffic management.
