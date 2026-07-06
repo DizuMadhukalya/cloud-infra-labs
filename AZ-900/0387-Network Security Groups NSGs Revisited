@@ -10,9 +10,10 @@ The NSG associated rules define:
 
 For example, a web server subnet allows HTTP/HTTPS but blocks RDP from public networks.
 
-# Real-Life Use Case
+# Real-Life Use Case:
 A real-life use case is micro-segmentation.
 
+# Real-Life Example:
 Another example is restricting management access.
 
 NSGs provide granular traffic control inside Azure networks.
