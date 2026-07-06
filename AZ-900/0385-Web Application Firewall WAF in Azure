@@ -12,9 +12,10 @@ Web Application Firewall (WAF) works with:
 
 For example, an online banking application can block malicious web requests before reaching the backend.
 
-# Real-Life User Case
+# Real-Life User Case:
 A real-life use case is protecting payment systems.
 
+# Real-Life Example:
 Another example is securing healthcare portals.
 
 WAF enhances application-layer security for public-facing apps.
