@@ -4,13 +4,13 @@ Azure Traffic Manager routes users to optimal service endpoints based on:
 * Priority
 * Geographic location
 
-# Real-Life Example 1
+# Real-Life Example 1:
 For example, users in Asia connect to Asian datacenters while Europe connects locally.
 
-# Real-life use Case
+# Real-life Use Case:
 A real-life use case is global application failover.
 
-# Real-Life Example 2
+# Real-Life Example 2:
 Another example is regional traffic optimization.
 
 Traffic Manager improves user experience and resilience globally.
