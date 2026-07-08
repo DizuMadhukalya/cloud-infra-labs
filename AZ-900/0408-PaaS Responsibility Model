@@ -1,0 +1,22 @@
+Platform as a Service (PaaS) allows developers to build and deploy applications without managing underlying infrastructure.
+
+Microsoft manages:
+
+* Servers
+* Operating systems
+* Runtime environments
+* Platform availability
+
+Customers manage:
+
+* Application code
+* Data
+* Business logic
+
+For example, developers deploy websites using Azure App Service without maintaining web servers.
+
+A real-life use case is startups rapidly launching applications.
+
+Another example is development teams focusing on innovation instead of infrastructure operations.
+
+PaaS increases developer productivity and simplifies operations.
