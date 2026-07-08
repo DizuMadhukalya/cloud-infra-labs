@@ -1,0 +1,20 @@
+Azure cloud services are categorized into three primary service models: Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+
+IaaS:
+Provides virtualized computing resources such as virtual machines, storage, and networking.
+
+PaaS:
+Provides a managed platform where developers focus on applications without managing infrastructure.
+
+SaaS:
+Provides ready-to-use applications delivered over the internet.
+
+Examples:
+
+* IaaS: Azure Virtual Machines
+* PaaS: Azure App Service
+* SaaS: Microsoft 365
+
+A real-life use case is a company using VMs for legacy applications, App Service for new applications, and Microsoft 365 for productivity.
+
+Understanding service models helps organizations choose the right level of management responsibility.
