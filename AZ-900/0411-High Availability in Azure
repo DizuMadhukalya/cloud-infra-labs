@@ -9,8 +9,10 @@ Azure achieves high availability using:
 
 For example, applications deployed across multiple availability zones continue running even if one zone fails.
 
+# Real-Life Use Case:
 A real-life use case is banking applications requiring continuous access.
 
+# Real-Life Example:
 Another example is healthcare systems where downtime affects critical services.
 
 High availability improves reliability and user experience.
