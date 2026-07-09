@@ -9,8 +9,10 @@ Important concepts:
 
 For example, a company replicates workloads to another region for recovery.
 
+# Real-Life Use Case:
 A real-life use case is protecting financial applications from regional outages.
 
+# Real-Life Example:
 Another example is recovering business systems after cyber incidents.
 
 Disaster Recovery ensures business continuity.
