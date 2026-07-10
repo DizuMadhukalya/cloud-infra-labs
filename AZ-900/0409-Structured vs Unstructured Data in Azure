@@ -1,0 +1,19 @@
+Azure supports both structured and unstructured data storage.
+
+Structured Data:
+
+* Organized in rows and columns
+* Stored in relational databases
+
+Unstructured Data:
+
+* Images, videos, logs, documents
+* Stored in Blob Storage or Data Lakes
+
+For example, customer transactions are structured while uploaded product images are unstructured.
+
+A real-life use case is e-commerce platforms managing mixed data types.
+
+Another example is IoT systems storing telemetry logs and relational metadata.
+
+Understanding data types helps choose appropriate Azure storage solutions.
