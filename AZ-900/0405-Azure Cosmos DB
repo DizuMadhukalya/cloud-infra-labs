@@ -1,0 +1,23 @@
+Azure Cosmos DB is a globally distributed NoSQL database designed for low latency and high scalability.
+
+Supported APIs:
+
+* SQL
+* MongoDB
+* Cassandra
+* Gremlin
+* Table
+
+Features:
+
+* Multi-region replication
+* Millisecond latency
+* Elastic scalability
+
+For example, social media applications use Cosmos DB for globally distributed user data.
+
+A real-life use case is gaming leaderboards.
+
+Another example is IoT telemetry ingestion.
+
+Cosmos DB supports modern distributed applications at global scale.
