@@ -1,0 +1,16 @@
+Azure Database for MySQL is a fully managed MySQL database service in Azure.
+
+Features:
+
+* Automated patching
+* Backups
+* High availability
+* Monitoring integration
+
+For example, WordPress websites commonly use MySQL databases.
+
+A real-life use case is content management systems.
+
+Another example is startup web applications.
+
+Azure Database for MySQL simplifies open-source relational database management.
