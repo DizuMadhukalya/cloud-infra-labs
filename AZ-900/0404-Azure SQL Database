@@ -1,0 +1,16 @@
+Azure SQL Database is a fully managed relational database service based on Microsoft SQL Server.
+
+Features:
+
+* Automatic backups
+* Scaling
+* Built-in high availability
+* Intelligent performance optimization
+
+For example, a banking application stores customer transaction records in Azure SQL Database.
+
+A real-life use case is enterprise ERP systems.
+
+Another example is SaaS applications requiring relational consistency.
+
+Azure SQL Database reduces infrastructure management while providing enterprise-grade capabilities.
