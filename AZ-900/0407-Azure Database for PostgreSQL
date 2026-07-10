@@ -1,0 +1,16 @@
+Azure Database for PostgreSQL provides managed PostgreSQL capabilities in Azure.
+
+Advantages:
+
+* Open-source compatibility
+* High availability
+* Security integration
+* Flexible scaling
+
+For example, analytics applications often use PostgreSQL for advanced querying.
+
+A real-life use case is GIS applications using PostgreSQL extensions.
+
+Another example is enterprise analytics systems.
+
+Azure Database for PostgreSQL supports scalable open-source workloads.
