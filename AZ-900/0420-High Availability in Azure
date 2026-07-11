@@ -1,0 +1,17 @@
+
+High Availability ensures applications remain operational despite failures.
+
+Azure achieves high availability using:
+
+* Availability Zones
+* Availability Sets
+* Load Balancers
+* Redundant storage
+
+For example, applications deployed across multiple availability zones continue running even if one zone fails.
+
+A real-life use case is banking applications requiring continuous access.
+
+Another example is healthcare systems where downtime affects critical services.
+
+High availability improves reliability and user experience.
