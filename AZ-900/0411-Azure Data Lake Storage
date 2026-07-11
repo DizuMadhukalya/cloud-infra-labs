@@ -1,0 +1,15 @@
+Azure Data Lake Storage is optimized for large-scale analytics workloads.
+
+Features:
+
+* Massive scalability
+* Hierarchical namespace
+* Big data optimization
+
+For example, IoT platforms store billions of sensor records in Data Lake Storage.
+
+A real-life use case is machine learning dataset storage.
+
+Another example is enterprise analytics pipelines.
+
+Data Lake Storage supports modern data engineering workflows.
