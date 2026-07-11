@@ -1,0 +1,15 @@
+Azure offers multiple data services, each suited for different scenarios:
+
+* Azure SQL Database → Relational apps
+* Cosmos DB → Global NoSQL apps
+* Data Lake → Big data storage
+* Synapse → Analytics and warehousing
+* Databricks → AI and Spark workloads
+
+For example, a social media app may combine Cosmos DB for user activity and Synapse for analytics.
+
+A real-life use case is enterprise data platform design.
+
+Another example is startup analytics architecture.
+
+Choosing correctly improves scalability, performance, and cost efficiency.
