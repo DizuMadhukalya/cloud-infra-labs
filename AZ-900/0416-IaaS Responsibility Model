@@ -1,0 +1,22 @@
+Infrastructure as a Service (IaaS) provides maximum control over cloud infrastructure while sharing responsibility between Microsoft and customers.
+
+Microsoft manages:
+
+* Physical datacenters
+* Hardware
+* Networking infrastructure
+
+Customers manage:
+
+* Operating systems
+* Applications
+* Security configurations
+* Data
+
+For example, when using Azure Virtual Machines, Microsoft maintains servers while users patch and configure the operating system.
+
+A real-life use case is migrating legacy enterprise applications without redesigning them.
+
+Another example is organizations requiring custom server configurations.
+
+IaaS provides flexibility while reducing physical infrastructure management.
