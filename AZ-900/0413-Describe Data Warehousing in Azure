@@ -1,0 +1,15 @@
+Data warehousing consolidates data from multiple sources for reporting and analytics.
+
+Azure supports warehousing through:
+
+* Azure Synapse Analytics
+* SQL technologies
+* Data pipelines
+
+For example, enterprises combine sales, finance, and operations data for unified reporting.
+
+A real-life use case is executive dashboards.
+
+Another example is business intelligence systems.
+
+Data warehouses support strategic business insights.
