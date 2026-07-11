@@ -1,0 +1,15 @@
+Azure Databricks is an Apache Spark-based analytics service optimized for Azure.
+
+Capabilities:
+
+* Big data processing
+* Machine learning
+* Collaborative notebooks
+
+For example, data scientists build ML models collaboratively in Databricks.
+
+A real-life use case is fraud detection analytics.
+
+Another example is recommendation engines.
+
+Azure Databricks accelerates advanced analytics and AI workflows.
