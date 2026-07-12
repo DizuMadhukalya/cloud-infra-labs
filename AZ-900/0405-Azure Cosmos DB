@@ -16,8 +16,10 @@ Features:
 
 For example, social media applications use Cosmos DB for globally distributed user data.
 
+# Real-Life Use Case:
 A real-life use case is gaming leaderboards.
 
+# Real-Life Example:
 Another example is IoT telemetry ingestion.
 
 Cosmos DB supports modern distributed applications at global scale.
