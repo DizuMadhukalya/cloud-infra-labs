@@ -7,8 +7,10 @@ Features:
 * Built-in high availability
 * Intelligent performance optimization
 
+# Real-Life Example:
 For example, a banking application stores customer transaction records in Azure SQL Database.
 
+# Real-Life Use Case:
 A real-life use case is enterprise ERP systems.
 
 Another example is SaaS applications requiring relational consistency.
