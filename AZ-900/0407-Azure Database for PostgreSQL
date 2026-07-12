@@ -9,8 +9,10 @@ Advantages:
 
 For example, analytics applications often use PostgreSQL for advanced querying.
 
+# Real-Life Use Case:
 A real-life use case is GIS applications using PostgreSQL extensions.
 
+# Real-Life Example:
 Another example is enterprise analytics systems.
 
 Azure Database for PostgreSQL supports scalable open-source workloads.
