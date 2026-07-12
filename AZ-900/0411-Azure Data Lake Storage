@@ -8,8 +8,10 @@ Features:
 
 For example, IoT platforms store billions of sensor records in Data Lake Storage.
 
+# Real-Life Use Case:
 A real-life use case is machine learning dataset storage.
 
+# Real-Life Example:
 Another example is enterprise analytics pipelines.
 
 Data Lake Storage supports modern data engineering workflows.
