@@ -12,8 +12,10 @@ Unstructured Data:
 
 For example, customer transactions are structured while uploaded product images are unstructured.
 
+# Real-Life Use Case:
 A real-life use case is e-commerce platforms managing mixed data types.
 
+# Real-Life Example:
 Another example is IoT systems storing telemetry logs and relational metadata.
 
 Understanding data types helps choose appropriate Azure storage solutions.
