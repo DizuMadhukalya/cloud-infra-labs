@@ -1,0 +1,16 @@
+Disaster Recovery focuses on restoring services after major failures.
+
+Important concepts:
+
+* Recovery Time Objective (RTO)
+* Recovery Point Objective (RPO)
+* Backup strategies
+* Failover planning
+
+For example, a company replicates workloads to another region for recovery.
+
+A real-life use case is protecting financial applications from regional outages.
+
+Another example is recovering business systems after cyber incidents.
+
+Disaster Recovery ensures business continuity.
