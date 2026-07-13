@@ -1,0 +1,23 @@
+Consistent naming conventions improve resource management and operational efficiency.
+
+A good naming convention typically includes:
+
+* Organization
+* Environment
+* Region
+* Resource type
+* Sequence number
+
+Example:
+prod-eastus-webvm-01
+
+Benefits include:
+
+* Easier identification
+* Better automation
+* Simplified troubleshooting
+* Consistent governance
+
+A real-life use case is multinational organizations managing thousands of Azure resources across multiple subscriptions.
+
+Standardized naming conventions reduce administrative errors and improve operational visibility.
