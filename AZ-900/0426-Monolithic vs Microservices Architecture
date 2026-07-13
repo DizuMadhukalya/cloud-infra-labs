@@ -1,0 +1,22 @@
+A monolithic application contains all functionality within a single codebase, whereas a microservices application divides functionality into multiple independent services.
+
+Comparison:
+
+* Monolithic
+
+  * Easier initially
+  * Single deployment
+  * Difficult to scale individual components
+
+* Microservices
+
+  * Independent deployments
+  * Better scalability
+  * Improved fault isolation
+  * Higher operational complexity
+
+For example, a startup may begin with a monolithic application and later migrate to microservices as user traffic grows.
+
+A real-life use case is large retail companies modernizing legacy applications for better scalability.
+
+Choosing the appropriate architecture depends on application size, team structure, and business requirements.
