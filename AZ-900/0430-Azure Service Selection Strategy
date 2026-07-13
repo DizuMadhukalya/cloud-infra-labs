@@ -1,0 +1,16 @@
+Selecting the appropriate Azure service depends on workload characteristics.
+
+Examples:
+
+* Virtual Machines → Full infrastructure control
+* App Service → Web applications
+* AKS → Container orchestration
+* Functions → Event-driven workloads
+* Blob Storage → Unstructured data
+* Azure SQL Database → Relational applications
+
+For example, a blogging platform may use App Service, Azure SQL Database, and Blob Storage together.
+
+A real-life use case is solution architects choosing services that balance performance, scalability, and cost.
+
+Proper service selection leads to efficient cloud solutions.
