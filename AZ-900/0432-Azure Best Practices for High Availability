@@ -1,0 +1,15 @@
+Designing for high availability requires eliminating single points of failure.
+
+Recommended practices include:
+
+* Deploy across Availability Zones
+* Use Load Balancers
+* Implement geo-redundant storage
+* Configure automatic failover
+* Regularly test disaster recovery plans
+
+For example, an online banking application distributes workloads across multiple zones to ensure uninterrupted service.
+
+A real-life use case is healthcare systems where downtime can directly impact patient care.
+
+These practices improve reliability and business continuity.
