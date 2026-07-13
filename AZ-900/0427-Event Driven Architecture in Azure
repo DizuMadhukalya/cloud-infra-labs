@@ -1,0 +1,15 @@
+Event-driven architecture allows services to communicate by producing and consuming events instead of making direct requests.
+
+Benefits include:
+
+* Loose coupling
+* Improved scalability
+* Faster response to business events
+
+For example, when a customer places an order, an event can trigger inventory updates, payment processing, shipment creation, and email notifications simultaneously.
+
+A real-life use case is logistics companies automatically updating shipment status across multiple systems.
+
+Another example is IoT environments where sensor events trigger automated workflows.
+
+Event-driven architecture enables responsive and scalable applications.
