@@ -1,0 +1,16 @@
+Microservices architecture breaks a large application into multiple smaller, independent services.
+
+Each microservice:
+
+* Performs one business function
+* Can be deployed independently
+* Has its own lifecycle
+* Communicates using APIs
+
+For example, an e-commerce application may separate inventory, payments, customer profiles, and shipping into different services.
+
+A real-life use case is airline reservation systems where booking, payment, baggage handling, and notifications operate independently.
+
+Another example is healthcare portals where appointments, billing, and patient records are managed as separate services.
+
+Microservices improve scalability, fault isolation, and development speed.
