@@ -1,0 +1,14 @@
+Resource Groups should be designed based on application lifecycle and management requirements rather than individual resource types.
+
+Recommended practices include:
+
+* Group related resources together
+* Separate Development, Test, and Production
+* Apply RBAC consistently
+* Use resource tags
+
+For example, all resources supporting a production web application should belong to one production resource group.
+
+A real-life use case is simplifying deployments, backups, and cleanup activities.
+
+Well-designed resource groups improve administration and governance.
