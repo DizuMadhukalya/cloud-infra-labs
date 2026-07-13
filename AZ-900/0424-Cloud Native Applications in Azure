@@ -1,0 +1,17 @@
+Cloud-native applications are designed specifically to take advantage of cloud computing capabilities such as scalability, resilience, elasticity, and automation.
+
+Characteristics include:
+
+* Microservices architecture
+* Containerization
+* API-driven communication
+* Automated deployments
+* Horizontal scaling
+
+For example, an online food delivery platform can run separate microservices for user management, restaurant listings, payments, and order tracking. Each service can scale independently depending on demand.
+
+A real-life use case is Netflix-like streaming platforms that automatically scale different services during peak viewing hours.
+
+Another example is modern banking applications where authentication, transactions, and notifications are developed and deployed independently.
+
+Cloud-native design enables faster innovation, easier maintenance, and improved application reliability.
