@@ -1,0 +1,18 @@
+Before taking the AZ-900 exam, review the following areas:
+
+* Cloud concepts
+* Azure global infrastructure
+* Compute services
+* Networking
+* Storage services
+* Identity and access management
+* Security and governance
+* Monitoring and management
+* Pricing, billing, and support
+* Business continuity and disaster recovery
+
+Practical preparation should include creating resource groups, virtual machines, storage accounts, virtual networks, and configuring RBAC, policies, and monitoring tools.
+
+A real-life use case is candidates validating both conceptual knowledge and hands-on Azure Portal experience before certification.
+
+A structured revision checklist improves confidence, identifies weak areas, and increases the likelihood of passing the AZ-900 exam on the first attempt.
