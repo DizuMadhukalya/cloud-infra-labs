@@ -1,0 +1,15 @@
+Azure solutions commonly use several architectural patterns, including:
+
+* Layered architecture
+* Microservices
+* Event-driven architecture
+* Queue-based load leveling
+* CQRS (Command Query Responsibility Segregation)
+
+For example, queue-based load leveling prevents backend overload by processing requests asynchronously.
+
+A real-life use case is e-commerce websites handling flash-sale traffic.
+
+Another example is financial applications processing transactions reliably during peak demand.
+
+Architectural patterns improve scalability, resilience, and maintainability.
