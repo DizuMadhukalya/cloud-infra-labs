@@ -1,0 +1,15 @@
+Reliability ensures applications continue operating despite failures.
+
+Recommended design principles include:
+
+* Eliminate single points of failure
+* Design for redundancy
+* Implement health monitoring
+* Automate recovery
+* Test failover regularly
+
+For example, deploying web applications across multiple Availability Zones improves resilience.
+
+A real-life use case is airline reservation systems operating continuously despite infrastructure failures.
+
+Reliable architectures improve customer trust and business continuity.
