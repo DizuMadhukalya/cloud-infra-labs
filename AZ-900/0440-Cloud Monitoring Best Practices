@@ -1,0 +1,15 @@
+Effective cloud monitoring involves collecting metrics, logs, alerts, and health information continuously.
+
+Recommended practices include:
+
+* Configure alerts for critical resources
+* Monitor application performance
+* Review security events
+* Analyze usage trends
+* Perform proactive maintenance
+
+For example, administrators receive alerts when CPU utilization exceeds predefined thresholds.
+
+A real-life use case is preventing outages before users notice service degradation.
+
+Cloud monitoring supports operational excellence and continuous improvement.
