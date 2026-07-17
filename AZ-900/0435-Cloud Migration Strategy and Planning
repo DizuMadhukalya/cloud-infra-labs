@@ -1,0 +1,17 @@
+A successful cloud migration begins with careful planning rather than simply moving workloads to Azure. Organizations should assess existing infrastructure, identify dependencies, estimate costs, evaluate security requirements, and define migration timelines.
+
+A typical migration strategy consists of:
+
+* Discovery of existing resources
+* Dependency mapping
+* Application assessment
+* Migration planning
+* Pilot migration
+* Full-scale migration
+* Post-migration optimization
+
+For example, a manufacturing company may first migrate internal web applications before moving mission-critical ERP systems.
+
+A real-life use case is enterprises modernizing legacy datacenters while minimizing business disruption.
+
+Proper planning reduces migration risks, avoids downtime, and improves cloud adoption success.
