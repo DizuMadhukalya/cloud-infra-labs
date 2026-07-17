@@ -1,0 +1,14 @@
+Securing Azure resources requires following multiple best practices:
+
+* Enable Multi-Factor Authentication
+* Apply RBAC
+* Use Managed Identities
+* Enable Microsoft Defender for Cloud
+* Encrypt sensitive data
+* Apply security updates regularly
+
+For example, production virtual machines should never expose RDP ports directly to the internet.
+
+A real-life use case is financial organizations protecting customer information through layered security controls.
+
+Applying these practices significantly reduces cyber risk.
