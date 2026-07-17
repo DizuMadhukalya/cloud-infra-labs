@@ -1,0 +1,16 @@
+Microsoft commonly categorizes cloud migration strategies into the "6 Rs":
+
+* Rehost (Lift and Shift)
+* Refactor
+* Rearchitect
+* Rebuild
+* Replace
+* Retire
+
+Each strategy depends on business goals, application complexity, and modernization requirements.
+
+For example, a legacy payroll application may initially be rehosted, while a customer-facing application may be rearchitected into microservices.
+
+A real-life use case is organizations gradually modernizing applications instead of rewriting everything at once.
+
+Understanding the 6 Rs helps organizations choose the most appropriate migration approach.
