@@ -1,0 +1,16 @@
+Well-designed Azure networking improves security, scalability, and operational efficiency.
+
+Recommended practices include:
+
+* Use separate VNets for major workloads
+* Segment workloads with subnets
+* Apply NSGs consistently
+* Use Private Endpoints where appropriate
+* Avoid exposing management ports publicly
+* Implement VPN or ExpressRoute for hybrid connectivity
+
+For example, production, testing, and development environments should be isolated from one another.
+
+A real-life use case is multinational organizations managing hundreds of interconnected Azure resources securely.
+
+Proper network architecture improves resilience and reduces security risks.
