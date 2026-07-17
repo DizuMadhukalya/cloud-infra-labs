@@ -1,0 +1,15 @@
+Business Continuity Planning (BCP) ensures that critical business operations continue during unexpected disruptions.
+
+Azure supports BCP through:
+
+* Azure Backup
+* Azure Site Recovery
+* Geo-redundant storage
+* Availability Zones
+* Region Pairs
+
+For example, a retail company can fail over its applications to another Azure region during a regional outage.
+
+A real-life use case is hospitals maintaining access to patient records during infrastructure failures.
+
+Business continuity planning minimizes downtime and protects organizational reputation.
