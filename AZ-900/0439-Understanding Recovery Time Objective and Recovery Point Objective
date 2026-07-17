@@ -1,0 +1,15 @@
+Recovery Time Objective (RTO) defines how quickly systems must be restored after an outage.
+
+Recovery Point Objective (RPO) defines how much data loss is acceptable.
+
+Example:
+
+| Application        | RTO        | RPO        |
+| ------------------ | ---------- | ---------- |
+| Online Banking     | 15 minutes | 1 minute   |
+| Corporate Email    | 2 hours    | 30 minutes |
+| Internal HR Portal | 8 hours    | 2 hours    |
+
+A real-life use case is financial organizations requiring extremely low RPO values.
+
+Understanding RTO and RPO helps organizations design suitable disaster recovery strategies.
