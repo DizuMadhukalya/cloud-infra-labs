@@ -1,0 +1,16 @@
+Cloud environments should be reviewed regularly to improve security, performance, reliability, and cost efficiency.
+
+Continuous improvement activities include:
+
+* Reviewing monitoring data
+* Evaluating security recommendations
+* Optimizing resource utilization
+* Updating documentation
+* Automating repetitive tasks
+* Implementing lessons learned from incidents
+
+For example, recurring CPU alerts may reveal the need for application optimization instead of simply increasing virtual machine size.
+
+A real-life use case is IT teams conducting monthly operational reviews to identify improvement opportunities.
+
+Continuous improvement ensures cloud environments remain efficient as business requirements evolve.
