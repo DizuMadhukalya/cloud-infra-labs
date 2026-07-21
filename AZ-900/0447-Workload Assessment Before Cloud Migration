@@ -1,0 +1,17 @@
+Before migrating workloads to Azure, organizations should perform a detailed assessment to determine technical readiness and business impact.
+
+Important assessment areas include:
+
+* Application dependencies
+* Infrastructure utilization
+* Performance requirements
+* Security and compliance
+* Licensing considerations
+* Network connectivity
+* Disaster recovery requirements
+
+For example, an ERP application with multiple integrated systems requires extensive dependency analysis before migration.
+
+A real-life use case is reducing migration failures by identifying unsupported operating systems or outdated software before moving workloads.
+
+A proper workload assessment creates a realistic migration plan and minimizes unexpected downtime.
