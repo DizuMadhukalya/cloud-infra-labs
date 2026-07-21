@@ -1,0 +1,15 @@
+Logging and auditing provide visibility into activities performed across Azure resources.
+
+Benefits include:
+
+* Security investigations
+* Regulatory compliance
+* Operational troubleshooting
+* Performance analysis
+* Change tracking
+
+For example, administrators can review audit records to determine who modified a production virtual machine or deleted a storage account.
+
+A real-life use case is financial institutions maintaining audit trails to satisfy regulatory requirements.
+
+Comprehensive logging improves accountability and simplifies incident investigations.
