@@ -1,0 +1,16 @@
+Well-maintained documentation is essential for successful cloud operations and knowledge sharing.
+
+Documentation should include:
+
+* Architecture diagrams
+* Resource inventories
+* Standard operating procedures
+* Disaster recovery plans
+* Security configurations
+* Troubleshooting guides
+
+For example, documenting virtual network configurations allows new administrators to understand connectivity without reverse engineering the environment.
+
+A real-life use case is reducing recovery time during production incidents because operational procedures are clearly documented.
+
+Accurate documentation improves collaboration, onboarding, and long-term maintainability.
