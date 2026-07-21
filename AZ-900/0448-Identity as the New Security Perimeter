@@ -1,0 +1,14 @@
+Traditional security focused primarily on protecting network boundaries. In cloud environments, identity becomes the primary security perimeter because users, devices, and applications access resources from multiple locations.
+
+Key principles include:
+
+* Verify every identity
+* Enforce least privilege
+* Require strong authentication
+* Continuously evaluate access
+
+For example, an employee signing in from an unfamiliar country may be required to complete Multi-Factor Authentication before accessing company resources.
+
+A real-life use case is remote and hybrid work environments where employees securely access Azure resources from anywhere.
+
+Identity-centric security significantly improves protection against credential theft and unauthorized access.
