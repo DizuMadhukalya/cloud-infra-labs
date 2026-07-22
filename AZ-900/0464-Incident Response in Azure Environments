@@ -1,0 +1,16 @@
+Incident response is the structured process of detecting, investigating, containing, resolving, and reviewing operational or security incidents.
+
+A typical incident lifecycle consists of:
+
+* Detection
+* Classification
+* Containment
+* Eradication
+* Recovery
+* Post-incident review
+
+For example, if administrators detect unauthorized access attempts against production resources, they immediately isolate affected systems, investigate logs, restore services, and document lessons learned.
+
+A real-life use case is security teams responding rapidly to cyber incidents while minimizing business disruption.
+
+A mature incident response process improves organizational resilience and security readiness.
