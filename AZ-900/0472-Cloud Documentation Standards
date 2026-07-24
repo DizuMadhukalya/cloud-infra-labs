@@ -1,0 +1,18 @@
+Technical documentation ensures that Azure environments remain understandable, maintainable, and transferable between administrators.
+
+Recommended documentation includes:
+
+* Architecture diagrams
+* Network topology
+* Resource inventory
+* Identity configuration
+* Backup procedures
+* Disaster recovery plans
+* Operational runbooks
+* Contact information
+
+For example, documenting virtual network peering relationships helps future administrators troubleshoot connectivity issues efficiently.
+
+A real-life use case is reducing onboarding time for new cloud engineers joining an operations team.
+
+Comprehensive documentation improves collaboration and long-term operational stability.
