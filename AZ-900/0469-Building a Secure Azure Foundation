@@ -1,0 +1,17 @@
+Every successful Azure deployment begins with a secure foundation. Security should be incorporated during planning instead of being added after workloads are deployed.
+
+Core foundational practices include:
+
+* Strong identity protection
+* Least privilege access
+* Network segmentation
+* Data encryption
+* Continuous monitoring
+* Secure configuration baselines
+* Regular security reviews
+
+For example, an organization deploying a new production workload should configure identity protection, secure networking, monitoring, and backup before making the application publicly accessible.
+
+A real-life use case is reducing the likelihood of security incidents by adopting secure-by-default deployment practices.
+
+Building security into the foundation minimizes future operational risks.
