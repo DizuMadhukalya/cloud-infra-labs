@@ -1,0 +1,17 @@
+Key Performance Indicators (KPIs) help organizations measure the effectiveness of Azure operations.
+
+Common operational KPIs include:
+
+* Resource availability
+* Incident response time
+* Service uptime
+* Backup success rate
+* Mean Time to Recover (MTTR)
+* Cost variance
+* Policy compliance percentage
+
+For example, an operations team may target a recovery time of less than thirty minutes for critical production services.
+
+A real-life use case is management reviewing monthly KPI reports to evaluate operational improvements and identify recurring issues.
+
+Well-defined KPIs support data-driven operational decisions.
