@@ -1,0 +1,17 @@
+Standardisation ensures Azure environments remain consistent regardless of which administrator or team deploys resources.
+
+Areas commonly standardised include:
+
+* Resource naming
+* Tagging
+* Security baselines
+* Virtual network design
+* Monitoring configuration
+* Backup policies
+* Documentation
+
+For example, every production virtual machine may follow the same naming convention, security policy, monitoring configuration, and backup schedule.
+
+A real-life use case is reducing configuration drift across hundreds of Azure subscriptions managed by different departments.
+
+Standardisation simplifies administration and improves governance across large cloud environments.
