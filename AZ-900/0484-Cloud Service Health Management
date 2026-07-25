@@ -1,0 +1,16 @@
+Maintaining service health requires continuous visibility into the operational status of cloud resources and supporting infrastructure.
+
+Important activities include:
+
+* Reviewing service availability
+* Monitoring resource health
+* Tracking incidents
+* Planning maintenance
+* Investigating performance degradation
+* Communicating service status
+
+For example, an operations team regularly reviews service health information before deploying infrastructure changes to avoid planned maintenance windows.
+
+A real-life use case is preventing unnecessary troubleshooting by confirming whether an issue originates from the application or the underlying cloud platform.
+
+Proactive service health management improves operational awareness and incident response.
