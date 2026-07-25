@@ -1,0 +1,19 @@
+Before deploying workloads into production, architects should perform a structured review to ensure the solution aligns with organisational standards.
+
+A review checklist commonly verifies:
+
+* Security controls
+* Networking design
+* Identity configuration
+* High availability
+* Disaster recovery
+* Cost optimisation
+* Monitoring
+* Compliance
+* Documentation
+
+For example, a review may identify that backup policies have not been configured for production databases, allowing corrective action before deployment.
+
+A real-life use case is architecture review boards validating enterprise cloud solutions before production approval.
+
+A consistent review process reduces deployment risks and improves solution quality.
