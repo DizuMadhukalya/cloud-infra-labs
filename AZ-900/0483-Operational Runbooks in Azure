@@ -1,0 +1,17 @@
+Operational runbooks are documented procedures that guide administrators through routine operational tasks and incident response activities.
+
+Typical runbooks include:
+
+* Virtual machine recovery
+* Backup restoration
+* User access requests
+* Network troubleshooting
+* Security incident response
+* Resource deployment
+* Disaster recovery activation
+
+For example, if a production virtual machine becomes unavailable, administrators can follow a predefined runbook to diagnose, recover, validate, and document the incident.
+
+A real-life use case is reducing dependency on individual administrators by ensuring operational knowledge is consistently documented and shared.
+
+Runbooks improve operational consistency and reduce recovery times.
