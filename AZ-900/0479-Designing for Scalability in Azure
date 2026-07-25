@@ -1,0 +1,16 @@
+Scalability is the ability of an application or infrastructure to handle increasing workloads without compromising performance. Azure provides multiple services and architectural patterns that allow organizations to scale resources efficiently based on business demand.
+
+There are two primary approaches to scalability:
+
+* Vertical Scaling (Scale Up)
+
+  * Increase CPU, memory, or storage of an existing resource.
+* Horizontal Scaling (Scale Out)
+
+  * Add additional instances of a resource and distribute traffic among them.
+
+For example, an online ticket booking platform may automatically add more web server instances during the launch of a popular concert, ensuring that thousands of users can purchase tickets simultaneously without service degradation.
+
+A real-life use case is e-commerce platforms automatically scaling during festive sales such as Black Friday or Diwali to maintain application responsiveness.
+
+Designing for scalability enables applications to accommodate business growth while maintaining an optimal user experience.
