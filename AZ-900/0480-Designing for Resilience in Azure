@@ -1,0 +1,16 @@
+Resilience refers to the ability of a system to continue operating despite failures, unexpected events, or infrastructure disruptions.
+
+Key resilience strategies include:
+
+* Resource redundancy
+* Geographic distribution
+* Automatic failover
+* Health monitoring
+* Backup and recovery
+* Fault isolation
+
+For example, an airline reservation platform may replicate services across multiple Azure regions so that travellers can continue booking flights even if one datacentre becomes unavailable.
+
+A real-life use case is healthcare systems ensuring uninterrupted access to patient records during regional infrastructure failures.
+
+Resilient architectures improve customer trust and minimise operational disruption during unexpected incidents.
