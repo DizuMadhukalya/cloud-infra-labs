@@ -1,0 +1,17 @@
+Not every workload has identical technical or business requirements. Classifying workloads before deployment helps determine the appropriate Azure services, security controls, and availability requirements.
+
+Common workload categories include:
+
+* Business-critical
+* Mission-critical
+* Development and testing
+* Batch processing
+* Analytics
+* Web applications
+* Disaster recovery
+
+For example, an internal HR portal may tolerate short maintenance windows, whereas an online payment gateway requires continuous availability and strict security controls.
+
+A real-life use case is organisations allocating different service levels and budgets according to workload importance rather than treating every application equally.
+
+Proper workload classification improves architecture decisions and operational planning.
