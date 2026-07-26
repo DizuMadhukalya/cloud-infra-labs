@@ -1,0 +1,16 @@
+Cloud optimisation is a continuous activity rather than a one-time exercise. Resources should be reviewed regularly to improve performance, reduce costs, and strengthen security.
+
+Typical optimisation activities include:
+
+* Right-sizing compute resources
+* Removing unused assets
+* Updating configurations
+* Improving monitoring
+* Reviewing security posture
+* Evaluating architecture
+
+For example, administrators may discover oversized virtual machines that can be replaced with smaller instances while maintaining application performance.
+
+A real-life use case is organisations reducing monthly Azure expenditure through continuous optimisation initiatives.
+
+Continuous optimisation maximises the value of cloud investments.
