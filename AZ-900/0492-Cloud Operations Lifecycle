@@ -1,0 +1,17 @@
+Cloud operations continue throughout the lifetime of every deployed workload. After deployment, resources require monitoring, maintenance, optimisation, and periodic review.
+
+The operational lifecycle typically includes:
+
+* Deployment
+* Monitoring
+* Maintenance
+* Incident response
+* Optimisation
+* Security review
+* Retirement
+
+For example, a production web application is monitored continuously for performance issues while administrators periodically optimise resources and update security configurations.
+
+A real-life use case is enterprise operations teams maintaining thousands of Azure resources throughout their lifecycle.
+
+Following a structured operational lifecycle improves reliability and service quality.
