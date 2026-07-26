@@ -1,0 +1,17 @@
+Operational risks can affect availability, security, performance, and customer satisfaction. Azure environments should be designed to minimise these risks through proactive planning and continuous monitoring.
+
+Risk reduction strategies include:
+
+* Implement redundancy
+* Automate deployments
+* Configure backups
+* Enable monitoring
+* Document procedures
+* Review security regularly
+* Test disaster recovery plans
+
+For example, an organisation performs quarterly disaster recovery exercises to verify that critical applications can be restored successfully.
+
+A real-life use case is reducing production outages by identifying operational weaknesses before failures occur.
+
+Proactive risk management strengthens organisational resilience.
