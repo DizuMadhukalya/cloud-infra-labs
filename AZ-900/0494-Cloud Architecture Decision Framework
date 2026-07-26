@@ -1,0 +1,17 @@
+Every Azure solution requires architectural decisions that balance performance, security, availability, scalability, and cost. A structured decision framework helps architects evaluate available options objectively.
+
+Important decision criteria include:
+
+* Business requirements
+* Security needs
+* Compliance obligations
+* Expected workload
+* Performance targets
+* Budget limitations
+* Future growth
+
+For example, an organisation designing a customer portal may choose managed services over virtual machines to reduce operational complexity.
+
+A real-life use case is architecture review boards evaluating proposed Azure solutions before production implementation.
+
+Structured decision-making improves solution quality and long-term maintainability.
