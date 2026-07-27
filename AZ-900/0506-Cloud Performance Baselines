@@ -1,0 +1,16 @@
+A performance baseline represents the normal operating behaviour of an application or infrastructure. Establishing baselines helps administrators identify unusual activity and performance degradation more quickly.
+
+Common baseline metrics include:
+
+* CPU utilisation
+* Memory usage
+* Disk latency
+* Network throughput
+* Response time
+* Error rate
+
+For example, if a web application normally responds within 200 milliseconds but suddenly averages 800 milliseconds, administrators can investigate before users experience major disruption.
+
+A real-life use case is operations teams using baseline data to distinguish between expected workload growth and abnormal behaviour.
+
+Performance baselines improve proactive monitoring and troubleshooting.
