@@ -1,0 +1,18 @@
+Significant production changes should follow a formal approval process to minimise operational risk. A structured workflow ensures that technical, business, and security impacts are considered before implementation.
+
+A typical approval process includes:
+
+* Submit change request
+* Assess business impact
+* Review technical design
+* Evaluate security implications
+* Obtain approvals
+* Schedule implementation
+* Validate results
+* Record outcomes
+
+For example, modifying production firewall rules should require technical validation and approval before deployment.
+
+A real-life use case is organisations preventing service interruptions caused by unreviewed infrastructure changes.
+
+A disciplined approval process improves accountability and operational stability.
