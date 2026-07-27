@@ -1,0 +1,16 @@
+Infrastructure as Code (IaC) is the practice of defining and managing cloud infrastructure using configuration files instead of manual actions. By storing infrastructure definitions in source control, organisations can create repeatable, version-controlled, and consistent deployments.
+
+Recommended best practices include:
+
+* Store templates in version control
+* Review changes through pull requests
+* Reuse modular templates
+* Validate deployments before production
+* Document template purpose
+* Use separate environments for testing
+
+For example, a development team can deploy identical environments for development, testing, and production using the same infrastructure definitions with only environment-specific parameters changing.
+
+A real-life use case is reducing configuration drift between environments while improving deployment reliability.
+
+Infrastructure as Code enables predictable, repeatable, and auditable cloud deployments.
