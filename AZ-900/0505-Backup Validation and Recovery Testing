@@ -1,0 +1,15 @@
+Creating backups is only part of a disaster recovery strategy. Organisations must regularly validate that backups can be restored successfully.
+
+A backup validation programme should include:
+
+* Scheduled restore testing
+* Integrity verification
+* Documentation updates
+* Recovery timing measurements
+* Periodic review
+
+For example, an IT team restores a database into an isolated environment every quarter to confirm that backup files are complete and usable.
+
+A real-life use case is organisations discovering backup configuration issues during testing rather than during an actual emergency.
+
+Regular recovery testing increases confidence in disaster recovery capabilities.
