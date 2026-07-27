@@ -1,0 +1,16 @@
+Documentation should evolve alongside cloud services throughout their lifecycle. Outdated documentation can slow incident resolution and increase operational risk.
+
+Documentation updates should occur after:
+
+* New deployments
+* Configuration changes
+* Security updates
+* Incident reviews
+* Architecture modifications
+* Service retirement
+
+For example, after implementing a new virtual network topology, administrators should immediately update architecture diagrams and operational procedures.
+
+A real-life use case is reducing troubleshooting time because engineers always work from current documentation.
+
+Maintaining documentation throughout the service lifecycle supports efficient cloud operations.
