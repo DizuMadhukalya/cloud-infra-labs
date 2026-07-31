@@ -1,0 +1,18 @@
+Maintaining an accurate inventory of Azure resources helps administrators understand their environment, control costs, and simplify governance activities.
+
+An inventory should include:
+
+* Resource names
+* Resource types
+* Subscription details
+* Resource groups
+* Owners
+* Business purpose
+* Environment classification
+* Lifecycle status
+
+For example, administrators can quickly identify unused virtual machines that are no longer associated with active business projects.
+
+A real-life use case is organizations performing annual infrastructure reviews to eliminate obsolete cloud resources.
+
+Accurate resource inventories improve operational visibility and governance.
