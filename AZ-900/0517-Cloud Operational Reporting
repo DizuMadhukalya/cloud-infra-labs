@@ -1,0 +1,18 @@
+Operational reports summarize the performance, health, and management of Azure environments over a defined period. These reports help technical teams and management evaluate service quality and identify trends.
+
+Typical report sections include:
+
+* Availability statistics
+* Incident summaries
+* Performance metrics
+* Backup status
+* Security findings
+* Cost analysis
+* Capacity utilization
+* Improvement recommendations
+
+For example, monthly reports may show recurring storage performance issues that justify infrastructure improvements.
+
+A real-life use case is IT leadership reviewing cloud operations during management meetings.
+
+Regular reporting supports informed decision-making and continuous improvement.
