@@ -1,0 +1,17 @@
+Security operations involve continuously protecting Azure environments against evolving threats. Instead of reacting only after an incident occurs, security teams monitor systems proactively and respond according to predefined procedures.
+
+A typical security workflow includes:
+
+* Continuous monitoring
+* Threat detection
+* Incident investigation
+* Containment
+* Remediation
+* Recovery
+* Post-incident analysis
+
+For example, suspicious login activity may trigger an investigation that results in temporary account restrictions while administrators validate user identity.
+
+A real-life use case is enterprise Security Operations Centers maintaining continuous visibility into cloud environments.
+
+An effective security operations workflow strengthens organizational cyber resilience.
