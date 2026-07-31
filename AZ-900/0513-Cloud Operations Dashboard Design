@@ -1,0 +1,18 @@
+An operations dashboard provides administrators with a centralized view of the health and performance of Azure resources. By consolidating critical operational metrics into one interface, teams can identify issues more quickly and make informed decisions.
+
+A useful dashboard may display:
+
+* Resource health
+* Active alerts
+* CPU and memory utilization
+* Network performance
+* Backup status
+* Security recommendations
+* Cost summaries
+* Service availability
+
+For example, an operations engineer can review the dashboard each morning to verify that production systems remain healthy before users begin their workday.
+
+A real-life use case is Network Operations Centers (NOCs) monitoring hundreds of cloud workloads simultaneously.
+
+A centralized dashboard improves visibility, response time, and operational efficiency.
