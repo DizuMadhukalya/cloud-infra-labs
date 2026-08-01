@@ -1,0 +1,16 @@
+Every Azure resource depends on other resources to function correctly. Understanding these dependencies helps administrators troubleshoot issues, perform migrations safely, and minimize service disruptions during maintenance.
+
+Common dependencies include:
+
+* Virtual Machines → Virtual Networks
+* Virtual Machines → Managed Disks
+* Applications → Databases
+* Applications → Storage Accounts
+* Identity Services → Authentication
+* Monitoring → Log Analytics Workspace
+
+For example, deleting a virtual network without reviewing dependent virtual machines could immediately disconnect multiple production applications.
+
+A real-life use case is infrastructure teams creating dependency diagrams before migration projects to avoid unexpected outages.
+
+Dependency mapping improves change management and operational reliability.
