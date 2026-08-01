@@ -1,0 +1,16 @@
+Reliability metrics help organizations measure how consistently Azure services deliver expected performance and availability.
+
+Common reliability metrics include:
+
+* Service uptime
+* Mean Time Between Failures (MTBF)
+* Mean Time To Recover (MTTR)
+* Incident frequency
+* Availability percentage
+* Recovery success rate
+
+For example, an organization may establish a target of 99.95% application availability while continuously measuring service performance against this objective.
+
+A real-life use case is executive management reviewing monthly reliability reports to evaluate operational performance.
+
+Reliability metrics enable objective assessment and continuous service improvement.
