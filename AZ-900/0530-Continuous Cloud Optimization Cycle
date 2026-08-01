@@ -1,0 +1,16 @@
+Cloud optimization should be treated as a continuous cycle rather than an occasional activity. Organizations should regularly evaluate resource utilization, security posture, performance, governance, and operational processes.
+
+A continuous optimization cycle includes:
+
+* Measure
+* Analyze
+* Improve
+* Validate
+* Monitor
+* Repeat
+
+For example, monthly operational reviews may identify opportunities to right-size virtual machines, improve monitoring rules, and strengthen identity security.
+
+A real-life use case is enterprises reducing operational costs every quarter while simultaneously improving application performance.
+
+Continuous optimization maximizes business value from Azure investments.
