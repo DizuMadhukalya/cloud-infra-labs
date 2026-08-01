@@ -1,0 +1,18 @@
+Architecture documentation is an essential part of every Azure deployment. It provides a clear understanding of how cloud resources are connected, why specific design decisions were made, and how the environment should be managed over time.
+
+A comprehensive architecture document should include:
+
+* High-level architecture diagrams
+* Resource inventory
+* Network topology
+* Identity and access model
+* Security controls
+* Backup and disaster recovery strategy
+* Monitoring architecture
+* Cost optimization considerations
+
+For example, before handing over a production Azure environment to an operations team, solution architects prepare architecture documents that explain resource relationships, network connectivity, and operational dependencies.
+
+A real-life use case is reducing onboarding time for new cloud engineers by providing complete documentation of existing Azure deployments.
+
+Well-maintained architecture documentation improves maintainability, troubleshooting, and long-term operational success.
