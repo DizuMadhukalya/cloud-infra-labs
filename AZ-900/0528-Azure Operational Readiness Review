@@ -1,0 +1,18 @@
+Before any Azure solution enters production, teams should conduct an Operational Readiness Review (ORR) to confirm that all operational requirements have been satisfied.
+
+An ORR typically verifies:
+
+* Monitoring configuration
+* Backup implementation
+* Disaster recovery readiness
+* Security controls
+* Documentation completeness
+* Incident procedures
+* Support ownership
+* Capacity planning
+
+For example, an enterprise application should not go live until monitoring alerts, backup restoration, and operational documentation have all been validated.
+
+A real-life use case is organizations reducing production incidents by identifying operational gaps before deployment.
+
+Operational readiness reviews improve deployment quality and reduce business risk.
