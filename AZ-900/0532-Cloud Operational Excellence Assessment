@@ -1,0 +1,17 @@
+Organizations should periodically assess whether their Azure environment demonstrates operational excellence by evaluating governance, automation, monitoring, security, reliability, and documentation.
+
+Assessment criteria include:
+
+* Deployment consistency
+* Automation maturity
+* Incident response efficiency
+* Documentation quality
+* Governance compliance
+* Cost optimization
+* Security posture
+
+For example, quarterly assessments may identify manual operational tasks that should be automated to improve efficiency and reduce human error.
+
+A real-life use case is enterprises tracking operational maturity as cloud environments expand.
+
+Regular assessments support continuous operational improvement.
