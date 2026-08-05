@@ -1,0 +1,17 @@
+Governance maturity assessments help organizations evaluate how effectively governance policies are implemented across Azure environments.
+
+Assessment areas include:
+
+* Identity governance
+* Resource organization
+* Policy compliance
+* Cost governance
+* Security implementation
+* Documentation
+* Automation maturity
+
+For example, organizations with automated policy enforcement generally achieve higher governance maturity than those relying on manual reviews.
+
+A real-life use case is enterprises measuring governance improvements annually to support organizational growth.
+
+Governance assessments identify strengths, weaknesses, and future improvement opportunities.
