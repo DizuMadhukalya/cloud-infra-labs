@@ -1,0 +1,17 @@
+Operational health assessments provide an overall evaluation of Azure environments by reviewing infrastructure, security, governance, monitoring, and operational effectiveness.
+
+Assessment criteria include:
+
+* Service availability
+* Incident trends
+* Backup success
+* Resource utilization
+* Security posture
+* Compliance status
+* Cost optimization
+
+For example, administrators perform quarterly operational assessments to verify that production systems continue meeting business expectations.
+
+A real-life use case is enterprises using health assessments to prioritize future operational improvements.
+
+Regular assessments strengthen cloud reliability and operational excellence.
