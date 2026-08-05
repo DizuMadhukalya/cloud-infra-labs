@@ -1,0 +1,16 @@
+Documentation should be reviewed periodically to ensure that it accurately reflects the current Azure environment.
+
+Review activities include:
+
+* Updating architecture diagrams
+* Verifying operational procedures
+* Reviewing contact information
+* Updating disaster recovery plans
+* Validating monitoring documentation
+* Confirming security procedures
+
+For example, after expanding a virtual network, administrators should immediately update architecture documentation to reflect the new topology.
+
+A real-life use case is organizations maintaining accurate operational knowledge despite frequent infrastructure changes.
+
+Documentation reviews improve operational continuity and reduce troubleshooting time.
