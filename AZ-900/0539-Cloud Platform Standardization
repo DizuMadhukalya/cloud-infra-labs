@@ -1,0 +1,18 @@
+Platform standardization establishes common technical standards across Azure environments.
+
+Areas commonly standardized include:
+
+* Virtual machine images
+* Network architecture
+* Identity management
+* Monitoring
+* Logging
+* Backup policies
+* Naming conventions
+* Resource tagging
+
+For example, every production workload may use identical monitoring agents and backup schedules regardless of business unit.
+
+A real-life use case is multinational organizations simplifying operations across hundreds of Azure subscriptions.
+
+Platform standardization improves efficiency and simplifies support.
