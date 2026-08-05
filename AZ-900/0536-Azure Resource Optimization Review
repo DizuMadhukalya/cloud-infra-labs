@@ -1,0 +1,17 @@
+Resource optimization should be performed regularly to ensure Azure resources continue meeting workload requirements efficiently.
+
+Optimization reviews focus on:
+
+* Compute utilization
+* Storage consumption
+* Network performance
+* Cost efficiency
+* Resource availability
+* Security recommendations
+* Resource lifecycle
+
+For example, administrators may identify underutilized virtual machines and replace them with smaller instances to reduce monthly cloud expenditure.
+
+A real-life use case is enterprises conducting quarterly optimization exercises to improve both performance and financial efficiency.
+
+Regular optimization reviews maximize the return on Azure investments.
