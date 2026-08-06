@@ -1,0 +1,18 @@
+A governance dashboard provides centralized visibility into compliance, security, cost, and operational health across Azure subscriptions.
+
+Typical dashboard metrics include:
+
+* Policy compliance percentage
+* Resource tagging compliance
+* Security recommendations
+* Cost by subscription
+* Backup compliance
+* Resource inventory
+* Active incidents
+* Governance violations
+
+For example, cloud administrators can quickly identify subscriptions that violate organizational policies or exceed monthly spending thresholds.
+
+A real-life use case is enterprise cloud governance teams monitoring hundreds of Azure subscriptions through a single dashboard.
+
+Governance dashboards improve decision-making and simplify executive reporting.
