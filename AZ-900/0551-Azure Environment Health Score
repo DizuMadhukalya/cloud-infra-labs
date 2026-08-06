@@ -1,0 +1,17 @@
+An Azure Environment Health Score provides an overall assessment of cloud health by combining multiple operational metrics into a single evaluation.
+
+Evaluation areas include:
+
+* Security posture
+* Resource availability
+* Compliance status
+* Backup health
+* Monitoring effectiveness
+* Cost efficiency
+* Documentation quality
+
+For example, an environment may achieve a health score of 92% after demonstrating strong governance, reliable monitoring, and excellent operational practices.
+
+A real-life use case is organizations comparing operational maturity across multiple Azure subscriptions.
+
+Health scoring simplifies executive reporting and operational planning.
