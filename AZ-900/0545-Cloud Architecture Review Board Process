@@ -1,0 +1,18 @@
+A Cloud Architecture Review Board (ARB) is a group of experienced architects and technical leaders responsible for evaluating proposed Azure solutions before they are deployed into production. The objective is to ensure that every solution complies with organizational standards for security, scalability, governance, cost optimization, and operational excellence.
+
+A typical review process includes:
+
+* Requirement analysis
+* Architecture presentation
+* Security assessment
+* Cost estimation review
+* Governance validation
+* Risk assessment
+* Final approval
+* Documentation of recommendations
+
+For example, before deploying a customer-facing application, the review board verifies that the solution includes redundancy, monitoring, RBAC, backup strategies, and disaster recovery mechanisms.
+
+A real-life use case is large enterprises requiring architectural approval before any production workload is deployed to Azure.
+
+An Architecture Review Board helps maintain technical consistency and reduces long-term operational risks.
