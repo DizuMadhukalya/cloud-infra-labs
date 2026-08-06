@@ -1,0 +1,16 @@
+Automation is one of the defining characteristics of mature cloud operations. Repetitive administrative tasks should be automated wherever possible to improve consistency and reduce manual effort.
+
+Common automation opportunities include:
+
+* Infrastructure deployment
+* Backup scheduling
+* Resource cleanup
+* Monitoring alerts
+* Patch management
+* Compliance reporting
+
+For example, administrators automate the shutdown of development virtual machines outside working hours to reduce operational costs.
+
+A real-life use case is enterprises using automation to manage thousands of Azure resources efficiently.
+
+Automation increases reliability while reducing operational complexity.
