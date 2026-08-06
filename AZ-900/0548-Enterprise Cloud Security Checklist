@@ -1,0 +1,19 @@
+Before any Azure workload is deployed into production, organizations should verify that essential security controls are implemented.
+
+A recommended checklist includes:
+
+* Multi-Factor Authentication enabled
+* Least privilege RBAC
+* Network Security Groups configured
+* Data encryption enabled
+* Backup configured
+* Monitoring enabled
+* Security recommendations reviewed
+* Audit logging enabled
+* Sensitive secrets stored securely
+
+For example, an enterprise deploying healthcare applications verifies every security requirement before approving production deployment.
+
+A real-life use case is reducing security vulnerabilities by enforcing standardized deployment procedures.
+
+Security checklists improve consistency and strengthen organizational cyber resilience.
