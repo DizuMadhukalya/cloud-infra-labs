@@ -1,0 +1,16 @@
+Performance optimization ensures Azure resources deliver the required level of responsiveness while using infrastructure efficiently.
+
+Optimization activities include:
+
+* Performance monitoring
+* Query optimization
+* Storage tuning
+* Auto Scaling
+* Load balancing
+* Resource right-sizing
+
+For example, administrators analyze application latency and optimize database queries before increasing virtual machine size.
+
+A real-life use case is SaaS providers maintaining excellent user experience while controlling infrastructure costs.
+
+Performance optimization improves efficiency and customer satisfaction.
