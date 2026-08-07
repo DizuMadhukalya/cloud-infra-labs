@@ -1,0 +1,16 @@
+Reliability engineering focuses on designing Azure systems that continue operating despite failures.
+
+Core principles include:
+
+* Redundancy
+* Fault isolation
+* Automated recovery
+* Continuous monitoring
+* Capacity planning
+* Regular testing
+
+For example, production applications should be deployed across multiple Availability Zones with automatic health monitoring and failover capabilities.
+
+A real-life use case is airline booking platforms maintaining continuous service despite infrastructure failures.
+
+Reliability engineering minimizes downtime and improves customer confidence.
