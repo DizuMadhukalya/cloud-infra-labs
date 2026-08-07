@@ -1,0 +1,17 @@
+Availability planning ensures Azure services remain accessible according to business expectations.
+
+Planning considerations include:
+
+* Availability Zones
+* Region redundancy
+* Load balancing
+* Automatic failover
+* Backup
+* Monitoring
+* Disaster recovery
+
+For example, a payment processing platform deploys application servers across multiple Availability Zones and uses redundant databases to minimize downtime.
+
+A real-life use case is online banking systems providing uninterrupted financial services throughout the year.
+
+Availability planning improves business continuity and customer satisfaction.
