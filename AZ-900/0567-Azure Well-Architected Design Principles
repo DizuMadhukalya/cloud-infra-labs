@@ -1,0 +1,15 @@
+The Azure Well-Architected Framework provides a structured approach for designing and evaluating cloud workloads. It helps organizations make informed architectural decisions instead of focusing only on whether an application can be deployed successfully.
+
+The major principles include:
+
+* Reliability
+* Security
+* Cost Optimization
+* Operational Excellence
+* Performance Efficiency
+
+For example, an e-commerce application may use multiple Availability Zones for reliability, Microsoft Entra ID and RBAC for security, autoscaling for performance, and Azure cost management practices to control expenditure.
+
+A real-life use case is a company reviewing an existing production application before a major seasonal sales event. The architecture team evaluates whether the workload can handle increased traffic while remaining secure, reliable, and cost-effective.
+
+Using these principles helps organizations build Azure workloads that are aligned with both technical requirements and business objectives.
