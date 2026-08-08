@@ -1,0 +1,17 @@
+Reliability refers to the ability of an Azure workload to continue performing its intended function despite failures or unexpected conditions.
+
+Reliability can be improved through:
+
+* Availability Zones
+* Region redundancy
+* Load balancing
+* Health monitoring
+* Automatic recovery
+* Backup and restore
+* Disaster recovery planning
+
+For example, an online banking application can deploy application instances across multiple Availability Zones so that a failure affecting one zone does not necessarily make the entire application unavailable.
+
+A real-life use case is a ticket-booking platform that must remain operational during periods of extremely high demand. Redundant infrastructure and automatic scaling can help maintain availability.
+
+Reliability planning should begin during architecture design rather than being added after deployment.
