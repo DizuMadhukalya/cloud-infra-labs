@@ -1,0 +1,16 @@
+Architecture Decision Records (ADRs) document important technical decisions made during the design and operation of Azure solutions. They preserve the reasoning behind decisions so future engineers understand not only what was selected, but why it was selected.
+
+An ADR can document:
+
+* The architectural problem
+* Available options
+* Selected approach
+* Reasons for the decision
+* Expected consequences
+* Alternatives considered
+
+For example, an architecture team may document why Azure SQL Database was selected instead of running SQL Server on virtual machines.
+
+A real-life use case is a large enterprise where engineers change over time. ADRs prevent important architectural knowledge from being lost when members of the original design team leave.
+
+Decision records improve transparency, maintainability, and architectural consistency.
