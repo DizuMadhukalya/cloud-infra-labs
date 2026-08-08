@@ -1,0 +1,15 @@
+Azure architecture decisions frequently involve tradeoffs. Improving one characteristic of a workload can sometimes increase cost, complexity, or operational requirements.
+
+Common tradeoffs include:
+
+* Performance versus cost
+* Availability versus complexity
+* Security versus convenience
+* Scalability versus resource consumption
+* Redundancy versus expenditure
+
+For example, deploying an application across multiple Azure regions can improve resilience but introduces additional infrastructure, networking, and operational costs.
+
+A real-life use case is a startup deciding whether its early-stage application actually requires multi-region deployment or whether a highly available single-region architecture is sufficient.
+
+Good cloud architecture does not attempt to maximize every characteristic independently. Instead, it balances technical requirements against business priorities.
