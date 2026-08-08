@@ -1,0 +1,17 @@
+Performance efficiency involves ensuring that Azure workloads provide the required level of performance while making effective use of available resources.
+
+Important considerations include:
+
+* Selecting appropriate compute sizes
+* Autoscaling
+* Load balancing
+* Storage performance
+* Network latency
+* Application optimization
+* Database performance
+
+For example, an online learning platform may experience a significant increase in traffic during examination periods. Autoscaling can increase compute capacity during peak demand and reduce it afterward.
+
+A real-life use case is a streaming service dynamically scaling infrastructure according to the number of active viewers.
+
+Performance efficiency helps organizations maintain responsive applications without permanently provisioning excessive infrastructure.
