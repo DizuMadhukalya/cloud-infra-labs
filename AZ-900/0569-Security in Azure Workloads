@@ -1,0 +1,18 @@
+Security is a fundamental consideration when designing Azure workloads. Security controls should protect identities, applications, networks, infrastructure, and data throughout the workload lifecycle.
+
+Important security practices include:
+
+* Microsoft Entra ID authentication
+* Multi-Factor Authentication
+* Azure RBAC
+* Network Security Groups
+* Encryption
+* Key management
+* Security monitoring
+* Least privilege access
+
+For example, an enterprise application can use Microsoft Entra ID for identity management, RBAC to control administrative permissions, and Azure Key Vault to protect application secrets.
+
+A real-life use case is a financial services organization protecting sensitive customer information while allowing employees and applications to access only the resources they require.
+
+Security should follow a defense-in-depth and Zero Trust approach rather than relying on a single security mechanism.
