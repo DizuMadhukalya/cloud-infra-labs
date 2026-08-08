@@ -1,0 +1,18 @@
+Cost optimization focuses on maximizing the business value obtained from Azure resources while avoiding unnecessary expenditure.
+
+Common cost optimization techniques include:
+
+* Right-sizing resources
+* Removing unused resources
+* Using appropriate storage tiers
+* Autoscaling workloads
+* Using budgets and alerts
+* Reviewing pricing options
+* Scheduling non-production resources
+* Monitoring resource utilization
+
+For example, development virtual machines that are only required during working hours can be automatically shut down outside those hours.
+
+A real-life use case is a software company reducing its Azure bill by identifying idle virtual machines and moving infrequently accessed storage data to lower-cost tiers.
+
+Cost optimization should be continuous because workload requirements and resource usage change over time.
