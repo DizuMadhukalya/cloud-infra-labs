@@ -1,0 +1,20 @@
+A cloud architecture security review evaluates whether an Azure solution has appropriate controls to protect identities, infrastructure, applications, networks, and data.
+
+A review may examine:
+
+* Authentication
+* Authorization
+* RBAC assignments
+* Network segmentation
+* Firewall and NSG configuration
+* Encryption
+* Key management
+* Logging
+* Monitoring
+* Data protection
+
+For example, before a customer-facing application enters production, security engineers verify that administrative access uses strong authentication and that sensitive data is encrypted.
+
+A real-life use case is an organization conducting security reviews before launching applications that process financial or personally identifiable information.
+
+Security architecture reviews help identify weaknesses before they become production security incidents.
