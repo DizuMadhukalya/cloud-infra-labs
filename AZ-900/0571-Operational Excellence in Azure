@@ -1,0 +1,17 @@
+Operational excellence focuses on running Azure workloads efficiently throughout their lifecycle. It includes deployment practices, monitoring, automation, incident management, and continuous improvement.
+
+Important operational practices include:
+
+* Standardized deployments
+* Infrastructure as Code
+* Monitoring and alerting
+* Automated operational tasks
+* Incident response
+* Documentation
+* Performance reviews
+
+For example, instead of manually creating the same infrastructure for every application, an organization can use reusable deployment templates to create standardized environments.
+
+A real-life use case is an enterprise managing hundreds of application environments where automation reduces deployment time and minimizes configuration errors.
+
+Operational excellence enables teams to deliver changes reliably while maintaining stable production environments.
