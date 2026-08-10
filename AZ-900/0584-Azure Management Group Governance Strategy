@@ -1,0 +1,19 @@
+Azure Management Groups provide a hierarchy above subscriptions, allowing organizations to apply governance across multiple subscriptions.
+
+A common hierarchy can be:
+
+`Tenant → Management Group → Subscription → Resource Group → Resource`
+
+Organizations can create management groups based on:
+
+* Business units
+* Departments
+* Production versus non-production
+* Geographic regions
+* Compliance requirements
+
+For example, a company may place all production subscriptions under a Production management group and apply common security and compliance policies at that level.
+
+A real-life use case is a multinational enterprise managing separate subscriptions for different countries while maintaining centralized governance.
+
+Management Groups provide an effective foundation for enterprise-scale Azure governance.
