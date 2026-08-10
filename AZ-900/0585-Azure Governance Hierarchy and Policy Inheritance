@@ -1,0 +1,13 @@
+Azure governance can be structured hierarchically so that policies and access configurations applied at higher scopes can influence resources at lower scopes.
+
+The hierarchy commonly follows:
+
+`Management Group → Subscription → Resource Group → Resource`
+
+For example, a policy requiring specific resource tags can be applied at the management group level so that multiple subscriptions inherit the governance requirement.
+
+This approach avoids repeatedly configuring the same policy individually across hundreds of subscriptions.
+
+A real-life use case is an enterprise applying a standard security policy across all production subscriptions from a centralized management group.
+
+Hierarchical governance reduces duplication and helps maintain consistent organizational standards.
