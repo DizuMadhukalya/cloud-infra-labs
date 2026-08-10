@@ -1,0 +1,12 @@
+Azure resource locks help prevent accidental modification or deletion of important resources. Locks provide an additional protection layer even when a user has sufficient permissions through Azure RBAC.
+
+The two primary lock types are:
+
+* CanNotDelete: Prevents deletion while allowing modifications.
+* ReadOnly: Prevents modification and deletion.
+
+For example, a production resource group containing critical infrastructure can have a CanNotDelete lock to prevent an administrator from accidentally deleting the environment.
+
+A real-life use case is protecting production databases, storage accounts, or critical infrastructure from accidental administrative actions.
+
+Resource locks should be used carefully because they can also affect legitimate administrative operations and may need to be removed before certain resources can be changed or deleted.
