@@ -1,0 +1,16 @@
+Azure Policy provides a mechanism for enforcing organizational standards and assessing compliance across Azure resources. Instead of relying entirely on administrators to manually verify configurations, policies can automatically evaluate resources against defined requirements.
+
+Common policy scenarios include:
+
+* Restricting allowed Azure regions
+* Requiring resource tags
+* Enforcing specific resource configurations
+* Auditing unsupported resource types
+* Enforcing security standards
+* Maintaining organizational compliance
+
+For example, an organization operating only in approved geographic locations can create a policy that prevents resources from being deployed outside those regions.
+
+A real-life use case is a regulated enterprise ensuring that all production resources follow predefined security and governance requirements.
+
+Azure Policy helps organizations maintain consistent governance at scale.
