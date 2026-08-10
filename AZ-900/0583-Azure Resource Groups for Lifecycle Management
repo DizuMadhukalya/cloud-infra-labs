@@ -1,0 +1,15 @@
+Azure Resource Groups provide a logical container for related Azure resources and can simplify lifecycle management. Resources placed in the same resource group can be managed collectively when appropriate.
+
+Resource groups are commonly organized around:
+
+* Applications
+* Projects
+* Environments
+* Business functions
+* Deployment lifecycles
+
+For example, a development application might have its virtual machine, storage account, network interface, and supporting resources inside a dedicated resource group.
+
+A real-life use case is a temporary testing environment that can be removed by deleting the resource group after testing is completed.
+
+Resource groups simplify organization and lifecycle management, although resources do not necessarily have to share the same lifecycle merely because they belong to the same group.
