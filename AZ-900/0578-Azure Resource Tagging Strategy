@@ -1,0 +1,16 @@
+Azure resource tags are name-value pairs attached to resources to help organizations classify, organize, and manage their cloud environment. Tags do not change how a resource operates, but they provide valuable metadata for governance, cost analysis, automation, and operational management.
+
+Common tags include:
+
+* Environment: Production, Test, Development
+* Department: Finance, HR, Engineering
+* Application: Payroll, CRM, Website
+* Owner: Responsible team or individual
+* CostCenter: Internal billing reference
+* BusinessCriticality: High, Medium, Low
+
+For example, an organization may tag all resources belonging to its customer portal with `Application=CustomerPortal` and `Environment=Production`.
+
+A real-life use case is a company with hundreds of Azure resources using tags to determine which department owns each resource and how much each business unit is consuming.
+
+A consistent tagging strategy improves resource organization, cost analysis, automation, and governance.
