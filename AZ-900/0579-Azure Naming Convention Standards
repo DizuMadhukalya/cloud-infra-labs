@@ -1,0 +1,16 @@
+A standardized naming convention makes Azure environments easier to understand, manage, troubleshoot, and automate. Resource names should communicate useful information without becoming unnecessarily complicated.
+
+A naming standard may incorporate:
+
+* Organization or project identifier
+* Resource type
+* Application name
+* Environment
+* Region
+* Instance number
+
+For example, a virtual machine might follow a pattern such as `prod-web-eastus-vm01`, where the name identifies its environment, workload, region, and instance.
+
+A real-life use case is an enterprise managing thousands of resources across development, testing, and production environments.
+
+Consistent naming reduces administrative confusion and makes scripts, monitoring queries, and operational documentation easier to maintain.
