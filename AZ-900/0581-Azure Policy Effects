@@ -1,0 +1,18 @@
+Azure Policy supports different effects that determine what happens when a resource does or does not comply with a policy.
+
+Important policy effects include:
+
+* Audit
+* Deny
+* Append
+* Modify
+* DeployIfNotExists
+* Disabled
+
+An Audit policy can identify non-compliant resources without blocking deployment. A Deny policy can prevent non-compliant resources from being created. Modify and DeployIfNotExists can help automatically bring resources toward an organization's required configuration.
+
+For example, an organization may initially use Audit to identify resources without required tags before switching to a stricter enforcement approach.
+
+A real-life use case is a cloud governance team gradually introducing policies so that development teams can adapt before strict enforcement is enabled.
+
+Understanding policy effects is important for designing practical Azure governance.
