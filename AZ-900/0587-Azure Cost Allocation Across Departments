@@ -1,0 +1,16 @@
+Cost allocation allows organizations to determine how Azure expenditure is distributed among departments, applications, projects, or business units.
+
+Organizations can use:
+
+* Resource tags
+* Subscriptions
+* Resource groups
+* Cost analysis
+* Budgets
+* Cost management reports
+
+For example, an organization may tag resources with `Department=Finance` and `CostCenter=FIN001` so that finance-related cloud consumption can be analyzed separately.
+
+A real-life use case is a large enterprise using Azure for HR, finance, sales, and engineering workloads and needing to allocate cloud expenditure to each department.
+
+Effective cost allocation improves financial accountability and helps business units understand their cloud consumption.
