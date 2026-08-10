@@ -1,0 +1,19 @@
+An Azure governance baseline establishes a minimum set of standards that every cloud environment should follow before workloads are deployed.
+
+A governance baseline may define requirements for:
+
+* Identity and access
+* Resource naming
+* Resource tagging
+* Allowed regions
+* Network security
+* Logging and monitoring
+* Backup
+* Cost management
+* Compliance
+
+For example, an enterprise may require every production resource to have an owner tag, approved region, monitoring configuration, appropriate RBAC assignments, and defined backup requirements.
+
+A real-life use case is a company onboarding multiple development teams to Azure while ensuring that every team follows the same minimum governance requirements.
+
+A strong governance baseline provides a repeatable foundation for secure, manageable, and cost-effective Azure adoption.
