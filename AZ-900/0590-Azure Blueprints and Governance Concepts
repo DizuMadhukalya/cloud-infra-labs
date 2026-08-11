@@ -1,0 +1,15 @@
+Azure Blueprints was a governance concept designed to help organizations define repeatable environments containing policies, role assignments, resource groups, and other governance components. It helped standardize how Azure environments were deployed according to organizational requirements.
+
+The concept is useful for understanding repeatable governance patterns such as:
+
+* Policy assignments
+* Role assignments
+* Resource group structures
+* Standardized configurations
+* Compliance requirements
+
+For example, an enterprise could define a standardized production environment where required governance controls are consistently applied whenever a new workload is established.
+
+A real-life use case is a regulated organization needing every production environment to follow a predefined governance structure.
+
+Although Azure Blueprints itself has been retired, understanding its governance concepts provides useful context for modern Azure governance approaches such as Azure Policy and infrastructure-as-code solutions.
