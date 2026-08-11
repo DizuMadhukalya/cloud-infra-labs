@@ -1,0 +1,17 @@
+Development environments require governance just like production environments, although their requirements may differ. Without controls, developers can unintentionally create large numbers of expensive or insecure resources.
+
+Development governance can include:
+
+* Approved regions
+* Spending limits
+* Resource tags
+* Automatic shutdown schedules
+* Restricted resource types
+* Appropriate RBAC permissions
+* Cleanup policies
+
+For example, development virtual machines can be automatically shut down outside business hours to prevent unnecessary consumption.
+
+A real-life use case is a software company giving developers flexibility to experiment while maintaining cost and security controls.
+
+Effective development governance enables innovation without allowing uncontrolled cloud consumption.
