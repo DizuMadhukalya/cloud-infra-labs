@@ -1,0 +1,17 @@
+Not every workload can necessarily follow identical governance requirements. Governance exception management provides a controlled process for handling legitimate cases where a resource temporarily or permanently requires an exception.
+
+An exception process should include:
+
+* Business justification
+* Risk assessment
+* Approval
+* Defined owner
+* Expiration date
+* Compensating controls
+* Periodic review
+
+For example, an application may temporarily require deployment in a region that is normally restricted because a specific service dependency is available only there.
+
+A real-life use case is a large enterprise allowing carefully approved exceptions without weakening governance standards for the rest of its environment.
+
+Controlled exceptions provide flexibility while preserving accountability and security.
