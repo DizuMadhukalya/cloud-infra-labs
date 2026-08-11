@@ -1,0 +1,16 @@
+Resource lifecycle policies help organizations manage Azure resources from creation through retirement. Without lifecycle management, unused resources can accumulate and increase security, operational, and financial risks.
+
+Lifecycle stages commonly include:
+
+* Planning
+* Deployment
+* Active operation
+* Optimization
+* Decommissioning
+* Data retention or deletion
+
+For example, development environments created for short-term projects can be identified for automatic or scheduled cleanup after the project is completed.
+
+A real-life use case is a software company managing temporary testing environments that would otherwise continue generating Azure charges after testing ends.
+
+Lifecycle policies improve cost efficiency and reduce unnecessary resource accumulation.
