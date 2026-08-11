@@ -1,0 +1,17 @@
+Azure resource compliance monitoring involves continuously checking whether resources conform to organizational policies and governance requirements. Instead of performing occasional manual reviews, organizations can use automated policy evaluation to identify resources that violate defined standards.
+
+Compliance checks can include:
+
+* Required resource tags
+* Approved Azure regions
+* Allowed resource types
+* Security configurations
+* Network requirements
+* Encryption requirements
+* Naming standards
+
+For example, an organization may require every production resource to contain an owner and cost-center tag. Resources missing these tags can be identified as non-compliant.
+
+A real-life use case is a large enterprise using policy compliance reporting to identify governance gaps across hundreds of Azure subscriptions.
+
+Continuous compliance monitoring helps organizations maintain consistent governance as the Azure environment grows.
