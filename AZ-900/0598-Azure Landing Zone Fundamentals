@@ -1,0 +1,18 @@
+An Azure landing zone is a standardized foundation for hosting workloads in Azure. It establishes core governance, identity, networking, security, and management capabilities before application teams begin deploying workloads.
+
+A landing zone commonly addresses:
+
+* Management groups
+* Subscriptions
+* Identity
+* Networking
+* Security
+* Governance
+* Monitoring
+* Resource organization
+
+For example, an enterprise migrating hundreds of applications to Azure can establish a standardized landing-zone architecture before onboarding individual application teams.
+
+A real-life use case is a multinational organization creating a consistent Azure foundation across business units while allowing individual teams to deploy their workloads within approved boundaries.
+
+Landing zones accelerate cloud adoption while reducing architectural inconsistency and governance problems.
