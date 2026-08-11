@@ -1,0 +1,19 @@
+Production environments require stricter governance because failures or unauthorized changes can directly affect customers and business operations.
+
+Production governance commonly includes:
+
+* Strict RBAC
+* Resource locks where appropriate
+* Azure Policy
+* Monitoring and alerting
+* Backup
+* Disaster recovery
+* Change management
+* Security controls
+* Approved deployment procedures
+
+For example, access to a production database may be restricted to a small group of administrators while application teams receive only the permissions they require.
+
+A real-life use case is a financial institution protecting business-critical applications from unauthorized changes.
+
+Strong production governance reduces operational risk while improving reliability and security.
