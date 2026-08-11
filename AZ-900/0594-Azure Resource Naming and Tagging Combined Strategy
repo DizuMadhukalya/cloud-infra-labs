@@ -1,0 +1,16 @@
+Naming conventions and resource tags solve different but complementary management problems. Naming makes resources immediately identifiable, while tags provide structured metadata for governance, cost analysis, ownership, and automation.
+
+For example, a virtual machine could be named:
+
+`prod-web-eastus-vm01`
+
+and contain tags such as:
+
+* Environment = Production
+* Application = CustomerPortal
+* Owner = WebTeam
+* CostCenter = CC1001
+
+A real-life use case is an enterprise operations team searching for a specific production resource while finance teams simultaneously use tags to determine departmental expenditure.
+
+Combining naming and tagging creates a structured resource management model that scales effectively across large Azure environments.
