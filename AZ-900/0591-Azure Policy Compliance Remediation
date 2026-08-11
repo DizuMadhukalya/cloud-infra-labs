@@ -1,0 +1,16 @@
+Policy compliance remediation is the process of correcting Azure resources that do not meet organizational requirements. Detection alone is not enough; organizations need a controlled process for bringing non-compliant resources back into compliance.
+
+Remediation can involve:
+
+* Adding missing tags
+* Correcting configurations
+* Deploying required settings
+* Removing prohibited configurations
+* Updating resource properties
+* Requiring administrators to correct violations
+
+For example, if a policy requires a specific tag on every storage account, remediation can help apply the required configuration to existing resources.
+
+A real-life use case is an enterprise discovering hundreds of previously deployed resources that do not meet newly introduced governance standards.
+
+Automated or controlled remediation reduces manual administrative effort and improves compliance consistency.
