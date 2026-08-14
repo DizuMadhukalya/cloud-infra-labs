@@ -1,0 +1,18 @@
+An Azure governance operating model defines how people, processes, and technologies work together to manage cloud resources responsibly.
+
+The model can define:
+
+* Governance responsibilities
+* Policy ownership
+* Security responsibilities
+* Subscription administration
+* Cost management
+* Compliance processes
+* Exception handling
+* Operational reviews
+
+For example, a central cloud governance team may define organization-wide policies while individual application teams remain responsible for their workloads.
+
+A real-life use case is a large enterprise establishing a Cloud Center of Excellence that coordinates security, finance, infrastructure, and application teams.
+
+A governance operating model creates clear accountability without unnecessarily preventing application teams from working independently.
