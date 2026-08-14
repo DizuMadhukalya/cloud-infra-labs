@@ -1,0 +1,17 @@
+Azure management and monitoring provide visibility into resource health, performance, configuration, and operational events. These capabilities allow administrators to detect problems and respond before they significantly affect users.
+
+A management foundation can include:
+
+* Azure Monitor
+* Log Analytics
+* Activity logs
+* Alerts
+* Resource health
+* Application monitoring
+* Operational dashboards
+
+For example, an alert can notify an operations team when a production virtual machine experiences sustained high CPU utilization.
+
+A real-life use case is an enterprise operations team monitoring thousands of Azure resources and receiving alerts when workloads deviate from expected behavior.
+
+Centralized monitoring improves troubleshooting, reliability, and operational awareness.
