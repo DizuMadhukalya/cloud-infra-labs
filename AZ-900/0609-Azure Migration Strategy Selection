@@ -1,0 +1,17 @@
+Selecting the correct migration strategy is essential when moving workloads from an on-premises datacenter to Azure. Different applications may require different approaches depending on business requirements, technical constraints, and modernization goals.
+
+Common migration approaches include:
+
+* Rehost
+* Refactor
+* Rearchitect
+* Rebuild
+* Replace
+* Retire
+* Retain
+
+For example, a legacy application that cannot easily be modified may initially be rehosted on Azure virtual machines, while another application may be modernized using Azure App Service or containers.
+
+A real-life use case is an enterprise evaluating hundreds of applications and selecting different migration approaches based on complexity, business value, and modernization potential.
+
+Choosing the appropriate strategy helps balance migration speed, cost, risk, and long-term cloud benefits.
