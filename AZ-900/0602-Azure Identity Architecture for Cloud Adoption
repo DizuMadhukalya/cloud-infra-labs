@@ -1,0 +1,17 @@
+Identity is a foundational component of Azure architecture because users, applications, services, and administrators all require controlled access to cloud resources.
+
+An Azure identity architecture can include:
+
+* Microsoft Entra ID
+* Users and groups
+* Service principals
+* Managed identities
+* Multi-Factor Authentication
+* Conditional Access
+* Azure RBAC
+
+For example, an application running on Azure can use a managed identity to access a storage account without storing a password or secret inside application code.
+
+A real-life use case is an enterprise implementing centralized identity management across hundreds of Azure applications and thousands of employees.
+
+A strong identity architecture supports Zero Trust and least-privilege principles while simplifying access management.
