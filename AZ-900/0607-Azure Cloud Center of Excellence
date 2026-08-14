@@ -1,0 +1,20 @@
+A Cloud Center of Excellence (CCoE) is a cross-functional team that helps an organization establish and improve its cloud adoption practices.
+
+A CCoE may include specialists from:
+
+* Cloud architecture
+* Security
+* Networking
+* Infrastructure
+* Finance
+* Compliance
+* DevOps
+* Application development
+
+Its responsibilities can include creating standards, reviewing architectures, developing reusable patterns, educating teams, and promoting cost-effective cloud adoption.
+
+For example, a CCoE can create a standardized Azure landing zone that application teams use when onboarding new workloads.
+
+A real-life use case is a large organization transitioning from traditional datacenter infrastructure to Azure and needing centralized expertise to guide multiple teams.
+
+A CCoE accelerates cloud adoption while maintaining consistency and governance.
