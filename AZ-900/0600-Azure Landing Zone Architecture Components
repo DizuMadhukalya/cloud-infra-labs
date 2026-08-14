@@ -1,0 +1,19 @@
+An Azure landing zone provides a standardized foundation for deploying and managing workloads in Azure. Its architecture is designed to establish common capabilities before individual application teams begin building their solutions.
+
+Important landing zone components include:
+
+* Management groups
+* Subscriptions
+* Microsoft Entra ID
+* Azure RBAC
+* Networking
+* Security controls
+* Azure Policy
+* Monitoring and management
+* Resource organization
+
+For example, an enterprise may establish centralized identity, networking, and governance capabilities while giving application teams separate subscriptions for their workloads.
+
+A real-life use case is a large organization migrating multiple business applications to Azure and using a common landing-zone architecture to ensure every workload follows the same foundational standards.
+
+Landing zones reduce duplicated effort and provide a consistent starting point for enterprise cloud adoption.
