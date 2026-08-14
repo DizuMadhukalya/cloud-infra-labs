@@ -1,0 +1,17 @@
+An Azure subscription strategy determines how an organization divides its cloud environment into manageable billing, access, and operational boundaries.
+
+Organizations may create subscriptions based on:
+
+* Business units
+* Environments
+* Departments
+* Applications
+* Geographic locations
+* Regulatory requirements
+* Billing requirements
+
+For example, a company may maintain separate subscriptions for Development, Test, and Production workloads so that permissions, budgets, and governance policies can be managed independently.
+
+A real-life use case is a multinational enterprise using separate subscriptions for different business divisions while maintaining centralized governance through management groups.
+
+A well-designed subscription strategy improves isolation, accountability, cost management, and administrative control.
