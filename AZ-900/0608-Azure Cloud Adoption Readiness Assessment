@@ -1,0 +1,20 @@
+A cloud adoption readiness assessment evaluates whether an organization is prepared to move workloads to Azure. Technical infrastructure is only one part of cloud adoption; people, processes, governance, security, and finances must also be considered.
+
+Assessment areas include:
+
+* Business objectives
+* Existing infrastructure
+* Application dependencies
+* Network readiness
+* Identity readiness
+* Security requirements
+* Skills and training
+* Governance
+* Cost planning
+* Migration strategy
+
+For example, before migrating an on-premises application, an organization can identify its database dependencies, network requirements, authentication model, and recovery requirements.
+
+A real-life use case is a company assessing hundreds of applications before deciding which workloads should be migrated, modernized, retained, or retired.
+
+Readiness assessments reduce migration surprises and improve cloud adoption planning.
