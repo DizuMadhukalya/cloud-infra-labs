@@ -1,0 +1,20 @@
+A security baseline establishes minimum security requirements that Azure workloads should meet before being considered production-ready.
+
+A baseline can include:
+
+* Microsoft Entra ID authentication
+* MFA
+* Least-privilege RBAC
+* Network segmentation
+* NSGs
+* Encryption
+* Key management
+* Logging
+* Security monitoring
+* Backup and recovery
+
+For example, an organization can require all privileged administrator accounts to use MFA and all production workloads to follow predefined network security standards.
+
+A real-life use case is a financial organization applying a common security baseline across multiple Azure subscriptions.
+
+Security baselines reduce configuration inconsistencies and establish a minimum acceptable security posture.
