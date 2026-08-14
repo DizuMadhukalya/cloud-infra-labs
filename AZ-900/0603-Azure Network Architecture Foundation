@@ -1,0 +1,18 @@
+A reliable Azure network architecture provides connectivity between applications, users, Azure services, and on-premises infrastructure while maintaining appropriate security boundaries.
+
+Important networking components include:
+
+* Virtual Networks
+* Subnets
+* Network Security Groups
+* Route tables
+* VPN Gateway
+* ExpressRoute
+* Private connectivity
+* Load balancing
+
+For example, a three-tier application may place web servers in one subnet, application servers in another, and databases in a separate subnet with controlled communication between each layer.
+
+A real-life use case is an enterprise extending its existing datacenter into Azure while maintaining secure connectivity between on-premises applications and cloud workloads.
+
+A well-designed network foundation improves security, performance, scalability, and connectivity.
