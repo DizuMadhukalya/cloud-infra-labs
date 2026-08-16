@@ -1,0 +1,16 @@
+Migration wave planning divides a large migration project into manageable groups of workloads. Instead of moving an entire datacenter at once, organizations migrate workloads in controlled stages.
+
+Migration waves can be organized according to:
+
+* Application dependencies
+* Business criticality
+* Department
+* Environment
+* Technical complexity
+* Risk level
+
+For example, an organization may first migrate low-risk internal applications, followed by development environments, then customer-facing applications, and finally mission-critical systems.
+
+A real-life use case is a multinational enterprise migrating hundreds of servers while maintaining business continuity throughout the project.
+
+Wave-based migration makes complex cloud adoption easier to control, test, monitor, and troubleshoot.
