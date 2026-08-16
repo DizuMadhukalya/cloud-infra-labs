@@ -1,0 +1,15 @@
+Cloud modernization goes beyond simply moving existing applications to Azure. It involves improving applications and infrastructure so that organizations can take advantage of cloud-native capabilities.
+
+Modernization approaches include:
+
+* Rehosting
+* Refactoring
+* Rearchitecting
+* Rebuilding
+* Replacing legacy systems
+
+For example, a legacy application running on physical servers can initially be rehosted on Azure virtual machines. Later, components may be migrated to Azure App Service, containers, managed databases, or serverless services.
+
+A real-life use case is an enterprise gradually transforming a decades-old application into a modern cloud-native platform without attempting a complete rewrite immediately.
+
+Cloud modernization improves scalability, agility, maintainability, and long-term business value.
