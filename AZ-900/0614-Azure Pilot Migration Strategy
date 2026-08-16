@@ -1,0 +1,18 @@
+A pilot migration is a controlled migration of a small number of workloads used to validate the organization's migration approach before large-scale deployment.
+
+A pilot can validate:
+
+* Network connectivity
+* Identity integration
+* Application compatibility
+* Performance
+* Monitoring
+* Backup
+* Security
+* Operational procedures
+
+For example, an organization migrating 500 servers may first migrate five non-critical applications and monitor them for several weeks.
+
+A real-life use case is an enterprise discovering during the pilot that a legacy application requires a specific network configuration that was not identified during initial planning.
+
+Pilot migrations reduce project risk and allow migration teams to learn before moving business-critical workloads.
