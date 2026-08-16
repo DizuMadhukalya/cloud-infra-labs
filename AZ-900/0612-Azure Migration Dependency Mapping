@@ -1,0 +1,17 @@
+Dependency mapping identifies the relationships between applications, servers, databases, storage systems, network components, and authentication services. Understanding these relationships is critical before migrating workloads to Azure.
+
+A dependency map may identify:
+
+* Application-to-server dependencies
+* Application-to-database connections
+* Server-to-server communication
+* DNS dependencies
+* Authentication dependencies
+* Storage dependencies
+* Network ports and protocols
+
+For example, an application server may depend on a database server, an internal DNS server, and an authentication service. Migrating only the application server without considering these dependencies could cause the application to fail.
+
+A real-life use case is an enterprise migrating a legacy application where several components communicate across an on-premises datacenter.
+
+Dependency mapping allows migration teams to move related components in the correct sequence and minimize downtime.
