@@ -1,0 +1,16 @@
+A rollback plan defines how an organization can return to the original environment if a migrated workload does not operate correctly in Azure.
+
+A rollback strategy may include:
+
+* Maintaining the original environment temporarily
+* Preserving synchronized data
+* Documenting restoration procedures
+* Defining rollback decision criteria
+* Maintaining DNS or traffic-routing options
+* Establishing communication procedures
+
+For example, if a migrated application experiences unexpected performance problems after production cutover, the organization may temporarily redirect users back to the original environment while the Azure deployment is investigated.
+
+A real-life use case is a business-critical application where migration failure cannot be allowed to result in prolonged downtime.
+
+Rollback planning provides an additional layer of protection during high-risk migrations.
