@@ -1,0 +1,18 @@
+Migration does not end when a workload successfully starts running in Azure. Post-migration optimization ensures that the new environment is secure, performant, reliable, and cost-effective.
+
+Optimization activities include:
+
+* Right-sizing resources
+* Reviewing storage configuration
+* Optimizing networking
+* Implementing autoscaling
+* Reviewing security controls
+* Configuring monitoring
+* Removing unused resources
+* Evaluating managed services
+
+For example, a virtual machine initially provisioned with excess CPU and memory can be right-sized after actual workload utilization is measured.
+
+A real-life use case is an enterprise reducing its Azure monthly expenditure after identifying overprovisioned resources following a large migration.
+
+Post-migration optimization converts a successful migration into an efficient long-term cloud environment.
