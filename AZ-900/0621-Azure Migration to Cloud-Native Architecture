@@ -1,0 +1,18 @@
+Cloud-native architecture uses services and design patterns specifically suited to cloud environments rather than simply replicating traditional datacenter infrastructure in Azure.
+
+Cloud-native modernization may involve:
+
+* Managed Azure services
+* Containers
+* Azure Kubernetes Service
+* Azure Functions
+* Azure App Service
+* Managed databases
+* Event-driven architectures
+* Autoscaling
+
+For example, a traditional monolithic application running on a virtual machine can gradually be decomposed into smaller services hosted using containers or managed application platforms.
+
+A real-life use case is an e-commerce company modernizing its application so individual services such as payments, inventory, authentication, and notifications can scale independently.
+
+Moving toward cloud-native architecture allows organizations to take greater advantage of Azure's scalability, automation, managed services, and resilience capabilities.
