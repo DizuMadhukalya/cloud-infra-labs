@@ -1,0 +1,20 @@
+A migration assessment evaluates existing workloads before they are moved to Azure. The purpose is to understand the current environment, identify dependencies, estimate costs, and determine the most appropriate migration approach.
+
+Important assessment areas include:
+
+* Servers and virtual machines
+* Applications
+* Databases
+* Network dependencies
+* Storage requirements
+* Performance characteristics
+* Operating systems
+* Application dependencies
+* Business criticality
+* Estimated Azure costs
+
+For example, before migrating an on-premises payroll application, an organization can identify its database dependencies, required ports, authentication mechanisms, storage requirements, and expected resource consumption.
+
+A real-life use case is a large enterprise assessing hundreds of servers before creating a phased Azure migration plan.
+
+A thorough assessment reduces migration surprises and helps organizations make informed architectural and financial decisions.
