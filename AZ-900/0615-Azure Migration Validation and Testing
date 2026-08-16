@@ -1,0 +1,18 @@
+Migration validation confirms that a workload operates correctly after being moved to Azure. Validation should cover both technical functionality and business requirements.
+
+Important validation activities include:
+
+* Application functionality testing
+* Network connectivity testing
+* Performance comparison
+* Authentication testing
+* Data integrity verification
+* Backup validation
+* Security verification
+* User acceptance testing
+
+For example, after migrating a business application, administrators can compare response times and database records with the original environment before approving the workload for production use.
+
+A real-life use case is a financial organization validating migrated applications before allowing employees or customers to access them.
+
+Thorough validation prevents migration errors from becoming production incidents.
