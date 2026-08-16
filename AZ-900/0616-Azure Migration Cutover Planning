@@ -1,0 +1,18 @@
+Cutover is the point at which users and production traffic transition from the original environment to the Azure environment. Careful cutover planning is essential for minimizing downtime and operational risk.
+
+A cutover plan may include:
+
+* Final data synchronization
+* Application freeze
+* DNS changes
+* Traffic redirection
+* Validation testing
+* Stakeholder communication
+* Monitoring
+* Rollback procedures
+
+For example, an organization may perform the final migration of a database during a scheduled maintenance window and then redirect application traffic to Azure.
+
+A real-life use case is migrating a customer-facing application while limiting service interruption to a short maintenance period.
+
+A well-defined cutover plan ensures that migration teams know exactly what actions to perform and how to recover if something goes wrong.
