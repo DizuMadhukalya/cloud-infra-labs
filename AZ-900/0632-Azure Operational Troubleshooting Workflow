@@ -1,0 +1,21 @@
+
+A structured troubleshooting workflow helps Azure administrators diagnose incidents systematically instead of making random configuration changes.
+
+A practical troubleshooting sequence includes:
+
+1. Identify the reported problem.
+2. Determine the affected resource and scope.
+3. Check Azure Service Health for platform incidents.
+4. Review Azure Monitor metrics and alerts.
+5. Examine relevant logs.
+6. Check recent configuration changes.
+7. Validate network and identity dependencies.
+8. Apply the least disruptive corrective action.
+9. Confirm that the service has recovered.
+10. Document the incident and resolution.
+
+For example, if users cannot access a production web application, an administrator can first determine whether Azure is experiencing an incident, then inspect application health, network connectivity, authentication, and recent changes.
+
+A real-life use case is a cloud support engineer responding to a production outage while minimizing unnecessary changes that could make the situation worse.
+
+A structured troubleshooting workflow improves incident resolution, reduces downtime, and creates reusable operational knowledge for future incidents.
