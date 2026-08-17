@@ -1,0 +1,14 @@
+Azure Service Health notifications allow organizations to receive alerts when Azure service events may affect their resources. Notifications can help operations teams respond proactively instead of discovering problems through end users.
+
+Organizations can configure notifications for relevant service events such as:
+
+* Service incidents
+* Planned maintenance
+* Health advisories
+* Security-related notifications
+
+For example, an operations team can configure notifications so administrators receive information about a planned Azure maintenance event that could affect production resources.
+
+A real-life use case is a 24/7 operations team preparing support staff and business stakeholders before an anticipated service event.
+
+Service Health notifications improve operational preparedness and communication.
