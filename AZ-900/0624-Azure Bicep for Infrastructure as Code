@@ -1,0 +1,17 @@
+Azure Bicep is a declarative Infrastructure as Code language designed specifically for deploying Azure resources. It provides a more concise and readable syntax than traditional ARM JSON templates while still using Azure Resource Manager for deployment.
+
+Bicep supports:
+
+* Resource declarations
+* Parameters
+* Variables
+* Modules
+* Dependencies
+* Reusable deployment patterns
+* Version-controlled infrastructure
+
+For example, an administrator can define a virtual network and multiple subnets in a Bicep file and deploy the configuration repeatedly across different environments.
+
+A real-life use case is a cloud engineering team storing Bicep files in GitHub and using them to consistently deploy standardized Azure infrastructure.
+
+Bicep improves Infrastructure as Code readability while supporting repeatable and automated Azure deployments.
