@@ -1,0 +1,18 @@
+Azure Resource Graph is a service that allows organizations to explore and query information about Azure resources at scale. It is particularly useful when administrators need visibility across multiple subscriptions.
+
+Resource Graph can help identify:
+
+* Resource types
+* Resource locations
+* Resource groups
+* Subscription relationships
+* Resource configurations
+* Tags
+* Operating system information
+* Resource counts
+
+For example, an administrator managing 50 subscriptions can query which virtual machines exist across the entire environment instead of manually opening each subscription.
+
+A real-life use case is an enterprise performing an infrastructure inventory before a security audit or migration project.
+
+Azure Resource Graph improves large-scale resource discovery and operational visibility.
