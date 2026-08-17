@@ -1,0 +1,16 @@
+Azure infrastructure occasionally requires planned maintenance to maintain platform reliability, security, and performance. Organizations should understand how planned maintenance can affect workloads and prepare appropriate operational responses.
+
+Maintenance planning may involve:
+
+* Reviewing Service Health information
+* Identifying affected resources
+* Checking workload redundancy
+* Scheduling application maintenance
+* Communicating with stakeholders
+* Validating recovery procedures
+
+For example, an enterprise running redundant application instances can continue serving users even when infrastructure maintenance affects individual resources.
+
+A real-life use case is a banking organization preparing operations teams for scheduled cloud maintenance without disrupting customer services.
+
+Understanding planned maintenance helps organizations distinguish expected platform activity from unexpected outages.
