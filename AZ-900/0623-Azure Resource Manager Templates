@@ -1,0 +1,17 @@
+ARM templates allow Azure infrastructure to be defined declaratively in JSON format. Instead of manually creating resources through the portal, administrators can describe the desired infrastructure and deploy it repeatedly.
+
+An ARM template can define:
+
+* Virtual machines
+* Virtual networks
+* Storage accounts
+* Network interfaces
+* Public IP addresses
+* Security configurations
+* Dependencies between resources
+
+For example, a company can create a template containing a virtual network, subnet, NSG, and virtual machine and use the same template to deploy consistent environments.
+
+A real-life use case is a development team creating identical Development, Test, and Production infrastructure while changing only environment-specific parameters.
+
+ARM templates improve consistency, repeatability, and auditability of Azure deployments.
