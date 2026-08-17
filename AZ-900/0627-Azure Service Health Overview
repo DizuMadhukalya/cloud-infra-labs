@@ -1,0 +1,15 @@
+Azure Service Health provides personalized information about Azure service issues that may affect an organization's resources. It helps administrators understand incidents, planned maintenance, and other service-related events.
+
+Service Health information can help organizations:
+
+* Identify Azure service incidents
+* Understand potential resource impact
+* Track service issues
+* Prepare for planned maintenance
+* Review health history
+
+For example, if an Azure service experiences a regional incident, administrators can use Service Health information to determine whether their workloads may be affected.
+
+A real-life use case is an enterprise operations team investigating an application outage and first checking whether an Azure platform incident is responsible.
+
+Service Health helps distinguish between application-level problems and Azure platform issues.
