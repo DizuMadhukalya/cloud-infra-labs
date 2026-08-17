@@ -1,0 +1,18 @@
+Azure Monitor alerts help administrators detect important conditions in Azure resources and applications. Alerts can evaluate metrics or other monitoring signals and trigger actions when defined conditions are met.
+
+An alert configuration generally involves:
+
+* Signal
+* Condition
+* Threshold
+* Evaluation period
+* Severity
+* Action group
+
+Action groups define what happens when an alert is triggered, such as sending notifications or initiating an automated response.
+
+For example, an administrator can configure an alert when a production virtual machine's CPU remains above 90% for a sustained period.
+
+A real-life use case is an operations team receiving immediate notifications about performance problems before users report application failures.
+
+Alerts transform monitoring data into actionable operational responses.
