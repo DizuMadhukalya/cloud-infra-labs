@@ -1,0 +1,16 @@
+A Log Analytics workspace is a centralized environment used to collect, store, and analyze log data from Azure resources, applications, and other connected sources.
+
+Log Analytics can help administrators investigate:
+
+* Application errors
+* Security events
+* Virtual machine activity
+* Network issues
+* Performance problems
+* Configuration changes
+
+For example, logs from multiple virtual machines can be collected into one workspace, allowing an administrator to search for authentication failures or application errors across the entire environment.
+
+A real-life use case is an enterprise operating hundreds of servers and using a centralized Log Analytics workspace instead of investigating each machine individually.
+
+Centralized log collection simplifies troubleshooting, monitoring, and operational analysis.
