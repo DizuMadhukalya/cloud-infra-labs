@@ -1,0 +1,11 @@
+Recovery Time Objective (RTO) and Recovery Point Objective (RPO) are fundamental concepts in disaster recovery planning.
+
+RTO defines the maximum acceptable amount of time required to restore a service after an incident.
+
+RPO defines the maximum acceptable amount of data loss measured in time.
+
+For example, a payment application may have an RTO of 30 minutes and an RPO of 5 minutes. This means the organization expects the service to be restored within 30 minutes and can tolerate losing no more than approximately five minutes of recent data, depending on the implemented recovery architecture.
+
+A real-life use case is a banking application where even a small amount of data loss can have significant financial consequences.
+
+Understanding RTO and RPO helps organizations choose appropriate backup, replication, redundancy, and disaster recovery solutions.
