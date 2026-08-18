@@ -1,0 +1,16 @@
+Kusto Query Language (KQL) is used to query and analyze telemetry and log data in Azure services such as Log Analytics. It allows administrators to filter, summarize, correlate, and visualize large amounts of operational data.
+
+Common KQL activities include:
+
+* Filtering events
+* Searching for errors
+* Counting occurrences
+* Grouping events
+* Analyzing time ranges
+* Identifying trends
+
+For example, an administrator can query logs to identify how many failed authentication attempts occurred during the previous 24 hours.
+
+A real-life use case is a security or operations team investigating thousands of log entries to identify abnormal activity.
+
+KQL transforms large volumes of raw monitoring data into useful information that can support troubleshooting and security investigations.
