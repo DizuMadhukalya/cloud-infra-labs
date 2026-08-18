@@ -1,0 +1,16 @@
+Azure Backup provides a cloud-based approach to protecting supported workloads and recovering data when accidental deletion, corruption, or other failures occur.
+
+Backup planning should consider:
+
+* What data must be protected
+* Backup frequency
+* Retention requirements
+* Recovery objectives
+* Backup monitoring
+* Restore testing
+
+For example, an organization can back up critical virtual machines according to an established schedule and retain recovery points according to business requirements.
+
+A real-life use case is recovering a business application after an administrator accidentally deletes important files or a system becomes corrupted.
+
+Backup is an important component of business continuity because it provides a recovery mechanism when the original data or workload is no longer usable.
