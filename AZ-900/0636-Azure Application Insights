@@ -1,0 +1,17 @@
+Application Insights is an Azure Monitor feature designed to monitor application performance, availability, failures, dependencies, and user-related telemetry.
+
+Application monitoring can provide information about:
+
+* Request response times
+* Failed requests
+* Exceptions
+* Dependency calls
+* Availability
+* Application usage
+* Performance trends
+
+For example, if an e-commerce application becomes slow, Application Insights can help determine whether the problem originates from the application itself, a database dependency, or another external service.
+
+A real-life use case is a software company monitoring a customer-facing web application and detecting performance degradation before it becomes a widespread customer complaint.
+
+Application Insights provides developers and operations teams with detailed visibility into application behavior.
