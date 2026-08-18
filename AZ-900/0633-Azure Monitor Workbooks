@@ -1,0 +1,16 @@
+Azure Monitor Workbooks provide interactive reports and visualizations that combine Azure monitoring data into a single, customizable interface. Workbooks can bring together metrics, logs, text, charts, and other visual elements to create operational dashboards.
+
+Common uses include:
+
+* Application performance monitoring
+* Infrastructure health reporting
+* Security monitoring
+* Capacity analysis
+* Incident investigation
+* Executive reporting
+
+For example, an operations team can create a workbook showing virtual machine CPU utilization, network traffic, storage performance, active alerts, and application availability in one place.
+
+A real-life use case is a Network Operations Center monitoring hundreds of Azure resources through standardized operational workbooks.
+
+Workbooks make complex monitoring information easier to understand and help administrators identify trends and operational issues.
