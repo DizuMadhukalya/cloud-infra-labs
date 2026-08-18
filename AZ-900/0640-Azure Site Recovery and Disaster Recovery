@@ -1,0 +1,17 @@
+Azure Site Recovery supports disaster recovery by helping organizations replicate supported workloads and coordinate recovery when a primary environment becomes unavailable.
+
+Disaster recovery planning considers:
+
+* Recovery Time Objective (RTO)
+* Recovery Point Objective (RPO)
+* Replication
+* Failover
+* Failback
+* Recovery testing
+* Application dependencies
+
+For example, an organization may replicate critical workloads from an on-premises datacenter to Azure so that applications can be recovered if the primary datacenter experiences a major outage.
+
+A real-life use case is a financial institution maintaining a secondary recovery environment to protect critical services from datacenter failures.
+
+Disaster recovery planning improves resilience and reduces the business impact of major infrastructure incidents.
