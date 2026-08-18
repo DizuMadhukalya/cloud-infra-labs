@@ -1,0 +1,15 @@
+Azure autoscale allows supported workloads to adjust capacity according to demand. Instead of maintaining maximum capacity continuously, resources can increase or decrease based on predefined conditions.
+
+Autoscaling can be based on factors such as:
+
+* CPU utilization
+* Request volume
+* Queue length
+* Schedule
+* Application workload
+
+For example, an online ticket booking platform may increase application instances when traffic rises during a major event and reduce capacity after demand returns to normal.
+
+A real-life use case is an e-commerce website automatically scaling during a festival sale and reducing resources afterward.
+
+Autoscaling improves application responsiveness while helping organizations avoid paying for unnecessary capacity during low-demand periods.
