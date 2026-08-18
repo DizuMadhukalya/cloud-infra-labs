@@ -1,0 +1,15 @@
+Application availability testing helps organizations verify that applications remain accessible and responsive from expected locations. Monitoring availability is especially important for customer-facing applications.
+
+Availability testing can help identify:
+
+* Application downtime
+* Slow responses
+* Connectivity problems
+* Regional availability issues
+* Unexpected application failures
+
+For example, a company operating an online shopping website can test the availability of its application and receive alerts when the site becomes inaccessible.
+
+A real-life use case is a global organization monitoring a public application to determine whether customers in different geographic locations can access the service successfully.
+
+Availability monitoring provides proactive visibility into user-facing service health.
