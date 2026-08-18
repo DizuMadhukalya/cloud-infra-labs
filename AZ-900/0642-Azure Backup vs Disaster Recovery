@@ -1,0 +1,19 @@
+Azure Backup and disaster recovery solve related but different problems.
+
+Backup primarily focuses on preserving data and creating recovery points that can be used to restore information after deletion, corruption, or other data-loss events.
+
+Disaster recovery focuses on restoring the availability of workloads after a major infrastructure or site failure.
+
+Key differences include:
+
+| Aspect            | Backup                    | Disaster Recovery                                   |
+| ----------------- | ------------------------- | --------------------------------------------------- |
+| Primary purpose   | Protect data              | Restore service availability                        |
+| Typical scenario  | Deleted or corrupted data | Datacenter or region failure                        |
+| Recovery focus    | Data restoration          | Workload recovery                                   |
+| Key consideration | Retention                 | RTO and RPO                                         |
+| Example           | Restore a deleted file    | Recover an application after infrastructure failure |
+
+For example, a company may use backups to recover accidentally deleted records while using disaster recovery mechanisms to restore its application after a major datacenter outage.
+
+A real-life use case is an enterprise combining both approaches to protect against everyday data loss as well as large-scale disasters.
