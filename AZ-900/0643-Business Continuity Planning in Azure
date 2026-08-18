@@ -1,0 +1,19 @@
+Business continuity planning ensures that critical business functions can continue or recover within acceptable timeframes when unexpected disruptions occur. Azure provides capabilities that can form part of a broader organizational business continuity strategy.
+
+A business continuity plan may include:
+
+* Critical workload identification
+* RTO and RPO definitions
+* Backup
+* Disaster recovery
+* Redundant infrastructure
+* Monitoring
+* Communication procedures
+* Recovery testing
+* Documented runbooks
+
+For example, an online banking organization can identify payment processing as a critical service and design redundant infrastructure, backup, monitoring, and disaster recovery procedures around its required recovery objectives.
+
+A real-life use case is a company maintaining operations during a datacenter outage, cyber incident, hardware failure, or other major disruption.
+
+Business continuity is broader than disaster recovery: disaster recovery is one component of the overall strategy, while business continuity considers people, processes, technology, communication, and recovery requirements together.
