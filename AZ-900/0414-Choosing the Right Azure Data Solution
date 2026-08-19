@@ -8,8 +8,10 @@ Azure offers multiple data services, each suited for different scenarios:
 
 For example, a social media app may combine Cosmos DB for user activity and Synapse for analytics.
 
+# Real-Life Use Case:
 A real-life use case is enterprise data platform design.
 
+# Real-Life Example:
 Another example is startup analytics architecture.
 
 Choosing correctly improves scalability, performance, and cost efficiency.
