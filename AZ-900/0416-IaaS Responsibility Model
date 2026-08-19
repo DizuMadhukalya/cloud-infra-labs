@@ -15,8 +15,10 @@ Customers manage:
 
 For example, when using Azure Virtual Machines, Microsoft maintains servers while users patch and configure the operating system.
 
+# Real-Life Use Case:
 A real-life use case is migrating legacy enterprise applications without redesigning them.
 
+# Real-Life Example:
 Another example is organizations requiring custom server configurations.
 
 IaaS provides flexibility while reducing physical infrastructure management.
