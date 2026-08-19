@@ -8,8 +8,10 @@ The ability to automatically adjust resources dynamically.
 
 For example, an e-commerce website scales during festival sales and reduces resources afterward.
 
+# Real-Life Use Case:
 A real-life use case is streaming platforms handling sudden user spikes.
 
+# Real-Life Example:
 Another example is gaming servers automatically expanding during peak hours.
 
 Scalability and elasticity improve performance while controlling costs.
