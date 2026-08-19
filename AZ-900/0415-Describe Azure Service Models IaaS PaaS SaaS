@@ -9,12 +9,13 @@ Provides a managed platform where developers focus on applications without manag
 SaaS:
 Provides ready-to-use applications delivered over the internet.
 
-Examples:
+# Real-Life Examples:
 
 * IaaS: Azure Virtual Machines
 * PaaS: Azure App Service
 * SaaS: Microsoft 365
 
+# Real-Life Use Case:
 A real-life use case is a company using VMs for legacy applications, App Service for new applications, and Microsoft 365 for productivity.
 
 Understanding service models helps organizations choose the right level of management responsibility.
