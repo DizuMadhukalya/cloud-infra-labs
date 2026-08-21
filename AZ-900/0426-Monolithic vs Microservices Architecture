@@ -15,8 +15,10 @@ Comparison:
   * Improved fault isolation
   * Higher operational complexity
 
+# Real-Life Example:
 For example, a startup may begin with a monolithic application and later migrate to microservices as user traffic grows.
 
+# Real-Life Use-Case:
 A real-life use case is large retail companies modernizing legacy applications for better scalability.
 
 Choosing the appropriate architecture depends on application size, team structure, and business requirements.
