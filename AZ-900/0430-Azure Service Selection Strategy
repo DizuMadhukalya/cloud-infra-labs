@@ -9,8 +9,10 @@ Examples:
 * Blob Storage → Unstructured data
 * Azure SQL Database → Relational applications
 
+# Real-Life Example:
 For example, a blogging platform may use App Service, Azure SQL Database, and Blob Storage together.
 
+# Real-Life Use Case:
 A real-life use case is solution architects choosing services that balance performance, scalability, and cost.
 
 Proper service selection leads to efficient cloud solutions.
