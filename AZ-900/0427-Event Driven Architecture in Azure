@@ -8,8 +8,10 @@ Benefits include:
 
 For example, when a customer places an order, an event can trigger inventory updates, payment processing, shipment creation, and email notifications simultaneously.
 
+# Real-Life Use-Case:
 A real-life use case is logistics companies automatically updating shipment status across multiple systems.
 
+# Real-Life Example:
 Another example is IoT environments where sensor events trigger automated workflows.
 
 Event-driven architecture enables responsive and scalable applications.
