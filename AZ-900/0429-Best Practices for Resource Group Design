@@ -7,8 +7,10 @@ Recommended practices include:
 * Apply RBAC consistently
 * Use resource tags
 
+# Real-Life Example:
 For example, all resources supporting a production web application should belong to one production resource group.
 
+# Real-Life Use-Case:
 A real-life use case is simplifying deployments, backups, and cleanup activities.
 
 Well-designed resource groups improve administration and governance.
