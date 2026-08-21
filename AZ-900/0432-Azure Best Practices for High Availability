@@ -8,8 +8,10 @@ Recommended practices include:
 * Configure automatic failover
 * Regularly test disaster recovery plans
 
+# Real-Life Use Case:
 For example, an online banking application distributes workloads across multiple zones to ensure uninterrupted service.
 
+# Real-Life Use Case:
 A real-life use case is healthcare systems where downtime can directly impact patient care.
 
 These practices improve reliability and business continuity.
