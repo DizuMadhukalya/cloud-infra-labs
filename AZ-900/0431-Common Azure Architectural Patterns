@@ -8,8 +8,10 @@ Azure solutions commonly use several architectural patterns, including:
 
 For example, queue-based load leveling prevents backend overload by processing requests asynchronously.
 
+# Real-Life Use Case:
 A real-life use case is e-commerce websites handling flash-sale traffic.
 
+# Real-Life Example:
 Another example is financial applications processing transactions reliably during peak demand.
 
 Architectural patterns improve scalability, resilience, and maintainability.
