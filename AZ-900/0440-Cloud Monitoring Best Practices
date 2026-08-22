@@ -8,8 +8,10 @@ Recommended practices include:
 * Analyze usage trends
 * Perform proactive maintenance
 
+# Real-Life Example:
 For example, administrators receive alerts when CPU utilization exceeds predefined thresholds.
 
+# Real-Life Use Case:
 A real-life use case is preventing outages before users notice service degradation.
 
 Cloud monitoring supports operational excellence and continuous improvement.
