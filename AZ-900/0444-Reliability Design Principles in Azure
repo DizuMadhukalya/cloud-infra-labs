@@ -8,8 +8,10 @@ Recommended design principles include:
 * Automate recovery
 * Test failover regularly
 
+# Real-Life Example:
 For example, deploying web applications across multiple Availability Zones improves resilience.
 
+# Real-Life Use Case:
 A real-life use case is airline reservation systems operating continuously despite infrastructure failures.
 
 Reliable architectures improve customer trust and business continuity.
