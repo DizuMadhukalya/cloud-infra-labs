@@ -10,8 +10,10 @@ A typical migration strategy consists of:
 * Full-scale migration
 * Post-migration optimization
 
+# Real-Life Example:
 For example, a manufacturing company may first migrate internal web applications before moving mission-critical ERP systems.
 
+# Real-Life Use Case:
 A real-life use case is enterprises modernizing legacy datacenters while minimizing business disruption.
 
 Proper planning reduces migration risks, avoids downtime, and improves cloud adoption success.
