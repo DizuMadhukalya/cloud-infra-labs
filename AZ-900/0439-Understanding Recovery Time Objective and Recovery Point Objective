@@ -10,6 +10,8 @@ Example:
 | Corporate Email    | 2 hours    | 30 minutes |
 | Internal HR Portal | 8 hours    | 2 hours    |
 
+# Real-Life Use Case:
 A real-life use case is financial organizations requiring extremely low RPO values.
 
+# Real-Life Example:
 Understanding RTO and RPO helps organizations design suitable disaster recovery strategies.
