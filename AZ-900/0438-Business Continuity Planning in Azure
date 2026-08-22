@@ -8,8 +8,10 @@ Azure supports BCP through:
 * Availability Zones
 * Region Pairs
 
+# Real-Life Example:
 For example, a retail company can fail over its applications to another Azure region during a regional outage.
 
+# Real-Life Use Case:
 A real-life use case is hospitals maintaining access to patient records during infrastructure failures.
 
 Business continuity planning minimizes downtime and protects organizational reputation.
