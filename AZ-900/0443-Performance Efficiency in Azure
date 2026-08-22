@@ -8,8 +8,10 @@ Best practices include:
 * Performance monitoring
 * Choosing appropriate VM sizes
 
+# Real-Life Example:
 For example, streaming platforms automatically increase compute resources during major sporting events.
 
+# Real-Life Use Case:
 A real-life use case is global SaaS providers maintaining consistent user experience.
 
 Performance optimization improves customer satisfaction and reduces unnecessary costs.
