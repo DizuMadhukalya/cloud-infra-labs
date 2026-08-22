@@ -9,8 +9,10 @@ Recommended practices include:
 * Avoid exposing management ports publicly
 * Implement VPN or ExpressRoute for hybrid connectivity
 
+# Real-Life Example:
 For example, production, testing, and development environments should be isolated from one another.
 
+# Real-Life Use Case:
 A real-life use case is multinational organizations managing hundreds of interconnected Azure resources securely.
 
 Proper network architecture improves resilience and reduces security risks.
