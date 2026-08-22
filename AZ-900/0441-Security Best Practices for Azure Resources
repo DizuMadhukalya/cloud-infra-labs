@@ -7,8 +7,10 @@ Securing Azure resources requires following multiple best practices:
 * Encrypt sensitive data
 * Apply security updates regularly
 
+# Real-Life Example:
 For example, production virtual machines should never expose RDP ports directly to the internet.
 
+# Real-Life Use Case:
 A real-life use case is financial organizations protecting customer information through layered security controls.
 
 Applying these practices significantly reduces cyber risk.
