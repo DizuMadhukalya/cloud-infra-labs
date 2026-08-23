@@ -9,6 +9,10 @@ Core design principles include:
 * Monitoring and logging
 * Cost management
 
-For example, a multinational organization can deploy separate subscriptions for Production, Development, and Testing while enforcing identical security and governance policies across each environment.
+# Real-Life Example:
+For example, a multinational organization can deploy separate subscriptions for Production, Development, and Testing while enforcing identical security 
+and governance policies across each environment.
 
-A real-life use case is an enterprise migrating hundreds of applications to Azure without sacrificing operational consistency. A well-designed landing zone provides a scalable foundation that supports future growth while simplifying administration.
+# Real-Life Use Case:
+A real-life use case is an enterprise migrating hundreds of applications to Azure without sacrificing operational consistency. A well-designed landing zone 
+provides a scalable foundation that supports future growth while simplifying administration.
