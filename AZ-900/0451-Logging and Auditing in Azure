@@ -8,8 +8,10 @@ Benefits include:
 * Performance analysis
 * Change tracking
 
+# Real-Life Example:
 For example, administrators can review audit records to determine who modified a production virtual machine or deleted a storage account.
 
+# Real-Life Use Case:
 A real-life use case is financial institutions maintaining audit trails to satisfy regulatory requirements.
 
 Comprehensive logging improves accountability and simplifies incident investigations.
