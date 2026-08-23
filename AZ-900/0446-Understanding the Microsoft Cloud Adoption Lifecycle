@@ -10,8 +10,10 @@ A typical cloud adoption lifecycle includes:
 * Operations and monitoring
 * Continuous optimization
 
+# Real-Life Example:
 For example, a retail company may initially migrate its website to Azure, later modernize backend services into microservices, and finally automate operations using cloud-native management tools.
 
+# Real-Life Use Case:
 A real-life use case is enterprises gradually replacing on-premises infrastructure while continuously improving operational efficiency.
 
 Following a structured adoption lifecycle helps organizations reduce risk and maximize the long-term value of cloud investments.
