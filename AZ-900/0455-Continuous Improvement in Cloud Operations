@@ -9,8 +9,10 @@ Continuous improvement activities include:
 * Automating repetitive tasks
 * Implementing lessons learned from incidents
 
+# Real-Life Example:
 For example, recurring CPU alerts may reveal the need for application optimization instead of simply increasing virtual machine size.
 
+# Real-Life Use Case:
 A real-life use case is IT teams conducting monthly operational reviews to identify improvement opportunities.
 
 Continuous improvement ensures cloud environments remain efficient as business requirements evolve.
