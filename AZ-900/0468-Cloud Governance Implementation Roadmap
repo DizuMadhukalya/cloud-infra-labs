@@ -11,8 +11,10 @@ A recommended implementation roadmap includes:
 * Monitor governance effectiveness
 * Review and improve continuously
 
+# Real-Life Example:
 For example, an organization may first standardize resource names and tags before introducing automated compliance policies and cost controls.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise expanding from one Azure subscription to dozens while maintaining consistent governance across business units.
 
 A structured governance roadmap improves scalability, operational consistency, and long-term compliance.
