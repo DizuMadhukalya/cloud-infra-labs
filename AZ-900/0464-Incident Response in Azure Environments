@@ -9,8 +9,10 @@ A typical incident lifecycle consists of:
 * Recovery
 * Post-incident review
 
+# Real-Life Example:
 For example, if administrators detect unauthorized access attempts against production resources, they immediately isolate affected systems, investigate logs, restore services, and document lessons learned.
 
+# Real-Life Use Case:
 A real-life use case is security teams responding rapidly to cyber incidents while minimizing business disruption.
 
 A mature incident response process improves organizational resilience and security readiness.
