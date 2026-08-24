@@ -10,6 +10,8 @@ Important components include:
 * Compliance
 * Service management
 
+# Real-Life Example:
 For example, an organization may define separate responsibilities for cloud administrators, security engineers, application owners, and finance teams to ensure efficient cloud operations.
 
+# Real-Life Use Case:
 A real-life use case is enterprises managing thousands of Azure resources across multiple business units while maintaining accountability and operational efficiency.
