@@ -10,8 +10,10 @@ The lifecycle generally consists of:
 * Remediation
 * Periodic review
 
+# Real-Life Example:
 For example, a healthcare provider must regularly verify that deployed resources continue to meet internal and external compliance requirements as new workloads are introduced.
 
+# Real-Life Use Case:
 A real-life use case is organizations preparing for annual compliance audits while maintaining continuous operational compliance throughout the year.
 
 Continuous compliance reduces regulatory risks and strengthens customer confidence.
