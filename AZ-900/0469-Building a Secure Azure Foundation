@@ -10,8 +10,10 @@ Core foundational practices include:
 * Secure configuration baselines
 * Regular security reviews
 
+# Real-Life Example:
 For example, an organization deploying a new production workload should configure identity protection, secure networking, monitoring, and backup before making the application publicly accessible.
 
+# Real-Life Use Case:
 A real-life use case is reducing the likelihood of security incidents by adopting secure-by-default deployment practices.
 
 Building security into the foundation minimizes future operational risks.
