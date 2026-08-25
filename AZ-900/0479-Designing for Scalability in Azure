@@ -9,8 +9,10 @@ There are two primary approaches to scalability:
 
   * Add additional instances of a resource and distribute traffic among them.
 
+# Real-Life Example:
 For example, an online ticket booking platform may automatically add more web server instances during the launch of a popular concert, ensuring that thousands of users can purchase tickets simultaneously without service degradation.
 
+# Real-Life Use Case:
 A real-life use case is e-commerce platforms automatically scaling during festive sales such as Black Friday or Diwali to maintain application responsiveness.
 
 Designing for scalability enables applications to accommodate business growth while maintaining an optimal user experience.
