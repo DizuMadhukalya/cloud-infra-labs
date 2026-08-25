@@ -10,8 +10,10 @@ Common operational KPIs include:
 * Cost variance
 * Policy compliance percentage
 
+# Real-Life Example:
 For example, an operations team may target a recovery time of less than thirty minutes for critical production services.
 
+# Real-Life Use Case:
 A real-life use case is management reviewing monthly KPI reports to evaluate operational improvements and identify recurring issues.
 
 Well-defined KPIs support data-driven operational decisions.
