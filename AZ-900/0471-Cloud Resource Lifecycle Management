@@ -9,8 +9,10 @@ Typical lifecycle stages include:
 * Optimization
 * Decommissioning
 
+# Real-Life Example:
 For example, temporary development resources should be removed after project completion instead of remaining active indefinitely.
 
+# Real-Life Use Case:
 A real-life use case is organizations periodically reviewing idle virtual machines and unused storage accounts to reduce cloud spending.
 
 Managing the complete resource lifecycle improves operational efficiency and financial control.
