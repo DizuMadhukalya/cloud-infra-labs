@@ -10,8 +10,10 @@ Common mistakes include:
 * Neglecting monitoring
 * Exposing management ports publicly
 
+# Real-Life Example:
 For example, failing to configure monitoring may delay the detection of application failures until users report problems.
 
+# Real-Life Use Case:
 A real-life use case is reducing operational incidents by adopting best practices from the beginning of an Azure administration career.
 
 Learning from common mistakes accelerates professional growth.
