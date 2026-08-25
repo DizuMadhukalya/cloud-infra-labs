@@ -11,8 +11,10 @@ Recommended documentation includes:
 * Operational runbooks
 * Contact information
 
+# Real-Life Example:
 For example, documenting virtual network peering relationships helps future administrators troubleshoot connectivity issues efficiently.
 
+# Real-Life Use Case:
 A real-life use case is reducing onboarding time for new cloud engineers joining an operations team.
 
 Comprehensive documentation improves collaboration and long-term operational stability.
