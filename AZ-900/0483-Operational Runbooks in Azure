@@ -10,8 +10,10 @@ Typical runbooks include:
 * Resource deployment
 * Disaster recovery activation
 
+# Real-Life Example:
 For example, if a production virtual machine becomes unavailable, administrators can follow a predefined runbook to diagnose, recover, validate, and document the incident.
 
+# Real-Life Use Case:
 A real-life use case is reducing dependency on individual administrators by ensuring operational knowledge is consistently documented and shared.
 
 Runbooks improve operational consistency and reduce recovery times.
