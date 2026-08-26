@@ -9,8 +9,10 @@ Key resilience strategies include:
 * Backup and recovery
 * Fault isolation
 
+# Real-Life Example:
 For example, an airline reservation platform may replicate services across multiple Azure regions so that travellers can continue booking flights even if one datacentre becomes unavailable.
 
+# Real-Life Use Case:
 A real-life use case is healthcare systems ensuring uninterrupted access to patient records during regional infrastructure failures.
 
 Resilient architectures improve customer trust and minimise operational disruption during unexpected incidents.
