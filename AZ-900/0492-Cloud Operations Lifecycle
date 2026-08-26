@@ -10,8 +10,10 @@ The operational lifecycle typically includes:
 * Security review
 * Retirement
 
+# Real-Life Example:
 For example, a production web application is monitored continuously for performance issues while administrators periodically optimise resources and update security configurations.
 
+# Real-Life Use Case:
 A real-life use case is enterprise operations teams maintaining thousands of Azure resources throughout their lifecycle.
 
 Following a structured operational lifecycle improves reliability and service quality.
