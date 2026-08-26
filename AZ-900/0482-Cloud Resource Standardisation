@@ -10,8 +10,10 @@ Areas commonly standardised include:
 * Backup policies
 * Documentation
 
+# Real-Life Example:
 For example, every production virtual machine may follow the same naming convention, security policy, monitoring configuration, and backup schedule.
 
+# Real-Life Use Case:
 A real-life use case is reducing configuration drift across hundreds of Azure subscriptions managed by different departments.
 
 Standardisation simplifies administration and improves governance across large cloud environments.
