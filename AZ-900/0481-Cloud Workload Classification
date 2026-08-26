@@ -10,8 +10,10 @@ Common workload categories include:
 * Web applications
 * Disaster recovery
 
+# Real-Life Example:
 For example, an internal HR portal may tolerate short maintenance windows, whereas an online payment gateway requires continuous availability and strict security controls.
 
+# Real-Life Use Case:
 A real-life use case is organisations allocating different service levels and budgets according to workload importance rather than treating every application equally.
 
 Proper workload classification improves architecture decisions and operational planning.
