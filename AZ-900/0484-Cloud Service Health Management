@@ -9,8 +9,10 @@ Important activities include:
 * Investigating performance degradation
 * Communicating service status
 
+# Real-Life Example:
 For example, an operations team regularly reviews service health information before deploying infrastructure changes to avoid planned maintenance windows.
 
+# Real-Life Use Case:
 A real-life use case is preventing unnecessary troubleshooting by confirming whether an issue originates from the application or the underlying cloud platform.
 
 Proactive service health management improves operational awareness and incident response.
