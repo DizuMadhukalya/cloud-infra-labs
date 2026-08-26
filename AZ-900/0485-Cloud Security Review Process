@@ -10,8 +10,10 @@ A structured review typically evaluates:
 * Compliance posture
 * Security recommendations
 
+# Real-Life Example:
 For example, a quarterly review may reveal that several development virtual machines still expose unnecessary management ports, allowing administrators to remediate the issue proactively.
 
+# Real-Life Use Case:
 A real-life use case is organisations maintaining compliance while continuously improving their cloud security posture.
 
 Periodic security reviews reduce operational and cyber-security risks.
