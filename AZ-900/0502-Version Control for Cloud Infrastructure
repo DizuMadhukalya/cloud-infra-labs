@@ -9,8 +9,10 @@ Advantages include:
 * Improved auditing
 * Better documentation
 
+# Real-Life Example:
 For example, if a networking configuration causes unexpected connectivity issues, administrators can compare previous versions and restore a known working configuration.
 
+# Real-Life Use Case:
 A real-life use case is cloud engineering teams collaborating across multiple locations while maintaining a single source of truth for infrastructure definitions.
 
 Version control strengthens governance and operational reliability.
