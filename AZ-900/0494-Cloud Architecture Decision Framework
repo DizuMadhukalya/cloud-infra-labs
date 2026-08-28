@@ -10,8 +10,10 @@ Important decision criteria include:
 * Budget limitations
 * Future growth
 
+# Real-Life Example:
 For example, an organisation designing a customer portal may choose managed services over virtual machines to reduce operational complexity.
 
+# Real-Life Use Case:
 A real-life use case is architecture review boards evaluating proposed Azure solutions before production implementation.
 
 Structured decision-making improves solution quality and long-term maintainability.
