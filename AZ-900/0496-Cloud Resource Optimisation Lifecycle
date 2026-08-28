@@ -9,8 +9,10 @@ Typical optimisation activities include:
 * Reviewing security posture
 * Evaluating architecture
 
+# Real-Life Example:
 For example, administrators may discover oversized virtual machines that can be replaced with smaller instances while maintaining application performance.
 
+# Real-Life Use Case:
 A real-life use case is organisations reducing monthly Azure expenditure through continuous optimisation initiatives.
 
 Continuous optimisation maximises the value of cloud investments.
