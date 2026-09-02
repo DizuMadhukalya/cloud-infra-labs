@@ -8,8 +8,10 @@ A backup validation programme should include:
 * Recovery timing measurements
 * Periodic review
 
+# Real-Life Example:
 For example, an IT team restores a database into an isolated environment every quarter to confirm that backup files are complete and usable.
 
+# Real-Life Use Case:
 A real-life use case is organisations discovering backup configuration issues during testing rather than during an actual emergency.
 
 Regular recovery testing increases confidence in disaster recovery capabilities.
