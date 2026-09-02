@@ -11,8 +11,10 @@ A useful dashboard may display:
 * Cost summaries
 * Service availability
 
+# Real-Life Example:
 For example, an operations engineer can review the dashboard each morning to verify that production systems remain healthy before users begin their workday.
 
+# Real-Life Use Case:
 A real-life use case is Network Operations Centers (NOCs) monitoring hundreds of cloud workloads simultaneously.
 
 A centralized dashboard improves visibility, response time, and operational efficiency.
