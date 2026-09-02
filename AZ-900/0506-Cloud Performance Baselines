@@ -9,8 +9,10 @@ Common baseline metrics include:
 * Response time
 * Error rate
 
+# Real-Life Example:
 For example, if a web application normally responds within 200 milliseconds but suddenly averages 800 milliseconds, administrators can investigate before users experience major disruption.
 
+# Real-Life Use Case:
 A real-life use case is operations teams using baseline data to distinguish between expected workload growth and abnormal behaviour.
 
 Performance baselines improve proactive monitoring and troubleshooting.
