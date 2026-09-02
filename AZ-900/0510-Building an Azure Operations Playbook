@@ -10,8 +10,10 @@ A comprehensive playbook should cover:
 * Escalation paths
 * Maintenance schedules
 
+# Real-Life Example:
 For example, operations staff can follow predefined procedures when responding to storage failures, authentication issues, or application outages.
 
+# Real-Life Use Case:
 A real-life use case is organisations ensuring consistent service quality regardless of which administrator is on duty.
 
 An operations playbook standardises cloud management and improves response efficiency.
