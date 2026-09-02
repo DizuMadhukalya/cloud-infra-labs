@@ -9,8 +9,10 @@ Documentation updates should occur after:
 * Architecture modifications
 * Service retirement
 
+# Real-Life Example:
 For example, after implementing a new virtual network topology, administrators should immediately update architecture diagrams and operational procedures.
 
+# Real-Life Use Case:
 A real-life use case is reducing troubleshooting time because engineers always work from current documentation.
 
 Maintaining documentation throughout the service lifecycle supports efficient cloud operations.
