@@ -11,8 +11,10 @@ A successful handover should include:
 * Known issues
 * Maintenance schedules
 
+# Real-Life Example:
 For example, after completing an Azure migration project, implementation engineers formally transfer operational responsibility to the infrastructure support team.
 
+# Real-Life Use Case:
 A real-life use case is managed service providers delivering completed Azure environments to customer operations teams.
 
 A structured handover reduces operational confusion and improves service continuity.
