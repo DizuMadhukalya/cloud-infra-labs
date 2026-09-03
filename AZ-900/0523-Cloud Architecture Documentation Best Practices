@@ -11,8 +11,10 @@ A comprehensive architecture document should include:
 * Monitoring architecture
 * Cost optimization considerations
 
+# Real-Life Example:
 For example, before handing over a production Azure environment to an operations team, solution architects prepare architecture documents that explain resource relationships, network connectivity, and operational dependencies.
 
+# Real-Life Use Case:
 A real-life use case is reducing onboarding time for new cloud engineers by providing complete documentation of existing Azure deployments.
 
 Well-maintained architecture documentation improves maintainability, troubleshooting, and long-term operational success.
