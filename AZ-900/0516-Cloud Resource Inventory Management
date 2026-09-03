@@ -11,8 +11,10 @@ An inventory should include:
 * Environment classification
 * Lifecycle status
 
+# Real-Life Example:
 For example, administrators can quickly identify unused virtual machines that are no longer associated with active business projects.
 
+# Real-Life Use Case:
 A real-life use case is organizations performing annual infrastructure reviews to eliminate obsolete cloud resources.
 
 Accurate resource inventories improve operational visibility and governance.
