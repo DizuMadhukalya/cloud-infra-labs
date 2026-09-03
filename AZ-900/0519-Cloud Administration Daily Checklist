@@ -11,8 +11,10 @@ A daily checklist may include:
 * Validate scheduled maintenance
 * Document significant observations
 
+# Real-Life Example:
 For example, reviewing backup completion every morning allows administrators to resolve failures before recovery is required.
 
+# Real-Life Use Case:
 A real-life use case is enterprise cloud operations teams maintaining predictable daily operational routines.
 
 Daily operational discipline improves reliability and reduces unexpected incidents.
