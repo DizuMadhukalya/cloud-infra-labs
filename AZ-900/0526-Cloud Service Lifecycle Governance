@@ -10,8 +10,10 @@ Lifecycle governance activities include:
 * Compliance verification
 * Retirement planning
 
+# Real-Life Example:
 For example, before decommissioning an application, administrators verify that all backups are retained according to organizational policies.
 
+# Real-Life Use Case:
 A real-life use case is enterprises managing thousands of Azure resources while maintaining consistent governance standards.
 
 Lifecycle governance supports sustainable cloud operations.
