@@ -9,8 +9,10 @@ Common dependencies include:
 * Identity Services → Authentication
 * Monitoring → Log Analytics Workspace
 
+# Real-Life Example:
 For example, deleting a virtual network without reviewing dependent virtual machines could immediately disconnect multiple production applications.
 
+# Real-Life Use Case:
 A real-life use case is infrastructure teams creating dependency diagrams before migration projects to avoid unexpected outages.
 
 Dependency mapping improves change management and operational reliability.
