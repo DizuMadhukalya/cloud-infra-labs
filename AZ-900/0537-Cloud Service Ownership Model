@@ -11,8 +11,10 @@ Typical ownership roles include:
 
 Each owner is responsible for specific operational, security, or business functions.
 
+# Real-Life Example:
 For example, the infrastructure team manages virtual machines while the application owner is responsible for application functionality and user experience.
 
+# Real-Life Use Case:
 A real-life use case is enterprises preventing operational confusion by assigning ownership for every production workload.
 
 Clear ownership improves accountability, governance, and service reliability.
