@@ -11,8 +11,10 @@ An ORR typically verifies:
 * Support ownership
 * Capacity planning
 
+# Real-Life Example:
 For example, an enterprise application should not go live until monitoring alerts, backup restoration, and operational documentation have all been validated.
 
+# Real-Life Use Case:
 A real-life use case is organizations reducing production incidents by identifying operational gaps before deployment.
 
 Operational readiness reviews improve deployment quality and reduce business risk.
