@@ -9,8 +9,10 @@ A communication plan should define:
 * Incident updates
 * Post-incident reports
 
+# Real-Life Example:
 For example, before performing planned maintenance on production infrastructure, administrators notify business owners, application teams, and support staff to minimize operational disruption.
 
+# Real-Life Use Case:
 A real-life use case is multinational organizations coordinating maintenance activities across different geographic regions and time zones.
 
 Structured communication improves transparency and operational coordination.
