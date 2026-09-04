@@ -9,8 +9,10 @@ Common reliability metrics include:
 * Availability percentage
 * Recovery success rate
 
+# Real-Life Example:
 For example, an organization may establish a target of 99.95% application availability while continuously measuring service performance against this objective.
 
+# Real-Life Use Case:
 A real-life use case is executive management reviewing monthly reliability reports to evaluate operational performance.
 
 Reliability metrics enable objective assessment and continuous service improvement.
