@@ -11,8 +11,10 @@ A recommended design methodology includes:
 * Estimate costs
 * Review and validate the architecture
 
+# Real-Life Example:
 For example, a retail company launching an online shopping platform first defines expected user traffic, availability requirements, and security standards before choosing Azure App Service, Azure SQL Database, and Azure Front Door.
 
+# Real-Life Use Case:
 A real-life use case is solution architects presenting a complete Azure design proposal to stakeholders before project implementation.
 
 Following a structured design methodology results in scalable, secure, and maintainable cloud solutions.
