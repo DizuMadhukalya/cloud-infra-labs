@@ -10,8 +10,10 @@ Optimization reviews focus on:
 * Security recommendations
 * Resource lifecycle
 
+# Real-Life Example:
 For example, administrators may identify underutilized virtual machines and replace them with smaller instances to reduce monthly cloud expenditure.
 
+# Real-Life Use Case:
 A real-life use case is enterprises conducting quarterly optimization exercises to improve both performance and financial efficiency.
 
 Regular optimization reviews maximize the return on Azure investments.
