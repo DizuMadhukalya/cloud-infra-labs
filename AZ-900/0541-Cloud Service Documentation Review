@@ -9,8 +9,10 @@ Review activities include:
 * Validating monitoring documentation
 * Confirming security procedures
 
+# Real-Life Example:
 For example, after expanding a virtual network, administrators should immediately update architecture documentation to reflect the new topology.
 
+# Real-Life Use Case:
 A real-life use case is organizations maintaining accurate operational knowledge despite frequent infrastructure changes.
 
 Documentation reviews improve operational continuity and reduce troubleshooting time.
