@@ -11,8 +11,10 @@ A typical review process includes:
 * Final approval
 * Documentation of recommendations
 
+# Real-Life Example:
 For example, before deploying a customer-facing application, the review board verifies that the solution includes redundancy, monitoring, RBAC, backup strategies, and disaster recovery mechanisms.
 
+# Real-Life Use Case:
 A real-life use case is large enterprises requiring architectural approval before any production workload is deployed to Azure.
 
 An Architecture Review Board helps maintain technical consistency and reduces long-term operational risks.
