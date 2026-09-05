@@ -13,8 +13,10 @@ Essential competencies include:
 * Documentation
 * Operational excellence
 
+# Real-Life Example:
 For example, a cloud engineer should be capable of designing a production-ready Azure environment, deploying it using Infrastructure as Code, securing it through Microsoft Entra ID and RBAC, monitoring workloads, optimizing costs, and documenting the complete solution.
 
+# Real-Life Use Case:
 A real-life use case is cloud professionals supporting enterprise production environments while collaborating with architects, security engineers, and DevOps teams to deliver reliable cloud services.
 
 Becoming an enterprise cloud engineer is a continuous journey of learning, implementation, and operational excellence built upon the strong foundation established through Azure Fundamentals.
