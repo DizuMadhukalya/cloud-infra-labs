@@ -11,8 +11,10 @@ Typical dashboard metrics include:
 * Active incidents
 * Governance violations
 
+# Real-Life Example:
 For example, cloud administrators can quickly identify subscriptions that violate organizational policies or exceed monthly spending thresholds.
 
+# Real-Life Use Case:
 A real-life use case is enterprise cloud governance teams monitoring hundreds of Azure subscriptions through a single dashboard.
 
 Governance dashboards improve decision-making and simplify executive reporting.
