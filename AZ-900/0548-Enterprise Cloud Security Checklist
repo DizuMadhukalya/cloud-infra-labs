@@ -12,8 +12,10 @@ A recommended checklist includes:
 * Audit logging enabled
 * Sensitive secrets stored securely
 
+# Real-Life Example:
 For example, an enterprise deploying healthcare applications verifies every security requirement before approving production deployment.
 
+# Real-Life Use Case:
 A real-life use case is reducing security vulnerabilities by enforcing standardized deployment procedures.
 
 Security checklists improve consistency and strengthen organizational cyber resilience.
