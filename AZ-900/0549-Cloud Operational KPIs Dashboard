@@ -11,8 +11,10 @@ A typical operational dashboard tracks:
 * Security alerts
 * Monthly cloud spending
 
+# Real-Life Example:
 For example, operations managers review KPI dashboards weekly to evaluate whether service-level objectives are being achieved.
 
+# Real-Life Use Case:
 A real-life use case is enterprise operations centers monitoring production environments continuously to maintain service reliability.
 
 KPIs transform operational data into actionable business insights.
