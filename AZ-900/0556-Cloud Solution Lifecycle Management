@@ -11,8 +11,10 @@ The lifecycle generally includes:
 * Maintenance
 * Retirement and archival
 
+# Real-Life Example:
 For example, a healthcare application deployed in Azure may undergo multiple upgrades, security enhancements, performance optimizations, and compliance reviews throughout its lifetime before eventually being replaced by a newer platform.
 
+# Real-Life Use Case:
 A real-life use case is enterprise IT departments maintaining production workloads for several years while continuously improving performance and reliability.
 
 Managing the complete solution lifecycle ensures long-term sustainability and business value.
