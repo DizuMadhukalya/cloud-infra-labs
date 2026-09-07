@@ -11,8 +11,10 @@ A roadmap may include:
 * Incident response
 * Self-healing infrastructure
 
+# Real-Life Example:
 For example, administrators first automate virtual machine deployment before later implementing automated remediation for monitoring alerts.
 
+# Real-Life Use Case:
 A real-life use case is reducing manual operational effort while improving consistency across large Azure environments.
 
 Automation enables scalable cloud operations.
