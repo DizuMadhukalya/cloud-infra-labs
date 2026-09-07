@@ -9,8 +9,10 @@ Common automation opportunities include:
 * Patch management
 * Compliance reporting
 
+# Real-Life Example:
 For example, administrators automate the shutdown of development virtual machines outside working hours to reduce operational costs.
 
+# Real-Life Use Case:
 A real-life use case is enterprises using automation to manage thousands of Azure resources efficiently.
 
 Automation increases reliability while reducing operational complexity.
