@@ -11,8 +11,10 @@ The framework generally addresses:
 * Operational processes
 * Documentation standards
 
+# Real-Life Example:
 For example, an enterprise operating across multiple countries can implement a unified governance framework to ensure every Azure subscription follows identical security and operational standards.
 
+# Real-Life Use Case:
 A real-life use case is multinational organizations maintaining consistent governance despite having independent business units.
 
 A governance framework establishes operational consistency while reducing administrative complexity.
