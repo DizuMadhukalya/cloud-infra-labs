@@ -10,8 +10,10 @@ Planning considerations include:
 * Monitoring
 * Disaster recovery
 
+# Real-Life Example:
 For example, a payment processing platform deploys application servers across multiple Availability Zones and uses redundant databases to minimize downtime.
 
+# Real-Life Use Case:
 A real-life use case is online banking systems providing uninterrupted financial services throughout the year.
 
 Availability planning improves business continuity and customer satisfaction.
