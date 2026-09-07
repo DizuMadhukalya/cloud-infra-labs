@@ -18,8 +18,10 @@ Feedback sources include:
 * Security findings
 * Performance metrics
 
+# Real-Life Example:
 For example, repeated storage latency alerts may result in storage optimization or architecture improvements.
 
+# Real-Life Use Case:
 A real-life use case is cloud operations teams using monthly review meetings to prioritize infrastructure improvements.
 
 Continuous feedback drives operational excellence.
