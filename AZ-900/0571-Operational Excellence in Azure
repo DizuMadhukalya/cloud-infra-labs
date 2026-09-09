@@ -10,8 +10,10 @@ Important operational practices include:
 * Documentation
 * Performance reviews
 
+# Real-Life Example:
 For example, instead of manually creating the same infrastructure for every application, an organization can use reusable deployment templates to create standardized environments.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise managing hundreds of application environments where automation reduces deployment time and minimizes configuration errors.
 
 Operational excellence enables teams to deliver changes reliably while maintaining stable production environments.
