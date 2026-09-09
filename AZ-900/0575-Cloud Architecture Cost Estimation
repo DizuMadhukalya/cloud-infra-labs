@@ -12,8 +12,10 @@ An estimate should consider:
 * Redundancy
 * Expected workload growth
 
+# Real-Life Example:
 For example, a company planning an online store can estimate the cost of web servers, databases, storage, monitoring, and network traffic before approving the project.
 
+# Real-Life Use Case:
 A real-life use case is a business comparing two architectures where one provides higher redundancy but requires significantly more infrastructure.
 
 Early cost estimation helps organizations avoid unexpected expenditure and select an architecture that fits the available budget.
