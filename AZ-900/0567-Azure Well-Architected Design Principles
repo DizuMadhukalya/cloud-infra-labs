@@ -8,8 +8,10 @@ The major principles include:
 * Operational Excellence
 * Performance Efficiency
 
+# Real-Life Example:
 For example, an e-commerce application may use multiple Availability Zones for reliability, Microsoft Entra ID and RBAC for security, autoscaling for performance, and Azure cost management practices to control expenditure.
 
+# Real-Life Use Case:
 A real-life use case is a company reviewing an existing production application before a major seasonal sales event. The architecture team evaluates whether the workload can handle increased traffic while remaining secure, reliable, and cost-effective.
 
 Using these principles helps organizations build Azure workloads that are aligned with both technical requirements and business objectives.
