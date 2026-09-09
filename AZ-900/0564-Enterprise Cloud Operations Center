@@ -10,8 +10,10 @@ Typical responsibilities include:
 * Security coordination
 * Operational reporting
 
+# Real-Life Example:
 For example, enterprise operations centers monitor production Azure resources around the clock to detect issues before they impact customers.
 
+# Real-Life Use Case:
 A real-life use case is global organizations supporting business-critical applications across multiple time zones.
 
 Centralized operations improve consistency and accelerate incident resolution.
