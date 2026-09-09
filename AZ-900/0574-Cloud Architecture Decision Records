@@ -9,8 +9,10 @@ An ADR can document:
 * Expected consequences
 * Alternatives considered
 
+# Real-Life Example:
 For example, an architecture team may document why Azure SQL Database was selected instead of running SQL Server on virtual machines.
 
+# Real-Life Use Case:
 A real-life use case is a large enterprise where engineers change over time. ADRs prevent important architectural knowledge from being lost when members of the original design team leave.
 
 Decision records improve transparency, maintainability, and architectural consistency.
