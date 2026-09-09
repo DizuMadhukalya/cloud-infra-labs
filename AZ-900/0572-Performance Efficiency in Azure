@@ -10,8 +10,10 @@ Important considerations include:
 * Application optimization
 * Database performance
 
+# Real-Life Example:
 For example, an online learning platform may experience a significant increase in traffic during examination periods. Autoscaling can increase compute capacity during peak demand and reduce it afterward.
 
+# Real-Life Use Case:
 A real-life use case is a streaming service dynamically scaling infrastructure according to the number of active viewers.
 
 Performance efficiency helps organizations maintain responsive applications without permanently provisioning excessive infrastructure.
