@@ -10,8 +10,10 @@ Reliability can be improved through:
 * Backup and restore
 * Disaster recovery planning
 
+# Real-Life Example:
 For example, an online banking application can deploy application instances across multiple Availability Zones so that a failure affecting one zone does not necessarily make the entire application unavailable.
 
+# Real-Life Use Case:
 A real-life use case is a ticket-booking platform that must remain operational during periods of extremely high demand. Redundant infrastructure and automatic scaling can help maintain availability.
 
 Reliability planning should begin during architecture design rather than being added after deployment.
