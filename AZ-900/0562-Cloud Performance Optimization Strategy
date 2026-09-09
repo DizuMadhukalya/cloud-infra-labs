@@ -9,8 +9,10 @@ Optimization activities include:
 * Load balancing
 * Resource right-sizing
 
+# Real-Life Example:
 For example, administrators analyze application latency and optimize database queries before increasing virtual machine size.
 
+# Real-Life Use Case:
 A real-life use case is SaaS providers maintaining excellent user experience while controlling infrastructure costs.
 
 Performance optimization improves efficiency and customer satisfaction.
