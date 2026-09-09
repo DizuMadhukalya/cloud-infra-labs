@@ -9,8 +9,10 @@ Core principles include:
 * Capacity planning
 * Regular testing
 
+# Real-Life Example:
 For example, production applications should be deployed across multiple Availability Zones with automatic health monitoring and failover capabilities.
 
+# Real-Life Use Case:
 A real-life use case is airline booking platforms maintaining continuous service despite infrastructure failures.
 
 Reliability engineering minimizes downtime and improves customer confidence.
