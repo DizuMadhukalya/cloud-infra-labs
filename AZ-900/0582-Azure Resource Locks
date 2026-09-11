@@ -5,8 +5,10 @@ The two primary lock types are:
 * CanNotDelete: Prevents deletion while allowing modifications.
 * ReadOnly: Prevents modification and deletion.
 
+# Real-Life Example:
 For example, a production resource group containing critical infrastructure can have a CanNotDelete lock to prevent an administrator from accidentally deleting the environment.
 
+# Real-Life Use Case:
 A real-life use case is protecting production databases, storage accounts, or critical infrastructure from accidental administrative actions.
 
 Resource locks should be used carefully because they can also affect legitimate administrative operations and may need to be removed before certain resources can be changed or deleted.
