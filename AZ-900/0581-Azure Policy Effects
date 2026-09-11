@@ -11,8 +11,10 @@ Important policy effects include:
 
 An Audit policy can identify non-compliant resources without blocking deployment. A Deny policy can prevent non-compliant resources from being created. Modify and DeployIfNotExists can help automatically bring resources toward an organization's required configuration.
 
+# Real-Life Example:
 For example, an organization may initially use Audit to identify resources without required tags before switching to a stricter enforcement approach.
 
+# Real-Life Use Case:
 A real-life use case is a cloud governance team gradually introducing policies so that development teams can adapt before strict enforcement is enabled.
 
 Understanding policy effects is important for designing practical Azure governance.
