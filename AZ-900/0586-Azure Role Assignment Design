@@ -13,8 +13,10 @@ Common built-in roles include:
 * Reader
 * User Access Administrator
 
+# Real-Life Example:
 For example, an application support engineer may receive Contributor access to a specific resource group rather than Owner access to an entire subscription.
 
+# Real-Life Use Case:
 A real-life use case is a large IT department separating responsibilities between network administrators, application teams, security teams, and auditors.
 
 Careful role assignment design reduces unnecessary privileges while allowing employees to perform their required tasks.
