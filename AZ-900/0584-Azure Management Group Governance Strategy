@@ -12,8 +12,10 @@ Organizations can create management groups based on:
 * Geographic regions
 * Compliance requirements
 
+# Real-Life Example:
 For example, a company may place all production subscriptions under a Production management group and apply common security and compliance policies at that level.
 
+# Real-Life Use Case:
 A real-life use case is a multinational enterprise managing separate subscriptions for different countries while maintaining centralized governance.
 
 Management Groups provide an effective foundation for enterprise-scale Azure governance.
