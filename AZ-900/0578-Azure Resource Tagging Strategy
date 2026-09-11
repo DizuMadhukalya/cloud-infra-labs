@@ -9,8 +9,10 @@ Common tags include:
 * CostCenter: Internal billing reference
 * BusinessCriticality: High, Medium, Low
 
+# Real-Life Example:
 For example, an organization may tag all resources belonging to its customer portal with `Application=CustomerPortal` and `Environment=Production`.
 
+# Real-Life Use Case:
 A real-life use case is a company with hundreds of Azure resources using tags to determine which department owns each resource and how much each business unit is consuming.
 
 A consistent tagging strategy improves resource organization, cost analysis, automation, and governance.
