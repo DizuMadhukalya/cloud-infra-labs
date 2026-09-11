@@ -9,8 +9,10 @@ A naming standard may incorporate:
 * Region
 * Instance number
 
+# Real-Life Example:
 For example, a virtual machine might follow a pattern such as `prod-web-eastus-vm01`, where the name identifies its environment, workload, region, and instance.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise managing thousands of resources across development, testing, and production environments.
 
 Consistent naming reduces administrative confusion and makes scripts, monitoring queries, and operational documentation easier to maintain.
