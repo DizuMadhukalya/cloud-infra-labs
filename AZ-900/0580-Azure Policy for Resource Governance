@@ -9,8 +9,10 @@ Common policy scenarios include:
 * Enforcing security standards
 * Maintaining organizational compliance
 
+# Real-Life Example:
 For example, an organization operating only in approved geographic locations can create a policy that prevents resources from being deployed outside those regions.
 
+# Real-Life Use Case:
 A real-life use case is a regulated enterprise ensuring that all production resources follow predefined security and governance requirements.
 
 Azure Policy helps organizations maintain consistent governance at scale.
