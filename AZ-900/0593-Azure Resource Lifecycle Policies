@@ -9,8 +9,10 @@ Lifecycle stages commonly include:
 * Decommissioning
 * Data retention or deletion
 
+# Real-Life Example:
 For example, development environments created for short-term projects can be identified for automatic or scheduled cleanup after the project is completed.
 
+# Real-Life Use Case:
 A real-life use case is a software company managing temporary testing environments that would otherwise continue generating Azure charges after testing ends.
 
 Lifecycle policies improve cost efficiency and reduce unnecessary resource accumulation.
