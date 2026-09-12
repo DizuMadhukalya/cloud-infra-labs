@@ -10,8 +10,10 @@ An exception process should include:
 * Compensating controls
 * Periodic review
 
+# Real-Life Example:
 For example, an application may temporarily require deployment in a region that is normally restricted because a specific service dependency is available only there.
 
+# Real-Life Use Case:
 A real-life use case is a large enterprise allowing carefully approved exceptions without weakening governance standards for the rest of its environment.
 
 Controlled exceptions provide flexibility while preserving accountability and security.
