@@ -10,8 +10,10 @@ Development governance can include:
 * Appropriate RBAC permissions
 * Cleanup policies
 
+# Real-Life Example:
 For example, development virtual machines can be automatically shut down outside business hours to prevent unnecessary consumption.
 
+# Real-Life Use Case:
 A real-life use case is a software company giving developers flexibility to experiment while maintaining cost and security controls.
 
 Effective development governance enables innovation without allowing uncontrolled cloud consumption.
