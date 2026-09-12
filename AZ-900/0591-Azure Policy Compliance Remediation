@@ -9,8 +9,10 @@ Remediation can involve:
 * Updating resource properties
 * Requiring administrators to correct violations
 
+# Real-Life Example:
 For example, if a policy requires a specific tag on every storage account, remediation can help apply the required configuration to existing resources.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise discovering hundreds of previously deployed resources that do not meet newly introduced governance standards.
 
 Automated or controlled remediation reduces manual administrative effort and improves compliance consistency.
