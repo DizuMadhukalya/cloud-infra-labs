@@ -12,8 +12,10 @@ Production governance commonly includes:
 * Security controls
 * Approved deployment procedures
 
+# Real-Life Example:
 For example, access to a production database may be restricted to a small group of administrators while application teams receive only the permissions they require.
 
+# Real-Life Use Case:
 A real-life use case is a financial institution protecting business-critical applications from unauthorized changes.
 
 Strong production governance reduces operational risk while improving reliability and security.
