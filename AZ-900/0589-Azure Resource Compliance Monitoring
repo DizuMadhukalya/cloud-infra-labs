@@ -10,8 +10,10 @@ Compliance checks can include:
 * Encryption requirements
 * Naming standards
 
+# Real-Life Example:
 For example, an organization may require every production resource to contain an owner and cost-center tag. Resources missing these tags can be identified as non-compliant.
 
+# Real-Life Use Case:
 A real-life use case is a large enterprise using policy compliance reporting to identify governance gaps across hundreds of Azure subscriptions.
 
 Continuous compliance monitoring helps organizations maintain consistent governance as the Azure environment grows.
