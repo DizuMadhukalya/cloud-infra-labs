@@ -13,8 +13,10 @@ The model can include:
 * Monitoring
 * Compliance processes
 
+# Real-Life Example:
 For example, an organization beginning with two Azure subscriptions may use simple governance initially, then introduce additional management groups, policies, and subscription boundaries as adoption grows.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise migrating from a small cloud footprint to hundreds of subscriptions while maintaining centralized governance.
 
 A scalable governance model provides the structure required for secure, controlled, and sustainable Azure adoption.
