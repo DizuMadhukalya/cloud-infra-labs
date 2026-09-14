@@ -11,8 +11,10 @@ Important networking components include:
 * Private connectivity
 * Load balancing
 
+# Real-Life Example:
 For example, a three-tier application may place web servers in one subnet, application servers in another, and databases in a separate subnet with controlled communication between each layer.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise extending its existing datacenter into Azure while maintaining secure connectivity between on-premises applications and cloud workloads.
 
 A well-designed network foundation improves security, performance, scalability, and connectivity.
