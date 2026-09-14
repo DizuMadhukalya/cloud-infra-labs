@@ -10,8 +10,10 @@ An Azure identity architecture can include:
 * Conditional Access
 * Azure RBAC
 
+# Real-Life Example:
 For example, an application running on Azure can use a managed identity to access a storage account without storing a password or secret inside application code.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise implementing centralized identity management across hundreds of Azure applications and thousands of employees.
 
 A strong identity architecture supports Zero Trust and least-privilege principles while simplifying access management.
