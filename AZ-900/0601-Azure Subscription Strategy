@@ -10,8 +10,10 @@ Organizations may create subscriptions based on:
 * Regulatory requirements
 * Billing requirements
 
+# Real-Life Example:
 For example, a company may maintain separate subscriptions for Development, Test, and Production workloads so that permissions, budgets, and governance policies can be managed independently.
 
+# Real-Life Use Case:
 A real-life use case is a multinational enterprise using separate subscriptions for different business divisions while maintaining centralized governance through management groups.
 
 A well-designed subscription strategy improves isolation, accountability, cost management, and administrative control.
