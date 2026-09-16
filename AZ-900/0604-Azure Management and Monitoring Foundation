@@ -10,8 +10,10 @@ A management foundation can include:
 * Application monitoring
 * Operational dashboards
 
+# Real-Life Example:
 For example, an alert can notify an operations team when a production virtual machine experiences sustained high CPU utilization.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise operations team monitoring thousands of Azure resources and receiving alerts when workloads deviate from expected behavior.
 
 Centralized monitoring improves troubleshooting, reliability, and operational awareness.
