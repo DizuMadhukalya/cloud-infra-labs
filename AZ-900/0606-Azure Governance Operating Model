@@ -11,8 +11,10 @@ The model can define:
 * Exception handling
 * Operational reviews
 
+# Real-Life Example:
 For example, a central cloud governance team may define organization-wide policies while individual application teams remain responsible for their workloads.
 
+# Real-Life Use Case:
 A real-life use case is a large enterprise establishing a Cloud Center of Excellence that coordinates security, finance, infrastructure, and application teams.
 
 A governance operating model creates clear accountability without unnecessarily preventing application teams from working independently.
