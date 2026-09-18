@@ -13,8 +13,10 @@ A typical roadmap includes:
 9. Optimize workloads
 10. Modernize where appropriate
 
+# Real-Life Example:
 For example, an enterprise may first migrate a low-risk internal application to validate its networking, identity, monitoring, backup, and support processes before migrating business-critical systems.
 
+# Real-Life Use Case:
 A real-life use case is a traditional organization gradually moving hundreds of workloads from its datacenter to Azure while minimizing business disruption.
 
 A structured cloud adoption roadmap provides a controlled progression from initial Azure adoption to a mature, governed, optimized cloud environment.
