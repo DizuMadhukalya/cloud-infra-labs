@@ -13,8 +13,10 @@ Assessment areas include:
 * Cost planning
 * Migration strategy
 
+# Real-Life Example:
 For example, before migrating an on-premises application, an organization can identify its database dependencies, network requirements, authentication model, and recovery requirements.
 
+# Real-Life Use Case:
 A real-life use case is a company assessing hundreds of applications before deciding which workloads should be migrated, modernized, retained, or retired.
 
 Readiness assessments reduce migration surprises and improve cloud adoption planning.
