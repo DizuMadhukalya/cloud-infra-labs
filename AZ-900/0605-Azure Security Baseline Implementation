@@ -13,8 +13,10 @@ A baseline can include:
 * Security monitoring
 * Backup and recovery
 
+# Real-Life Example:
 For example, an organization can require all privileged administrator accounts to use MFA and all production workloads to follow predefined network security standards.
 
+# Real-Life Use Case:
 A real-life use case is a financial organization applying a common security baseline across multiple Azure subscriptions.
 
 Security baselines reduce configuration inconsistencies and establish a minimum acceptable security posture.
