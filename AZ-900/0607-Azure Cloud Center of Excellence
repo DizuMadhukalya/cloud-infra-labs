@@ -13,8 +13,10 @@ A CCoE may include specialists from:
 
 Its responsibilities can include creating standards, reviewing architectures, developing reusable patterns, educating teams, and promoting cost-effective cloud adoption.
 
+# Real-Life Example:
 For example, a CCoE can create a standardized Azure landing zone that application teams use when onboarding new workloads.
 
+# Real-Life Use Case:
 A real-life use case is a large organization transitioning from traditional datacenter infrastructure to Azure and needing centralized expertise to guide multiple teams.
 
 A CCoE accelerates cloud adoption while maintaining consistency and governance.
