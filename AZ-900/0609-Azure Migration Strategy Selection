@@ -10,8 +10,10 @@ Common migration approaches include:
 * Retire
 * Retain
 
+# Real-Life Example:
 For example, a legacy application that cannot easily be modified may initially be rehosted on Azure virtual machines, while another application may be modernized using Azure App Service or containers.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise evaluating hundreds of applications and selecting different migration approaches based on complexity, business value, and modernization potential.
 
 Choosing the appropriate strategy helps balance migration speed, cost, risk, and long-term cloud benefits.
