@@ -9,8 +9,10 @@ Migration waves can be organized according to:
 * Technical complexity
 * Risk level
 
+# Real-Life Example:
 For example, an organization may first migrate low-risk internal applications, followed by development environments, then customer-facing applications, and finally mission-critical systems.
 
+# Real-Life Use Case:
 A real-life use case is a multinational enterprise migrating hundreds of servers while maintaining business continuity throughout the project.
 
 Wave-based migration makes complex cloud adoption easier to control, test, monitor, and troubleshoot.
