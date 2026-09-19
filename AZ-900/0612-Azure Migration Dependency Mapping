@@ -10,8 +10,10 @@ A dependency map may identify:
 * Storage dependencies
 * Network ports and protocols
 
+# Real-Life Example:
 For example, an application server may depend on a database server, an internal DNS server, and an authentication service. Migrating only the application server without considering these dependencies could cause the application to fail.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise migrating a legacy application where several components communicate across an on-premises datacenter.
 
 Dependency mapping allows migration teams to move related components in the correct sequence and minimize downtime.
