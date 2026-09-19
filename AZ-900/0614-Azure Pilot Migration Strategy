@@ -11,8 +11,10 @@ A pilot can validate:
 * Security
 * Operational procedures
 
+# Real-Life Example:
 For example, an organization migrating 500 servers may first migrate five non-critical applications and monitor them for several weeks.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise discovering during the pilot that a legacy application requires a specific network configuration that was not identified during initial planning.
 
 Pilot migrations reduce project risk and allow migration teams to learn before moving business-critical workloads.
