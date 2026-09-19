@@ -13,8 +13,10 @@ Important assessment areas include:
 * Business criticality
 * Estimated Azure costs
 
+# Real-Life Example:
 For example, before migrating an on-premises payroll application, an organization can identify its database dependencies, required ports, authentication mechanisms, storage requirements, and expected resource consumption.
 
+# Real-Life Use Case:
 A real-life use case is a large enterprise assessing hundreds of servers before creating a phased Azure migration plan.
 
 A thorough assessment reduces migration surprises and helps organizations make informed architectural and financial decisions.
