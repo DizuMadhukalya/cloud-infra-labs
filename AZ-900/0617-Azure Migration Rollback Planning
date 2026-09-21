@@ -9,8 +9,10 @@ A rollback strategy may include:
 * Maintaining DNS or traffic-routing options
 * Establishing communication procedures
 
+# Real-Life Example:
 For example, if a migrated application experiences unexpected performance problems after production cutover, the organization may temporarily redirect users back to the original environment while the Azure deployment is investigated.
 
+# Real-Life Use Case:
 A real-life use case is a business-critical application where migration failure cannot be allowed to result in prolonged downtime.
 
 Rollback planning provides an additional layer of protection during high-risk migrations.
