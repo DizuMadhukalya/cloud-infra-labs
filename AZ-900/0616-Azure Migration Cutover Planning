@@ -11,8 +11,10 @@ A cutover plan may include:
 * Monitoring
 * Rollback procedures
 
+# Real-Life Example:
 For example, an organization may perform the final migration of a database during a scheduled maintenance window and then redirect application traffic to Azure.
 
+# Real-Life Use Case:
 A real-life use case is migrating a customer-facing application while limiting service interruption to a short maintenance period.
 
 A well-defined cutover plan ensures that migration teams know exactly what actions to perform and how to recover if something goes wrong.
