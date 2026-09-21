@@ -10,8 +10,10 @@ Hybrid operations may involve:
 * Shared monitoring
 * Hybrid application architectures
 
+# Real-Life Example:
 For example, an organization may keep a sensitive database in its datacenter while hosting the application layer in Azure.
 
+# Real-Life Use Case:
 A real-life use case is a manufacturing company maintaining factory systems on-premises while using Azure for analytics and centralized application services.
 
 Hybrid cloud operations provide flexibility while allowing organizations to modernize gradually.
