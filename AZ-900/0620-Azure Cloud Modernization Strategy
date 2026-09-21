@@ -8,8 +8,10 @@ Modernization approaches include:
 * Rebuilding
 * Replacing legacy systems
 
+# Real-Life Example:
 For example, a legacy application running on physical servers can initially be rehosted on Azure virtual machines. Later, components may be migrated to Azure App Service, containers, managed databases, or serverless services.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise gradually transforming a decades-old application into a modern cloud-native platform without attempting a complete rewrite immediately.
 
 Cloud modernization improves scalability, agility, maintainability, and long-term business value.
