@@ -11,8 +11,10 @@ Resource Graph can help identify:
 * Operating system information
 * Resource counts
 
+# Real-Life Example:
 For example, an administrator managing 50 subscriptions can query which virtual machines exist across the entire environment instead of manually opening each subscription.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise performing an infrastructure inventory before a security audit or migration project.
 
 Azure Resource Graph improves large-scale resource discovery and operational visibility.
