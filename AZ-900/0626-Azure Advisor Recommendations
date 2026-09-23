@@ -8,8 +8,10 @@ Advisor recommendations can highlight:
 * Performance optimization
 * Cost-saving opportunities
 
+# Real-Life Example:
 For example, Advisor may identify an underutilized virtual machine and recommend considering a smaller size to reduce unnecessary expenditure.
 
+# Real-Life Use Case:
 A real-life use case is a cloud operations team reviewing Advisor recommendations during a monthly optimization exercise.
 
 Azure Advisor helps administrators make informed improvements without having to manually inspect every resource configuration.
