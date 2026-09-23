@@ -10,8 +10,10 @@ An ARM template can define:
 * Security configurations
 * Dependencies between resources
 
+# Real-Life Example:
 For example, a company can create a template containing a virtual network, subnet, NSG, and virtual machine and use the same template to deploy consistent environments.
 
+# Real-Life Use Case:
 A real-life use case is a development team creating identical Development, Test, and Production infrastructure while changing only environment-specific parameters.
 
 ARM templates improve consistency, repeatability, and auditability of Azure deployments.
