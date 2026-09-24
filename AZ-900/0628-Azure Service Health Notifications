@@ -7,8 +7,10 @@ Organizations can configure notifications for relevant service events such as:
 * Health advisories
 * Security-related notifications
 
+# Real-Life Example:
 For example, an operations team can configure notifications so administrators receive information about a planned Azure maintenance event that could affect production resources.
 
+# Real-Life Use Case:
 A real-life use case is a 24/7 operations team preparing support staff and business stakeholders before an anticipated service event.
 
 Service Health notifications improve operational preparedness and communication.
