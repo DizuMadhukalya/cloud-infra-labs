@@ -8,8 +8,10 @@ Service Health information can help organizations:
 * Prepare for planned maintenance
 * Review health history
 
+# Real-Life Example:
 For example, if an Azure service experiences a regional incident, administrators can use Service Health information to determine whether their workloads may be affected.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise operations team investigating an application outage and first checking whether an Azure platform incident is responsible.
 
 Service Health helps distinguish between application-level problems and Azure platform issues.
