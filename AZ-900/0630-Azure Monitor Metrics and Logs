@@ -10,8 +10,10 @@ Metrics are numerical measurements collected at regular intervals, such as:
 
 Logs provide more detailed event and diagnostic information that can be queried and analyzed.
 
+# Real-Life Example:
 For example, an administrator may use CPU metrics to identify a performance spike and then examine logs to investigate what caused the increase.
 
+# Real-Life Use Case:
 A real-life use case is troubleshooting a production application where metrics reveal when the problem occurred while logs provide detailed information about the underlying events.
 
 Using metrics and logs together provides a more complete view of workload health.
