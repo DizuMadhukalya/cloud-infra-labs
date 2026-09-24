@@ -11,8 +11,10 @@ An alert configuration generally involves:
 
 Action groups define what happens when an alert is triggered, such as sending notifications or initiating an automated response.
 
+# Real-Life Example:
 For example, an administrator can configure an alert when a production virtual machine's CPU remains above 90% for a sustained period.
 
+# Real-Life Use Case:
 A real-life use case is an operations team receiving immediate notifications about performance problems before users report application failures.
 
 Alerts transform monitoring data into actionable operational responses.
