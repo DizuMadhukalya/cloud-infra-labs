@@ -9,8 +9,10 @@ Common KQL activities include:
 * Analyzing time ranges
 * Identifying trends
 
+# Real-Life Example:
 For example, an administrator can query logs to identify how many failed authentication attempts occurred during the previous 24 hours.
 
+# Real-Life Use Case:
 A real-life use case is a security or operations team investigating thousands of log entries to identify abnormal activity.
 
 KQL transforms large volumes of raw monitoring data into useful information that can support troubleshooting and security investigations.
