@@ -8,8 +8,10 @@ Availability testing can help identify:
 * Regional availability issues
 * Unexpected application failures
 
+# Real-Life Example:
 For example, a company operating an online shopping website can test the availability of its application and receive alerts when the site becomes inaccessible.
 
+# Real-Life Use Case:
 A real-life use case is a global organization monitoring a public application to determine whether customers in different geographic locations can access the service successfully.
 
 Availability monitoring provides proactive visibility into user-facing service health.
