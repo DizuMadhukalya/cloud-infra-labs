@@ -14,8 +14,10 @@ A practical troubleshooting sequence includes:
 9. Confirm that the service has recovered.
 10. Document the incident and resolution.
 
+# Real-Life Example:
 For example, if users cannot access a production web application, an administrator can first determine whether Azure is experiencing an incident, then inspect application health, network connectivity, authentication, and recent changes.
 
+# Real-Life Use Case:
 A real-life use case is a cloud support engineer responding to a production outage while minimizing unnecessary changes that could make the situation worse.
 
 A structured troubleshooting workflow improves incident resolution, reduces downtime, and creates reusable operational knowledge for future incidents.
