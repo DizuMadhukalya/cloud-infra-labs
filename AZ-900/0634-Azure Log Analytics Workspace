@@ -9,8 +9,10 @@ Log Analytics can help administrators investigate:
 * Performance problems
 * Configuration changes
 
+# Real-Life Example:
 For example, logs from multiple virtual machines can be collected into one workspace, allowing an administrator to search for authentication failures or application errors across the entire environment.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise operating hundreds of servers and using a centralized Log Analytics workspace instead of investigating each machine individually.
 
 Centralized log collection simplifies troubleshooting, monitoring, and operational analysis.
