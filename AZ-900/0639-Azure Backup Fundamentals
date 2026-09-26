@@ -9,8 +9,10 @@ Backup planning should consider:
 * Backup monitoring
 * Restore testing
 
+# Real-Life Example:
 For example, an organization can back up critical virtual machines according to an established schedule and retain recovery points according to business requirements.
 
+# Real-Life Use Case:
 A real-life use case is recovering a business application after an administrator accidentally deletes important files or a system becomes corrupted.
 
 Backup is an important component of business continuity because it provides a recovery mechanism when the original data or workload is no longer usable.
