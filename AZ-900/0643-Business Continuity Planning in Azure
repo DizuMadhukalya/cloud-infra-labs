@@ -12,8 +12,10 @@ A business continuity plan may include:
 * Recovery testing
 * Documented runbooks
 
+# Real-Life Example:
 For example, an online banking organization can identify payment processing as a critical service and design redundant infrastructure, backup, monitoring, and disaster recovery procedures around its required recovery objectives.
 
+# Real-Life Use Case:
 A real-life use case is a company maintaining operations during a datacenter outage, cyber incident, hardware failure, or other major disruption.
 
 Business continuity is broader than disaster recovery: disaster recovery is one component of the overall strategy, while business continuity considers people, processes, technology, communication, and recovery requirements together.
