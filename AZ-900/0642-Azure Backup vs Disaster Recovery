@@ -14,6 +14,8 @@ Key differences include:
 | Key consideration | Retention                 | RTO and RPO                                         |
 | Example           | Restore a deleted file    | Recover an application after infrastructure failure |
 
+# Real-Life Example:
 For example, a company may use backups to recover accidentally deleted records while using disaster recovery mechanisms to restore its application after a major datacenter outage.
 
+# Real-Life Use Case:
 A real-life use case is an enterprise combining both approaches to protect against everyday data loss as well as large-scale disasters.
